@@ -1,0 +1,230 @@
+﻿ID,Name,Caption,Rare,UI2
+1,Conner's Comm Device,"Conner's communication device,[ST:n ]dropped as he was on the run from[ST:n ]vicious indigens.",1,2383
+2,Windshield Glass,"A windshield from a military vehicle.[ST:n ]Now highly prized, as Earth-made[ST:n ]parts are quite rare.",2,2383
+3,Bobby's Watch,"A wristwatch owned by the young man[ST:n ]Pauline treated as a son. On the back is[ST:n ]written, \""Mother Pauline, protect me.\""",3,2383
+4,Gnarlbranch Sap,Sap produced by giant trees growing in[ST:n ]the depths of Noctilum. It has strong[ST:n ]growth-accelerating properties.,4,2383
+5,Legen-dar,A radar device for finding legendary[ST:n ]ancient Nopon artifacts. It can pick up[ST:n ]even the faintest traces of legendaryness.,5,2383
+6,Smelly Legen-dar,"A radar device for finding legendary[ST:n ]ancient Nopon artifacts. Having spent[ST:n ]time in an indigen's belly, it now boasts[ST:n ]an incredibly foul odor.",1,2383
+7,Slice of Bread,A piece of bread that the starving Moimoi[ST:n ]saved for his brother.,2,2383
+8,Deep Blue Gem,A stolen jewel that gives off a beautiful[ST:n ]deep blue sparkle. It seduces its bearer[ST:n ]with a precious charm.,3,2383
+9,Large Stuffed Lobster,A stuffed toy lobster that doubles as a[ST:n ]key to the Blood Lobster's lair.,5,2383
+10,Stuffed Lobster,A seemingly innocent soft toy that hides[ST:n ]a deadly bomb.,1,2383
+11,Meal Ticket,A coupon entitling the bearer to a free[ST:n ]meal at the diner. Received in exchange[ST:n ]for a bronze cinicula card.,1,2383
+12,Suid Bones,The bones of a suid. Received in exchange[ST:n ]for a bronze petramand card.,2,2383
+13,Ma-non Hunting Kit,"Hunting tools invented by Capsica.[ST:n ]Supposedly they're your \""best friend\"" in[ST:n ]the field, but it's unclear how to use them.",2,2383
+14,Bronze Blatta Card,A bronze Miralife Card with a picture of[ST:n ]a blatta.,2,2383
+15,Bronze Cinicula Card,A bronze Miralife Card with a picture of[ST:n ]a cinicula.,3,2383
+16,Bronze Petramand Card,A bronze Miralife Card with a picture of[ST:n ]a petramand.,3,2383
+17,Silver Simius Card,A silver Miralife Card with a picture of a[ST:n ]simius.,3,2383
+18,Silver Evello Card,A silver Miralife Card with a picture of[ST:n ]an evello.,4,2383
+19,Silver Xiphias Card,A silver Miralife Card with a picture of[ST:n ]a xiphias.,4,2383
+20,Silver Mortifole Card,A silver Miralife Card with a picture of[ST:n ]a mortifole.,4,2383
+21,Gold Nopopotamus Card,A gold Miralife Card with a picture of[ST:n ]a nopopotamus.,4,2383
+22,ITM_PRC022_Name,251,5,2383
+23,Natural Pearl,A natural Earth pearl that is highly prized[ST:n ]on Mira.,1,2383
+24,ITM_PRC024_Name,253,1,2383
+25,ITM_PRC025_Name,254,1,2383
+26,ITM_PRC026_Name,255,1,2383
+27,ITM_PRC027_Name,256,1,2383
+28,ITM_PRC028_Name,257,1,2383
+29,ITM_PRC029_Name,258,1,2383
+30,ITM_PRC030_Name,259,1,2383
+31,ITM_PRC031_Name,260,1,2383
+32,White Gold Ore,Fosdyke's only remaining white gold.,1,2383
+33,Briggs's Key,A key to a giant safe.,1,2383
+34,Fosdyke's Key,A key to a giant safe.,1,2383
+35,Moorehouse's Key,A key to a giant safe.,1,2383
+36,ITM_PRC036_Name,265,1,2383
+37,ITM_PRC037_Name,266,1,2383
+38,ITM_PRC038_Name,267,1,2383
+39,Quegga's Note,"A hastily scribbled note that is difficult to[ST:n ]make out. The visible portion reads:[ST:n ]\""I hid...for Thea in...Scabland Fortress[ST:n ]cave. Please...to Thea?\""",1,2383
+40,ITM_PRC040_Name,269,1,2383
+41,ITM_PRC041_Name,270,1,2383
+42,Keycard,A researcher's keycard that grants entry to[ST:n ]the Biahno water-purification plant.,1,2383
+43,ID Card,ITM_PRC043_Caption,1,2383
+44,ID Card,ITM_PRC044_Caption,1,2383
+45,ID Card,ITM_PRC045_Caption,1,2383
+46,ITM_PRC046_Name,275,1,2383
+47,Ajoa's ID card,"The ID card of the Miran hydrology team's[ST:n ]chief researcher, Ajoa. It grants access to[ST:n ]the water-purification plant.",1,2383
+48,ITM_PRC048_Name,277,1,2383
+49,ITM_PRC049_Name,278,1,2383
+50,ITM_PRC050_Name,279,1,2383
+51,Ice Cream Cake,An ice cream cake lusted after by Grette.,1,2383
+52,Malyteth's Bottle,"A bottle containing a sinister liquid.[ST:n ]Malyteth attempted to drink it all, but it[ST:n ]killed her soon as she put it to her lips.",1,2383
+53,ITM_PRC053_Name,282,1,2383
+54,ITM_PRC054_Name,283,1,2383
+55,Nopon Contract,A contract with Nopon caravan leaders[ST:n ]pertaining to a fireworks show.,1,2383
+56,ITM_PRC056_Name,285,1,2383
+57,Nopon Gemstone,A raw gem given as a test by the[ST:n ]Divine Nopopon.,1,2383
+58,ITM_PRC058_Name,287,1,2383
+59,ITM_PRC059_Name,288,1,2383
+60,ITM_PRC060_Name,289,1,2383
+61,Vi Sezha's Bracelet,"A silver bracelet made by Vi Sezha.[ST:n ]It is engraved with the names of Vi Sezha[ST:n ]and Ge Jewhe, and well as the words[ST:n ]\""Let us share this life together.\""",1,2383
+62,Ge Jewhe's Dagger,"An item that belonged to Ge Jewhe, who[ST:n ]fought as a proud Wrothian until her[ST:n ]dying breath. Inscribed with the line[ST:n ]\""I will protect Vi Sezha forever.\""",1,2383
+63,ITM_PRC063_Name,292,1,2383
+64,ITM_PRC064_Name,ITM_PRC064_Caption,1,2383
+65,Ringstone,A ring of hard rock just the right size to[ST:n ]fit a Prone female's finger. Its surface has[ST:n ]sharp thorns and looks like a hard object[ST:n ]such as a fang could be inserted.,1,2383
+66,ITM_PRC066_Name,295,1,2383
+67,ITM_PRC067_Name,ITM_PRC067_Caption,1,2383
+68,Zazazan's Package,A large package containing Zazazan's[ST:n ]prized possessions. Don't mess with it!,1,2383
+69,Hazardous Container,"A capsule received from Jeffrey.[ST:n ]Handle with care, as it contains[ST:n ]dangerous research materials.",1,2383
+70,Hazardous Fuel Cell,"A fuel cell received from Graham.[ST:n ]One should be cautious with this strange,[ST:n ]dangerous alien technology.",1,2383
+71,Nio's IOU,"This note reads: \""Nio hereby declare that[ST:n ]amount of 20,000 credits will be repaid[ST:n ]in full to friend. Sincerely, Nio. Meh!\""",1,2383
+72,Sapphire Ring,A tiny ring adorned with a shimmering[ST:n ]blue gemstone.,1,2383
+73,ITM_PRC073_Name,302,1,2383
+74,ITM_PRC074_Name,303,1,2383
+75,ITM_PRC075_Name,304,1,2383
+76,ITM_PRC076_Name,305,1,2383
+77,ITM_PRC077_Name,306,1,2383
+78,ITM_PRC078_Name,307,1,2383
+79,ITM_PRC079_Name,308,1,2383
+80,ITM_PRC080_Name,309,1,2383
+81,ITM_PRC081_Name,310,1,2383
+82,Lumenoa Leaf,"When an Orphean is having difficulty[ST:n ]communicating with his Ovah, taking this[ST:n ]herb can recover his ability to do so.",1,2383
+83,Gorkwa,"A cane-shaped, voltant-absorption device[ST:n ]used by the Zaruboggan.",1,2383
+84,Run'tonam's Right Arm,The right hand of a dismembered body.[ST:n ]Found in The Ruler of Fates's stomach.,1,2383
+85,ITM_PRC085_Name,314,1,2383
+86,ITM_PRC086_Name,315,1,2383
+87,Troylan's Gorkwa,A Zaruboggan voltant-absorption device[ST:n ]received from Lulladu.,1,2383
+88,ITM_PRC088_Name,317,1,2383
+89,ITM_PRC089_Name,318,1,2383
+90,White Whale Parts,"Parts salvaged from White Whale debris.[ST:n ]By analyzing where on the ship these[ST:n ]originated, BLADE HQ may be able to[ST:n ]calculate where the Lifehold fell on Mira.",1,2383
+91,ITM_PRC091_Name,320,1,2383
+92,ITM_PRC092_Name,321,1,2383
+93,ITM_PRC093_Name,322,1,2383
+94,Ian's ID Card,"The Biahno water-purification plant ID[ST:n ]card for Ian, team leader for the Miran[ST:n ]hydrology team. It grants access to all[ST:n ]on-site facilities.",1,2383
+95,Nalu's Present,A large quantity of bullet flies has been[ST:n ]added to this collection of White Whale[ST:n ]parts requested by Nalu.[ST:n ]Handle with care!,1,2383
+96,Dadapon's Sunglasses,Stylish sunglasses said to have been used[ST:n ]by Tatsu's father. Koko set them adrift[ST:n ]upon the sea with the wish that they might[ST:n ]reach the man who left them.,1,2383
+97,Dodonga Treaty,A letter that secures the friendship treaty[ST:n ]between the Dodonga Caravan and[ST:n ]New LA's provisional government.[ST:n ]Signed by Koko in huge handwriting.,1,2383
+98,Dorian Treaty,A letter that secures the friendship treaty[ST:n ]between the Dorian Caravan and NLA's[ST:n ]provisional government. Signed by Mujiji[ST:n ]in huge handwriting.,1,2383
+99,Wrothian Part,"A part from a Wrothian Skell, and an[ST:n ]invaluable resource for studying[ST:n ]Wrothian technology.",1,2383
+100,Med Kit,A medical kit designed by Jeffrey for when[ST:n ]humans return to their organic bodies.[ST:n ]Contains antibiotics that fight a variety[ST:n ]of Miran pathogens.,1,2383
+101,Internment Camp Key,A key to the Prone camp that houses[ST:n ]prisoners who were forced to work.,1,2383
+102,ITM_PRC102_Name,331,1,2383
+103,Skell License,The license granted to those who have[ST:n ]passed their Skell license test. It permits[ST:n ]the bearer to purchase and pilot Skells.,1,2383
+104,ITM_PRC104_Name,333,1,2383
+105,ITM_PRC105_Name,334,1,2383
+106,ITM_PRC106_Name,335,1,2383
+107,White Whale Parts,"Parts salvaged from White Whale debris.[ST:n ]By analyzing where on the ship these[ST:n ]originated, BLADE HQ may be able to[ST:n ]calculate where the Lifehold fell on Mira.[ST:n ]",1,2383
+108,L-002 Power Cable,"An ultra-high-voltage cable used on the[ST:n ]White Whale. Sturdy and capable of[ST:n ]surviving long voyages, it is still used in[ST:n ]various equipment and repairs in New LA.",1,2383
+109,Skell License Certificate,Conferred on successful candidates as they[ST:n ]pass each stage of the test. Those who[ST:n ]pass all eight stages should bring the[ST:n ]certificates to Walter to get their license.,1,2383
+110,ITM_PRC110_Name,339,1,2383
+111,ITM_PRC111_Name,340,1,2383
+112,ITM_PRC112_Name,341,1,2383
+113,ITM_PRC113_Name,342,1,2383
+114,Tissue Sample,A data box containing genetic information[ST:n ]for Earth animals.,1,2383
+115,Mia's Comm Device,A comm device dropped by Mia that[ST:n ]contains her saved pizza points.,1,2383
+116,Phosphorus-Tree Seed,The seed from a species of giant tree that[ST:n ]grows widely in Noctilum.,1,2383
+117,Container Key,A key to the prison where Mia is held.,1,2383
+118,ITM_PRC118_Name,347,1,2383
+119,ITM_PRC119_Name,348,1,2383
+120,ITM_PRC120_Name,349,1,2383
+121,Grenade Pizza,"A large pizza with a blast of salami and[ST:n ]cheese straight to the gut! The most[ST:n ]popular product at Army Pizza. This one[ST:n ]is for delivery, however—so hands off.",1,2383
+122,Frozen Pizza,"Pizza, the favorite food of the Ma-non.[ST:n ]But it's still frozen, so it's cold[ST:n ]and crunchy.",1,2383
+123,Ajiba's Key,A key to the watchtower where Oll[ST:n ]Valdileo is held captive.,1,2383
+124,Mujiba's Key,A key to the watchtower where Rada[ST:n ]Valdileo is held captive.,1,2383
+125,Dancer's Clothes,"Clothes of a passionate red hue that are[ST:n ]meant for Prone dancers. They were[ST:n ]designed by the late Quegga for his [ST:n ]love, Thea.",1,2383
+126,Crimson Tear,"A highly translucent, ruby-red jewel of[ST:n ]stunning beauty and scarcity. It's[ST:n ]undoubtedly worth a pretty credit.",1,2383
+127,ITM_PRC127_Name,356,1,2383
+128,ITM_PRC128_Name,357,1,2383
+129,ITM_PRC129_Name,358,1,2383
+130,ITM_PRC130_Name,359,1,2383
+131,ITM_PRC131_Name,360,1,2383
+132,ITM_PRC132_Name,361,1,2383
+133,ITM_PRC133_Name,362,1,2383
+134,ITM_PRC134_Name,363,1,2383
+135,New Weapon Blueprint,A blueprint for a new weapon being[ST:n ]developed by the Ganglion.,1,2383
+136,ITM_PRC136_Name,365,1,2383
+137,Summoning Goggles,Goggles that allow the wearer to see[ST:n ]Orphe smoke signals.,1,2383
+138,Senirapa Water,"Water with unique properties that is vital[ST:n ]for Orphean reproduction. On Mira, it is[ST:n ]a rare and precious commodity.",1,2383
+139,ITM_PRC139_Name,368,1,2383
+140,Zirtodiamond,"A diamond that sparkles with creepy light.[ST:n ]High levels of harmful toxins are[ST:n ]contained within, so extreme care is[ST:n ]required when handling.",1,2383
+141,Golbogga's Disk,"A hologram disk that contains the image[ST:n ]of Golbogga, the deity who supposedly[ST:n ]gave rise to the Zaruboggan.",1,2383
+142,ITM_PRC142_Name,371,1,2383
+143,Tykki Sap,A glossy black sap sought by Professor B.,1,2383
+144,ITM_PRC144_Name,ITM_PRC144_Caption,1,2383
+145,Gray Keycard,A keycard that lowers the barrier[ST:n ]surrounding Professor B.,1,2383
+146,Rectangular Chest,A strange rectangular box left behind by[ST:n ]the Mysteroids. An intriguing keyhole is[ST:n ]located on the rear.,1,2383
+147,ITM_PRC147_Name,376,1,2383
+148,ITM_PRC148_Name,377,1,2383
+149,ITM_PRC149_Name,378,1,2383
+150,ITM_PRC150_Name,379,1,2383
+151,ITM_PRC151_Name,380,1,2383
+152,ITM_PRC152_Name,381,1,2383
+153,Kuta's Cargo,Kuta the courier's cargo. It contains [ST:n ]extremely important articles he has been[ST:n ]tasked with looking after.,1,2383
+154,ITM_PRC154_Name,383,1,2383
+155,Aerozium,A crystalline material used in the creation[ST:n ]of extremely strong building materials.,1,2383
+156,Guardian Etherscale,"A scale from the Ruler of Fates.[ST:n ]It has an impressively mysterious aura,[ST:n ]and is used as an ingredient for a secret[ST:n ]Nopon herbal medicine.",1,2383
+157,ITM_PRC157_Name,386,1,2383
+158,ITM_PRC158_Name,387,1,2383
+159,ITM_PRC159_Name,388,1,2383
+160,ITM_PRC160_Name,389,1,2383
+161,ITM_PRC161_Name,390,1,2383
+162,ITM_PRC162_Name,391,1,2383
+163,Hilal Stronghold Key,A key to the Hilal Stronghold storeroom.,1,2383
+164,Mimeosome Left Arm,The left arm of Yelv's old friend.[ST:n ]A large cross-shaped scar tells of a[ST:n ]childhood injury.,1,2383
+165,L-002 Experimental Plant,A prototype electromagnetic wave[ST:n ]bombardment-type plant created on the[ST:n ]White Whale. It can grow foodstuffs with[ST:n ]no soil or water using only faint sunlight.,1,2383
+166,Reverend's Journal,A small data unit that contains a journal[ST:n ]recorded by Hope's adoptive father.,1,2383
+167,Flemtide,"A mineral that glows as red as flame.[ST:n ]It contains enormous levels of heat energy,[ST:n ]and is used in many places throughout[ST:n ]New LA.",1,2383
+168,Floatstone Shard,A shard of floatstone. Its levitating powers[ST:n ]are responsible for Mira's infamous[ST:n ]Floating Reef.,1,2383
+169,Blood-Soaked Beast Fur,Bloody fur from a beast that prowls the[ST:n ]Delusian Mountains.,1,2383
+170,Law's Pendant,A pendant that Law always kept with him.[ST:n ]The top appears to be a key.,1,2383
+171,Three Swords,Keepsake blades left by the three deceased[ST:n ]older brothers of Zo Zazhi. They were[ST:n ]used with honor until the very last to[ST:n ]protect Zo Zazhi.,1,2383
+172,Pearl Necklace,A keepsake pearl necklace from Hope's[ST:n ]father. Made using precious natural pearls[ST:n ]from back on Earth.,1,2383
+173,Data Unit FN093,A data unit that contains top-secret data.,1,2383
+174,Repair Kit,A duralumin case that contains a number[ST:n ]of materials required for repairing Skells.,1,2383
+175,Aganeba Alloy,A material refined by Aganeba.[ST:n ]It is used for repairing Skell armor plates.,1,2383
+176,Cockpit Wreckage,The wrecked cockpit unit of the Ganglion[ST:n ]weapon Zu Pharg. Rutantan has expressed[ST:n ]an interest in conducting further study on[ST:n ]the object.,1,2383
+177,Engine Wreckage,The wrecked engine block of the Ganglion[ST:n ]weapon Zu Pharg. Rutantan has expressed[ST:n ]an interest in conducting further study on[ST:n ]the object.,1,2383
+178,Zu Pharg Wreckage,Wreckage of the Ganglion weapon Zu[ST:n ]Pharg. Rutantan has expressed an interest[ST:n ]in conducting further study on the object.,1,2383
+179,Junk,"An object retrieved from the wreckage of[ST:n ]Zu Pharg. It appears to be a component[ST:n ]of some kind, but positive identification[ST:n ]is impossible given its current condition.",1,2383
+180,Data Unit FN094,A data unit that contains top-secret data.,1,2383
+181,Mimeosome Head,The head of Yelv's old friend.[ST:n ]Its scorched face is barely recognizable.,1,2383
+182,Mimeosome Torso,"The torso of Yelv's old friend. A tattoo[ST:n ]of the words \""The Immortal Heart\"" can[ST:n ]just be made out.",1,2383
+183,Mimeosome Left Leg,"The left leg of Yelv's old friend.[ST:n ]A tattoo of the words \""Go West\"" can[ST:n ]just be made out.",1,2383
+184,Mimeosome Right Leg,"The right leg of Yelv's old friend.[ST:n ]A tattoo with the words \""Go East\"" can[ST:n ]just be made out.",1,2383
+185,First Barrier Key,"When all three are collected, these keys[ST:n ]can lift the shield enclosing the Definian[ST:n ]hideout. Each is held by a different[ST:n ]guardian.",1,2383
+186,ITM_PRC186_Name,415,1,2383
+187,Cleansing Moss,A type of moss that can also act as a[ST:n ]cleaning agent.,1,2383
+188,Locket,A locket that contains a photograph of[ST:n ]parents left behind on Earth.,1,2383
+189,Star Sand,"A fine white sand found only in Sylvalum.[ST:n ]When a grain is seen under a microscope,[ST:n ]its star-like shape is revealed.",1,2383
+190,Violet Crystal,An ominously colored crystal.,1,2383
+191,Emerian Relic,A personal effect excavated from the[ST:n ]Emerian Battlegrounds.,1,2383
+192,Missing Drive,A drive dropped by a BLADE member.[ST:n ]It contains vital data.,1,2383
+193,Broken Data Probe,A data probe destroyed by Miran wildlife.[ST:n ]There is still a chance that it could be[ST:n ]repaired.,1,2383
+194,Heart Stone,"A heart-shaped pebble. Other than the[ST:n ]shape, there is nothing else remarkable[ST:n ]about it.",1,2383
+195,ITM_PRC195_Name,424,1,2383
+196,ITM_PRC196_Name,425,1,2383
+197,Mount M'gando Stone,A stone collected from the base of[ST:n ]Mount M'gando.,1,2383
+198,Jelly Weeds,"A sticky weed best avoided if possible.[ST:n ]It can, however, be ground down and[ST:n ]mixed with fruit juice to make a delicious[ST:n ]jelly—the color of which is truly hideous.",1,2383
+199,New-Weapon Remains,The remains of a prototype weapon[ST:n ]developed by Candid & Credible.,1,2383
+200,ITM_PRC200_Name,429,1,2383
+201,ITM_PRC201_Name,430,1,2383
+202,ITM_PRC202_Name,431,1,2383
+203,Sampling Bottle,A plastic container that holds water from[ST:n ]Biahno Lake. Its simple design suggests[ST:n ]a common drinking implement as opposed[ST:n ]to some manner of laboratory equipment.,1,2383
+204,Solar Starship Map,A data unit containing a space travel map[ST:n ]for the solar system. It was used after[ST:n ]leaving Earth while exiting the[ST:n ]solar system.,1,2383
+205,Hamburger,"Pauline's special triple-decker hamburger.[ST:n ]Perfect for the very hungry,[ST:n ]or the very brave.",1,2383
+206,Hot Dog,A hot and spicy hot dog from the[ST:n ]Sunshine Café.,1,2383
+207,Data Unit FN095,A data unit that contains top-secret data.,1,2383
+208,Data Unit FN096,A data unit that contains top-secret data.,1,2383
+209,Data Unit FN097,A data unit that contains top-secret data.,1,2383
+210,Practice Data Probe,"A practice data probe that even a clumsy[ST:n ]Wrothian could use. Its mining rate is[ST:n ]lower than that of regular types,[ST:n ]giving it little practical use.",1,2383
+211,Toxic Chemical Bomb,"A barbaric chemical weapon accidentally[ST:n ]created by Pfeffen. If detonated,[ST:n ]the effects would cover the entire area.[ST:n ]Needless to say, handle with care.",1,2383
+212,Med Kit,A Ganglion medical kit that helps fight[ST:n ]a whole host of deadly pathogens.[ST:n ]Its efficacy helps ensure the successful[ST:n ]invasion of pretty much any planet.,1,2383
+213,Noble Silk,"A precious thread extractable from the[ST:n ]noble arachnid. It reflects the surrounding[ST:n ]scenery when exposed to sunlight,[ST:n ]offering useful camouflage properties.",1,2383
+214,Data Unit FN098,A data unit that contains blueprints[ST:n ]for a next-generation FrontierNav.[ST:n ]Created by Kirsty's research colleagues.,1,2383
+215,Sword of Legendaryness,"A legendary sword left behind by ancient[ST:n ]Nopon. When the mysterious lettering on[ST:n ]the hilt lights up, it gives one the feeling[ST:n ]of being able to use special powers.",1,2383
+216,Unbreakable Sword,A superior blade forged by De Zing.[ST:n ]It is able to slice through any type of[ST:n ]armor without chipping or breaking.,1,2383
+217,Voltant,"A toxic substance powerful enough to eat[ST:n ]through the body of any mimeosome.[ST:n ]The Zaruboggan, on the other hand,[ST:n ]see it as a true delicacy.",1,2383
+218,Keycard,The keycard being sought by Yardley.[ST:n ]What it opens is unknown.,1,2383
+219,Troylan's Gorkwa,A wand-shaped device used by the[ST:n ]Zaruboggan for devoltanization.,1,2383
+220,Traditional Orphean Drug,"A compound created by Sun'barac.[ST:n ]Ingestion renders an individual unable to[ST:n ]respond to questions with anything but a[ST:n ]hearty \""yes.\""",1,2383
+221,Weapon Test Data,A memory chip from Gigio's busted Skell.[ST:n ]It contains valuable performance data[ST:n ]concerning the effectiveness of the latest[ST:n ]Sakuraba Industries weapons.,1,2383
+222,Second Barrier Key,"When all three are collected, these keys[ST:n ]can lift the shield enclosing the Definian[ST:n ]hideout. Held by three guardians...but the[ST:n ]guardian left this one just lying around.",1,2383
+223,Third Barrier Key,"When all three are collected, these keys[ST:n ]can lift the shield enclosing the Definian[ST:n ]hideout. Held by three guardians...but the[ST:n ]guardian left this one just lying around.",1,2383
+224,Phogrium,"This substance vaporizes when touched,[ST:n ]but crystallizes when high energy is[ST:n ]passed through it. Named by Frye.",1,2383
+225,Massive Ring Fragment,A fragment of one of the enormous rings[ST:n ]that tower over the landscape in Oblivia.[ST:n ]The complicated structure suggests that it[ST:n ]may be some kind of equipment.,1,2383
+226,Butte Ruin Fragments,Fragments from ancient ruins found in[ST:n ]Oblivia. The inscriptions carved upon[ST:n ]them remain a mystery.,1,2383
+227,North Coast Riddle Rock,"Fragments of a large, mysterious stone[ST:n ]found scattered throughout Oblivia.[ST:n ]This puzzling material shares the[ST:n ]properties of both metal and rock.",1,2383
+228,Communication Data,A memory chip that contains records of[ST:n ]communication between the White Whale[ST:n ]and other ships. It was recovered from a[ST:n ]Lifehold piece that fell in Sylvalum.,1,2383
+229,Medical Data,A memory chip that contains medical data[ST:n ]for a whole host of lifeforms. Recovered[ST:n ]from a Lifehold unit found in Cauldros.,1,2383
