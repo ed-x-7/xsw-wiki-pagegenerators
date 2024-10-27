@@ -1,0 +1,198 @@
+name {7}
+Sonde basique
+Sonde d'extraction
+Sonde de recherches
+Sonde de combat
+Sonde booster
+Sonde de stockage
+Sonde de copie
+Sonde basique
+Sonde d'extraction G1
+Sonde d'extraction G2
+Sonde d'extraction G3
+Sonde d'extraction G4
+Sonde d'extraction G5
+Sonde d'extraction G6
+Sonde d'extraction G7
+Sonde d'extraction G8
+Sonde d'extraction G9
+Sonde d'extraction G10
+ITM_BCN_MINE_011_name
+ITM_BCN_MINE_012_name
+ITM_BCN_MINE_013_name
+ITM_BCN_MINE_014_name
+ITM_BCN_MINE_015_name
+ITM_BCN_MINE_016_name
+ITM_BCN_MINE_017_name
+ITM_BCN_MINE_018_name
+ITM_BCN_MINE_019_name
+ITM_BCN_MINE_020_name
+ITM_BCN_MINE_021_name
+ITM_BCN_MINE_022_name
+ITM_BCN_MINE_023_name
+ITM_BCN_MINE_024_name
+ITM_BCN_MINE_025_name
+ITM_BCN_MINE_026_name
+ITM_BCN_MINE_027_name
+ITM_BCN_MINE_028_name
+ITM_BCN_MINE_029_name
+ITM_BCN_MINE_030_name
+Sonde de recherches G1
+Sonde de recherches G2
+Sonde de recherches G3
+Sonde de recherches G4
+Sonde de recherches G5
+Sonde de recherches G6
+ITM_BCN_TOUR_007_name
+ITM_BCN_TOUR_008_name
+ITM_BCN_TOUR_009_name
+ITM_BCN_TOUR_010_name
+ITM_BCN_TOUR_011_name
+ITM_BCN_TOUR_012_name
+ITM_BCN_TOUR_013_name
+ITM_BCN_TOUR_014_name
+ITM_BCN_TOUR_015_name
+ITM_BCN_TOUR_016_name
+ITM_BCN_TOUR_017_name
+ITM_BCN_TOUR_018_name
+ITM_BCN_TOUR_019_name
+ITM_BCN_TOUR_020_name
+ITM_BCN_TOUR_021_name
+Sonde booster G1
+Sonde booster G2
+ITM_BCN_RAISE_003_name
+ITM_BCN_RAISE_004_name
+ITM_BCN_RAISE_005_name
+ITM_BCN_RAISE_006_name
+Sonde de stockage
+ITM_BCN_STORAGE_002_name
+ITM_BCN_STORAGE_003_name
+ITM_BCN_STORAGE_004_name
+ITM_BCN_STORAGE_005_name
+ITM_BCN_STORAGE_006_name
+Sonde de copie
+Sonde récup. carburant
+Sonde attaque corps-à-c.
+Sonde attaque à distance
+Sonde handicap
+Sonde résistance
+ITM_BCN_BTL_006_name
+ITM_BCN_BTL_007_name
+ITM_BCN_BTL_008_name
+ITM_BCN_BTL_009_name
+ITM_BCN_BTL_010_name
+ITM_BCN_BTL_011_name
+ITM_BCN_BTL_012_name
+ITM_BCN_BTL_013_name
+ITM_BCN_BTL_014_name
+ITM_BCN_BTL_015_name
+ITM_BCN_BTL_016_name
+ITM_BCN_BTL_017_name
+ITM_BCN_BTL_018_name
+ITM_BCN_BTL_019_name
+ITM_BCN_BTL_020_name
+ITM_BCN_BTL_021_name
+ITM_BCN_BTL_022_name
+ITM_BCN_BTL_023_name
+ITM_BCN_BTL_024_name
+ITM_BCN_BTL_025_name
+ITM_BCN_BTL_026_name
+ITM_BCN_BTL_027_name
+ITM_BCN_BTL_028_name
+ITM_BCN_BTL_029_name
+ITM_BCN_BTL_030_name
+La première sonde installée à un[ST:n ]emplacement FrontierNav. Extrait des[ST:n ]ressources comme une sonde d'extraction[ST:n ]normale. Ne peut pas être liée en combo.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+Extrait des ressources et du miranium.[ST:n ]La quantité dépend de la puissance[ST:n ]de la sonde et du rendement de[ST:n ]l'emplacement FrontierNav.
+ITM_BCN_MINE_011_cap
+ITM_BCN_MINE_012_cap
+ITM_BCN_MINE_013_cap
+ITM_BCN_MINE_014_cap
+ITM_BCN_MINE_015_cap
+ITM_BCN_MINE_016_cap
+ITM_BCN_MINE_017_cap
+ITM_BCN_MINE_018_cap
+ITM_BCN_MINE_019_cap
+ITM_BCN_MINE_020_cap
+ITM_BCN_MINE_021_cap
+ITM_BCN_MINE_022_cap
+ITM_BCN_MINE_023_cap
+ITM_BCN_MINE_024_cap
+ITM_BCN_MINE_025_cap
+ITM_BCN_MINE_026_cap
+ITM_BCN_MINE_027_cap
+ITM_BCN_MINE_028_cap
+ITM_BCN_MINE_029_cap
+ITM_BCN_MINE_030_cap
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 2 000."
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 2 500."
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 3 000."
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 3 500."
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 4 000."
+"Génère de l'argent grâce aux sites[ST:n ]FrontierNav, aux territoires inexplorés[ST:n ]découverts et aux lieux à visiter.[ST:n ]Augmente les revenus de 4 500."
+ITM_BCN_TOUR_007_cap
+ITM_BCN_TOUR_008_cap
+ITM_BCN_TOUR_009_cap
+ITM_BCN_TOUR_010_cap
+ITM_BCN_TOUR_011_cap
+ITM_BCN_TOUR_012_cap
+ITM_BCN_TOUR_013_cap
+ITM_BCN_TOUR_014_cap
+ITM_BCN_TOUR_015_cap
+ITM_BCN_TOUR_016_cap
+ITM_BCN_TOUR_017_cap
+ITM_BCN_TOUR_018_cap
+ITM_BCN_TOUR_019_cap
+ITM_BCN_TOUR_020_cap
+ITM_BCN_TOUR_021_cap
+Améliore la puissance des sondes[ST:n ]qui lui sont liées.
+Améliore grandement la puissance[ST:n ]des sondes qui lui sont liées.
+ITM_BCN_RAISE_003_ca
+ITM_BCN_RAISE_004_ca
+ITM_BCN_RAISE_005_ca
+ITM_BCN_RAISE_006_ca
+"Augmente votre stockage maximum de[ST:n ]miranium de 3 000. Si plusieurs sondes[ST:n ]de stockage sont installées, leurs effets[ST:n ]se cumulent."
+ITM_BCN_STORAGE_002_
+ITM_BCN_STORAGE_003_
+ITM_BCN_STORAGE_004_
+ITM_BCN_STORAGE_005_
+ITM_BCN_STORAGE_006_
+Copie la fonction de toutes les sondes[ST:n ]adjacentes (sauf autre sonde de copie).[ST:n ]Un combo entre la sonde de copie[ST:n ]et la sonde copiée n'est pas possible.
+Booste la vitesse de récupération[ST:n ]de carburant pour tous les Skells garés[ST:n ]dans la région où la sonde est installée.
+Augmente la puissance des attaques[ST:n ]au corps-à-corps. S'applique à tout[ST:n ]le secteur où est installée la sonde.
+Augmente la puissance des attaques[ST:n ]à distance. S'applique à tout le secteur[ST:n ]où est installée la sonde.
+Réduit la résistance des ennemis[ST:n ]aux handicaps. S'applique à tout[ST:n ]le secteur où est installée la sonde.
+"Augmente toutes les propriétés défensives,[ST:n ]réduisant ainsi les dégâts reçus.[ST:n ]S'applique à tout le secteur où[ST:n ]est installée la sonde."
+ITM_BCN_BTL_006_cap
+ITM_BCN_BTL_007_cap
+ITM_BCN_BTL_008_cap
+ITM_BCN_BTL_009_cap
+ITM_BCN_BTL_010_cap
+ITM_BCN_BTL_011_cap
+ITM_BCN_BTL_012_cap
+ITM_BCN_BTL_013_cap
+ITM_BCN_BTL_014_cap
+ITM_BCN_BTL_015_cap
+ITM_BCN_BTL_016_cap
+ITM_BCN_BTL_017_cap
+ITM_BCN_BTL_018_cap
+ITM_BCN_BTL_019_cap
+ITM_BCN_BTL_020_cap
+ITM_BCN_BTL_021_cap
+ITM_BCN_BTL_022_cap
+ITM_BCN_BTL_023_cap
+ITM_BCN_BTL_024_cap
+ITM_BCN_BTL_025_cap
+ITM_BCN_BTL_026_cap
+ITM_BCN_BTL_027_cap
+ITM_BCN_BTL_028_cap
+ITM_BCN_BTL_029_cap
+ITM_BCN_BTL_030_cap

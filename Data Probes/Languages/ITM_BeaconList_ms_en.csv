@@ -1,0 +1,198 @@
+name {7}
+Basic Probe
+Mining Probe
+Research Probe
+Battle Probe
+Booster Probe
+Storage Probe
+Duplicator Probe
+Basic Probe
+Mining Probe G1
+Mining Probe G2
+Mining Probe G3
+Mining Probe G4
+Mining Probe G5
+Mining Probe G6
+Mining Probe G7
+Mining Probe G8
+Mining Probe G9
+Mining Probe G10
+ITM_BCN_MINE_011_name
+ITM_BCN_MINE_012_name
+ITM_BCN_MINE_013_name
+ITM_BCN_MINE_014_name
+ITM_BCN_MINE_015_name
+ITM_BCN_MINE_016_name
+ITM_BCN_MINE_017_name
+ITM_BCN_MINE_018_name
+ITM_BCN_MINE_019_name
+ITM_BCN_MINE_020_name
+ITM_BCN_MINE_021_name
+ITM_BCN_MINE_022_name
+ITM_BCN_MINE_023_name
+ITM_BCN_MINE_024_name
+ITM_BCN_MINE_025_name
+ITM_BCN_MINE_026_name
+ITM_BCN_MINE_027_name
+ITM_BCN_MINE_028_name
+ITM_BCN_MINE_029_name
+ITM_BCN_MINE_030_name
+Research Probe G1
+Research Probe G2
+Research Probe G3
+Research Probe G4
+Research Probe G5
+Research Probe G6
+ITM_BCN_TOUR_007_name
+ITM_BCN_TOUR_008_name
+ITM_BCN_TOUR_009_name
+ITM_BCN_TOUR_010_name
+ITM_BCN_TOUR_011_name
+ITM_BCN_TOUR_012_name
+ITM_BCN_TOUR_013_name
+ITM_BCN_TOUR_014_name
+ITM_BCN_TOUR_015_name
+ITM_BCN_TOUR_016_name
+ITM_BCN_TOUR_017_name
+ITM_BCN_TOUR_018_name
+ITM_BCN_TOUR_019_name
+ITM_BCN_TOUR_020_name
+ITM_BCN_TOUR_021_name
+Booster Probe G1
+Booster Probe G2
+ITM_BCN_RAISE_003_name
+ITM_BCN_RAISE_004_name
+ITM_BCN_RAISE_005_name
+ITM_BCN_RAISE_006_name
+Storage Probe
+ITM_BCN_STORAGE_002_name
+ITM_BCN_STORAGE_003_name
+ITM_BCN_STORAGE_004_name
+ITM_BCN_STORAGE_005_name
+ITM_BCN_STORAGE_006_name
+Duplicator Probe
+Fuel Recovery Probe
+Melee Attack Probe
+Ranged Attack Probe
+EZ Debuff Probe
+Attribute Resistance Probe
+ITM_BCN_BTL_006_name
+ITM_BCN_BTL_007_name
+ITM_BCN_BTL_008_name
+ITM_BCN_BTL_009_name
+ITM_BCN_BTL_010_name
+ITM_BCN_BTL_011_name
+ITM_BCN_BTL_012_name
+ITM_BCN_BTL_013_name
+ITM_BCN_BTL_014_name
+ITM_BCN_BTL_015_name
+ITM_BCN_BTL_016_name
+ITM_BCN_BTL_017_name
+ITM_BCN_BTL_018_name
+ITM_BCN_BTL_019_name
+ITM_BCN_BTL_020_name
+ITM_BCN_BTL_021_name
+ITM_BCN_BTL_022_name
+ITM_BCN_BTL_023_name
+ITM_BCN_BTL_024_name
+ITM_BCN_BTL_025_name
+ITM_BCN_BTL_026_name
+ITM_BCN_BTL_027_name
+ITM_BCN_BTL_028_name
+ITM_BCN_BTL_029_name
+ITM_BCN_BTL_030_name
+The first data probe model to be installed[ST:n ]at a FrontierNav probe site. Mines[ST:n ]precious resources in the same way as[ST:n ]a mining probe. Cannot be linked to[ST:n ]combo with other probes.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+Mines precious resources and miranium.[ST:n ]The amount mined depends on both the[ST:n ]grade of the probe and the output of the[ST:n ]FrontierNav probe site.
+ITM_BCN_MINE_011_cap
+ITM_BCN_MINE_012_cap
+ITM_BCN_MINE_013_cap
+ITM_BCN_MINE_014_cap
+ITM_BCN_MINE_015_cap
+ITM_BCN_MINE_016_cap
+ITM_BCN_MINE_017_cap
+ITM_BCN_MINE_018_cap
+ITM_BCN_MINE_019_cap
+ITM_BCN_MINE_020_cap
+ITM_BCN_MINE_021_cap
+ITM_BCN_MINE_022_cap
+ITM_BCN_MINE_023_cap
+ITM_BCN_MINE_024_cap
+ITM_BCN_MINE_025_cap
+ITM_BCN_MINE_026_cap
+ITM_BCN_MINE_027_cap
+ITM_BCN_MINE_028_cap
+ITM_BCN_MINE_029_cap
+ITM_BCN_MINE_030_cap
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 2,000 credits each."
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 2,500 credits each."
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 3,000 credits each."
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 3,500 credits each."
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 4,000 credits each."
+"Generates revenue from FrontierNav sites[ST:n ]and from locally discovered unexplored[ST:n ]territories and scenic viewpoints (also[ST:n ]known as sightseeing spots), which[ST:n ]increase income by 4,500 credits each."
+ITM_BCN_TOUR_007_cap
+ITM_BCN_TOUR_008_cap
+ITM_BCN_TOUR_009_cap
+ITM_BCN_TOUR_010_cap
+ITM_BCN_TOUR_011_cap
+ITM_BCN_TOUR_012_cap
+ITM_BCN_TOUR_013_cap
+ITM_BCN_TOUR_014_cap
+ITM_BCN_TOUR_015_cap
+ITM_BCN_TOUR_016_cap
+ITM_BCN_TOUR_017_cap
+ITM_BCN_TOUR_018_cap
+ITM_BCN_TOUR_019_cap
+ITM_BCN_TOUR_020_cap
+ITM_BCN_TOUR_021_cap
+Enhances the primary function of adjacent[ST:n ]data probes.
+Greatly enhances the primary function of[ST:n ]adjacent data probes.
+ITM_BCN_RAISE_003_ca
+ITM_BCN_RAISE_004_ca
+ITM_BCN_RAISE_005_ca
+ITM_BCN_RAISE_006_ca
+"Increases maximum miranium by[ST:n ]3,000 units. If multiple storage probes[ST:n ]are placed, their effects will be added[ST:n ]together."
+ITM_BCN_STORAGE_002_
+ITM_BCN_STORAGE_003_
+ITM_BCN_STORAGE_004_
+ITM_BCN_STORAGE_005_
+ITM_BCN_STORAGE_006_
+Copies the function of all adjacent data[ST:n ]probes (except other duplicator probes).[ST:n ]Combos cannot form between duplicator[ST:n ]probes and copied probes.
+Boosts fuel recovery for parked Skells.[ST:n ]Effective throughout the entire region in[ST:n ]which the probe is installed.
+Boosts melee attack power in battle.[ST:n ]Effective throughout the entire region in[ST:n ]which the probe is installed.
+Boosts ranged attack power in battle.[ST:n ]Effective throughout the entire region in[ST:n ]which the probe is installed.
+Reduces enemy debuff resistance in battle.[ST:n ]Effective throughout the entire region in[ST:n ]which the probe is installed.
+"Boosts all attribute resistances, thus[ST:n ]lowering damage sustained. Effective[ST:n ]throughout the entire region in which[ST:n ]the probe is installed."
+ITM_BCN_BTL_006_cap
+ITM_BCN_BTL_007_cap
+ITM_BCN_BTL_008_cap
+ITM_BCN_BTL_009_cap
+ITM_BCN_BTL_010_cap
+ITM_BCN_BTL_011_cap
+ITM_BCN_BTL_012_cap
+ITM_BCN_BTL_013_cap
+ITM_BCN_BTL_014_cap
+ITM_BCN_BTL_015_cap
+ITM_BCN_BTL_016_cap
+ITM_BCN_BTL_017_cap
+ITM_BCN_BTL_018_cap
+ITM_BCN_BTL_019_cap
+ITM_BCN_BTL_020_cap
+ITM_BCN_BTL_021_cap
+ITM_BCN_BTL_022_cap
+ITM_BCN_BTL_023_cap
+ITM_BCN_BTL_024_cap
+ITM_BCN_BTL_025_cap
+ITM_BCN_BTL_026_cap
+ITM_BCN_BTL_027_cap
+ITM_BCN_BTL_028_cap
+ITM_BCN_BTL_029_cap
+ITM_BCN_BTL_030_cap
