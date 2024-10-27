@@ -74,7 +74,7 @@ def location_infobox(location_id, location_details, skiptravel_details, fnet_det
             key = "skiptravel_name"
             print(toWrite)
             infobox += "|" + key + "=" + get_details_by_ID(lang_details, int(toWrite))['name'] + "\n"
-        elif key == "loc_name":
+        elif key == "Loc_type":
             if toWrite == "":
                 toWrite = "0"
             infobox += "|skiptravel_" + key + "=" + toWrite + "\n"
