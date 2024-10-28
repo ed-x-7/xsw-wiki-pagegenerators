@@ -214,9 +214,9 @@ with open("locations/result.txt","w", encoding="utf-8") as outputFile:
         if int(fnet_id) != 0:
             fnet_details = get_details_by_ID(fnet_dict, fnet_id)
         article_title = location_name
-        #if location_name.startswith("AMR_"):
-        #    print("unused location "+str(location_id)+", skipping")
-        #    continue
+        if location_name.startswith("camp"): # unused camps
+            print("unused location "+str(location_id)+", skipping")
+            continue
 
         print(location_name_id)
 
@@ -253,7 +253,12 @@ with open("locations/result.txt","w", encoding="utf-8") as outputFile:
         fullText += other_languages(language_detail_list, clb_linenumber) + "\n"
         fullText += "\n"
 
-        # infobox
+        # SECTION FOR GALLERY
+        gallery_delimiter = "==Gallery==\n"
+        fullText += gallery_delimiter
+        fullText += "{{image needed}}\n\n"
+
+        # SECTION FOR INFOBOX
         fullText += navbox(skiptravel_details) + "\n"
 
         outputFile.write("{{-start-}}\n")
