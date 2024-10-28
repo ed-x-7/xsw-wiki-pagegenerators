@@ -227,9 +227,14 @@ with open("locations/result.txt","w", encoding="utf-8") as outputFile:
 
         fullText += summary(location_name, location_details, skiptravel_details, fnet_details) + "\n\n"
 
-        # SECTION FOR ENEMIES 
-        sources_delimiter = "==Enemies==\n"
-        fullText += sources_delimiter
+        # SECTION FOR ENEMIES OR NPCs
+        zoneID = int(skiptravel_details["zone_id"])
+        if zoneID in [3, 10, 13, 14, 15, 16]:
+            npc_delimiter = "==NPCs==\n"
+            fullText += npc_delimiter
+        else:
+            enemies_delimiter = "==Enemies==\n"
+            fullText += enemies_delimiter
 
         # Need to fill this in manually, set as incomplete.
         fullText += "{{incomplete}}\n\n"
