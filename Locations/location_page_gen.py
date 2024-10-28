@@ -117,7 +117,7 @@ def summary(location_name, location_details, skiptravel_details, fnet_details):
     location_type = "unknown"
     match loc_type:
         case 1:
-            location_type = "a {{XCX|Landmark}}"
+            location_type = "a {{XCX|landmark}}"
         case 2:
             location_type = "an [[Unexplored Territory]]"
         case 3:
@@ -126,7 +126,7 @@ def summary(location_name, location_details, skiptravel_details, fnet_details):
             if prio == 5:
                 location_type = "a [[Base Camp]]"
             else:
-                location_type = "a {{XCX|Location}}"
+                location_type = "a {{XCX|location}}"
         case 5:
             location_type = "a [[FrontierNav Site]]"
 
