@@ -126,7 +126,7 @@ def summary(location_name, location_details, skiptravel_details, fnet_details):
             if prio == 5:
                 location_type = "a [[Base Camp]]"
             else:
-                location_type = "a {{XCX|location}}"
+                location_type = "an {{XCX|area}}"
         case 5:
             location_type = "a [[FrontierNav Site]]"
 
