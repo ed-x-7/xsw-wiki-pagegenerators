@@ -214,7 +214,17 @@ with open("locations/result.txt","w", encoding="utf-8") as outputFile:
         if int(fnet_id) != 0:
             fnet_details = get_details_by_ID(fnet_dict, fnet_id)
         article_title = location_name
+        if article_title in ["Lifehold Core"]: # distinguish from region
+            article_title += " (area)"
+        if article_title in ["BLADE Barracks"]: # distinguish from region
+            article_title += " (landmark)"
+        if article_title in ["Cathedral", "Cleansing Spring", "Hangar"]: # distinguish from areas in other Xenoblade games
+            article_title += " (XCX)"
+
         if location_name.startswith("camp"): # unused camps
+            print("unused location "+str(location_id)+", skipping")
+            continue
+        if location_name.startswith("fld_"): # Case of Old Ceremonial Hollow
             print("unused location "+str(location_id)+", skipping")
             continue
 
