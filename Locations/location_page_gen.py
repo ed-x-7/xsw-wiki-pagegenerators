@@ -99,7 +99,7 @@ def location_infobox(location_id, location_details, skiptravel_details, fnet_det
                 key = "connection" + str(index)
             if key.startswith("sight["):
                 index = int(key[-2]) + 1
-                key = "connection" + str(index)
+                key = "sight" + str(index)
             if toWrite == "":
                 toWrite = "0"
             infobox += "|fnet_" + key + "=" + toWrite + "\n"
