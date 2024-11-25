@@ -38,7 +38,7 @@ def csv_to_dict(file_name, bitfield_sections = []):
             row_num = row_num + 1
     return a
 
-def skell_weapon_navbox(all_weapon_ids, all_maker_lvs, weapon_details, rsc_details, weapon_name, drop_id, drop_itemtype):
+def skell_weapon_navbox(all_weapon_ids, all_maker_lvs, all_slotnum, weapon_details, rsc_details, weapon_name, drop_id, drop_itemtype):
     # Add details from weapon
     head = "{{Infobox XCX Skell weapon\n"
     navbox = head
@@ -61,6 +61,13 @@ def skell_weapon_navbox(all_weapon_ids, all_maker_lvs, weapon_details, rsc_detai
                 if one_weapon:
                     key = "MakerLv"
                 navbox += "|" + key + "=" + all_maker_lvs[i] + "\n"
+        elif key == "SlotNum":
+            for i in range(len(all_slotnum)):
+                val = i+1
+                key = "SlotNum_{d}".format(d=val)
+                if one_weapon:
+                    key = "SlotNum"
+                navbox += "|" + key + "=" + all_slotnum[i] + "\n"
         else:
             if key.startswith("Affix["):
                 index = int(key[-2]) + 1
@@ -109,8 +116,31 @@ def summary(weapon_name, weapon_details):
         BackL = True
 
     weapon_series = weapon_name.split()[-1]
+    weapon_am = int(weapon_details["MakerID"])
 
-    return "'''{name}''' is {mount} [[Skell weapon]] in ''[[Xenoblade Chronicles X]]'' as part of the [[{series}]] series of weapons.".format(name=weapon_name, mount=mounting, series=weapon_series)
+    return "'''{name}''' is {mount} [[Skell weapon]] in ''[[Xenoblade Chronicles X]]'' as part of the [[{series}]] of weapons.".format(name=weapon_name, mount=mounting, series=series_link(weapon_series, weapon_am))
+
+def series_link(series_name, weapon_am):
+    actual_name = series_name
+    suffix = ""
+    possible_suffix = ""
+    match weapon_am:
+        case 1:
+            possible_suffix = "Sakuraba"
+        case 2:
+            possible_suffix = "Grenada"
+        case 3:
+            possible_suffix = "Meredith"
+        case 5:
+            possible_suffix = "Six Stars"
+        case 6:
+            possible_suffix = "Orphean"
+        case _:
+            possible_suffix = "Other"
+    if actual_name in ["L-Cannon", "B-Rifle", "Firegun", "B-Gatling", "M-Missile", "S-Missile", "L-Missile", "F-Wave"]:
+        suffix = " ({sfx})".format(sfx=possible_suffix)
+
+    return actual_name + " Series" + suffix
 
 def augments(drop_details, silver_augment_details, gold_augment_details): 
     augs = "{{XCX Skell weapon Augments\n"
@@ -217,7 +247,7 @@ blueprint_names = csv_to_dict(blueprint_name_table)
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
 with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
-    for weapon_id_int in [2673,2679,2754]:
+    for weapon_id_int in range(1,2829):
         weapon_id = str(weapon_id_int)
         weapon_name_id = get_details_by_ID(wpn_dict, weapon_id)['Name']
         weapon_name = get_details_by_ID(language_detail_list[0], weapon_name_id)['name']
@@ -251,6 +281,7 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
 
         all_weapon_ids = [weapon['ID'] for weapon in all_weapon_details]
         all_maker_lvs = [weapon['MakerLv'] for weapon in all_weapon_details]        
+        all_slotnum = [weapon['SlotNum'] for weapon in all_weapon_details]        
 
         main_weapon_details = all_weapon_details[-1]
 
@@ -265,7 +296,7 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
         rsc_details = get_details_by_ID(rsc_dict, main_weapon_details["RBodyRscID"])
 
         # Populate the page.
-        infobox_weapon = skell_weapon_navbox(all_weapon_ids, all_maker_lvs, main_weapon_details, rsc_details, weapon_name, drop_id, drop_itemtype)
+        infobox_weapon = skell_weapon_navbox(all_weapon_ids, all_maker_lvs, all_slotnum, main_weapon_details, rsc_details, weapon_name, drop_id, drop_itemtype)
         #print(infobox_weapon)
 
         fullText = infobox_weapon + "\n\n"
