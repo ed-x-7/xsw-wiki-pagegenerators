@@ -97,15 +97,15 @@ def summary(weapon_name, weapon_details):
     # Describe the summary of the weapon.
 
     match int(weapon_details["TypeWpn"]):
-        case 1: 
+        case 1:
             mounting = "a back-mounted"
-        case 2: 
+        case 2:
             mounting = "a shoulder-mounted"
-        case 3: 
+        case 3:
             mounting = "an arm-mounted"
-        case 4: 
+        case 4:
             mounting = "a sidearm"
-        case 5: 
+        case 5:
             mounting = "a spare"
         case _:
             mounting = "an unknown"
@@ -142,7 +142,7 @@ def series_link(series_name, weapon_am):
 
     return actual_name + " Series" + suffix
 
-def augments(drop_details, silver_augment_details, gold_augment_details): 
+def augments(drop_details, silver_augment_details, gold_augment_details):
     augs = "{{XCX Skell weapon Augments\n"
     for key in drop_details.keys():
         toWrite = drop_details[key]
@@ -266,24 +266,29 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
             all_weapon_details = [get_details_by_ID(wpn_dict, weapon_id)]
             weapon_type = all_weapon_details[0]["TypeWpn"]
             match int(weapon_type):
-                case 1: 
+                case 1:
                     article_title += " (Back)"
-                case 2: 
+                case 2:
                     article_title += " (Shoulder)"
-                case 3: 
+                case 3:
                     article_title += " (Arm)"
-                case 4: 
+                case 4:
                     article_title += " (Sidearm)"
-                case 5: 
+                case 5:
                     article_title += " (Spare)"
                 case _:
-                    article_title += " (Mystery)"                    
+                    article_title += " (Mystery)"
 
         all_weapon_ids = [weapon['ID'] for weapon in all_weapon_details]
-        all_maker_lvs = [weapon['MakerLv'] for weapon in all_weapon_details]        
-        all_slotnum = [weapon['SlotNum'] for weapon in all_weapon_details]        
+        all_maker_lvs = [weapon['MakerLv'] for weapon in all_weapon_details]
+        all_slotnum = [weapon['SlotNum'] for weapon in all_weapon_details]
 
         main_weapon_details = all_weapon_details[-1]
+
+        # Used to avoid duplicates.
+        if weapon_id != main_weapon_details['ID']:
+            print("skipping "+str(weapon_id)+", will set up later")
+            continue
 
         drop_details = next((q for q in item_dict if (q["ItemID"] == main_weapon_details["ID"] and q["ItemType"] in ["15","16","17","18","19"])), None)
         if drop_details is not None:
@@ -297,7 +302,6 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
 
         # Populate the page.
         infobox_weapon = skell_weapon_navbox(all_weapon_ids, all_maker_lvs, all_slotnum, main_weapon_details, rsc_details, weapon_name, drop_id, drop_itemtype)
-        #print(infobox_weapon)
 
         fullText = infobox_weapon + "\n\n"
 
@@ -311,13 +315,13 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
 
             fullText += augments(drop_details, silver_details, gold_details) + "\n\n"
 
-        # SECTION FOR SOURCES 
+        # SECTION FOR SOURCES
         sources_delimiter = "==Sources==\n"
         fullText += sources_delimiter
 
         # Check if has blueprints
         blueprint_details = next((q for q in blueprint_dict if q["itemID"] == main_weapon_details["ID"] and q["category"] in ["15","16","17","18","19"]), None)
-         
+
         # Check if it is dropped by enemies, and return the columns.
         enemy_columns = []
         col_nums = []
