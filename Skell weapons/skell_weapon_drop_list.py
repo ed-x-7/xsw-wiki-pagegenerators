@@ -49,86 +49,34 @@ with open("Pools/result.txt","w", encoding="utf-8") as outputFile:
                 case 1:
                     drop = "silver"
                     weapon_list = csv_nth_column(dlwpntable_silver, p)[1:]
-        # INTRO SECTION
-        fullText = summary(pool_num, drop) + "\n"
+            # INTRO SECTION
+            fullText = summary(pool_num, drop) + "\n"
 
-        # LEVELS SECTION
-        for tier in range(2,7):
-            minLevel = (10*tier)+1
-            maxLevel = 10*(tier+1)
-            if tier == 2:
-                minLevel = 1
-            if tier == 6:
-                maxLevel = 99
-            fullText += "==Levels {0}-{1}==\n".format(minLevel, maxLevel)
+            # LEVELS SECTION
+            for tier in range(2,7):
+                minLevel = (10*tier)+1
+                maxLevel = 10*(tier+1)
+                if tier == 2:
+                    minLevel = 1
+                if tier == 6:
+                    maxLevel = 99
+                fullText += "==Levels {0}-{1}==\n".format(minLevel, maxLevel)
 
-            weapon_by_level = weapon_list[10*tier:10*tier+10]
-            fullText += weapon_list_section(weapon_by_level) + "\n"
-            fullText += "{{fake header|Enemies|3}}" + "\n"
-            if d == 0:
-                fullText += enemy_list_gold(pool_num, minLevel, maxLevel) + "\n\n"
-            if d == 1:
-                fullText += enemy_list_silver(pool_num, minLevel, maxLevel) + "\n\n"
+                weapon_by_level = weapon_list[10*tier:10*tier+10]
+                fullText += weapon_list_section(weapon_by_level) + "\n"
+                fullText += "{{fake header|Enemies|3}}" + "\n"
+                if d == 0:
+                    fullText += enemy_list_gold(pool_num, minLevel, maxLevel) + "\n\n"
+                if d == 1:
+                    fullText += enemy_list_silver(pool_num, minLevel, maxLevel) + "\n\n"
 
-        fullText += final_navbox() + "\n"
+            fullText += final_navbox() + "\n"
 
-        article_title = "List of Skell weapon drops ({drop})/{pool}".format(drop=drop, pool=pool_num)
+            article_title = "List of Skell weapon drops ({drop})/{pool}".format(drop=drop, pool=pool_num)
 
-        outputFile.write("{{-start-}}\n")
-        outputFile.write("'''"+article_title+"'''\n")
-        outputFile.write(fullText)
-        outputFile.write("{{-stop-}}\n")
-
-print("done")
-'''
-pool_num = int(sys.argv[1])
-drop_type = int(sys.argv[2])
-drop = ""
-match drop_type:
-    case 1:
-        drop = "gold"
-    case 2:
-        drop = "silver"
-    case _:
-        drop = "gold"
-
-# Init list
-internal_pool_num = pool_num - 1;
-weapon_list = csv_nth_column(dlwpntable_gold, internal_pool_num)[1:]
-weapon_list_silver = csv_nth_column(dlwpntable_silver, internal_pool_num)[1:]
-
-# INTRO SECTION
-fullText = summary(pool_num, drop) + "\n\n"
-
-# LEVELS SECTION
-for tier in range(2,7):
-    minLevel = (10*tier)+1
-    maxLevel = 10*(tier+1)
-    if tier == 2:
-        minLevel = 1
-    if tier == 6:
-        maxLevel = 99
-    fullText += "==Levels {0}-{1}==\n".format(minLevel, maxLevel)
-
-
-    if drop_type == 1:
-        weapon_by_level = weapon_list[10*tier:10*tier+10]
-
-        fullText += weapon_list_section(weapon_by_level) + "\n"
-        fullText += "{{fake header|Enemies|3}}" + "\n"
-        fullText += enemy_list_gold(pool_num, minLevel, maxLevel) + "\n\n"
-    if drop_type == 2:
-        weapon_by_level = weapon_list_silver[10*tier:10*tier+10]
-
-        fullText += weapon_list_section(weapon_by_level) + "\n"
-        fullText += "{{fake header|Enemies|3}}" + "\n"
-        fullText += enemy_list_silver(pool_num, minLevel, maxLevel) + "\n\n"
-
-fullText += final_navbox()
-
-outputFile=open("Pools/pool_{0}_{1}.txt".format(pool_num, drop),"w", encoding="utf-8")
-outputFile.write(fullText)
-outputFile.close()
+            outputFile.write("{{-start-}}\n")
+            outputFile.write("'''"+article_title+"'''\n")
+            outputFile.write(fullText)
+            outputFile.write("{{-stop-}}\n")
 
 print("done")
-'''

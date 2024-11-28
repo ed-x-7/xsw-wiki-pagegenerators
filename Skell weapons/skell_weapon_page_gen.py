@@ -115,14 +115,26 @@ def summary(weapon_name, weapon_details):
     if (int(weapon_details["Hanger"]) >> 2) % 2 == 0:
         BackL = True
 
-    weapon_series = weapon_name.split()[-1]
-    weapon_am = int(weapon_details["MakerID"])
+    if weapon_name == "Busted Skell Weapon":
+        return "'''{name}''' is {mount} [[Skell weapon]] in ''[[Xenoblade Chronicles X]]''. This weapon only spawns if an enemy's intended drop is from an [[Arms Manufacturer]] not unlocked yet.".format(name=weapon_name, mount=mounting)
+    else:
+        weapon_series = get_weapon_series(weapon_name)
+        weapon_am = int(weapon_details["MakerID"])
+        return "'''{name}''' is {mount} [[Skell weapon]] in ''[[Xenoblade Chronicles X]]'' as part of the [[{series}]] of weapons.".format(name=weapon_name, mount=mounting, series=series_link(weapon_series, weapon_am))
 
-    return "'''{name}''' is {mount} [[Skell weapon]] in ''[[Xenoblade Chronicles X]]'' as part of the [[{series}]] of weapons.".format(name=weapon_name, mount=mounting, series=series_link(weapon_series, weapon_am))
+def get_weapon_series(weapon_name):
+    finding = re.search(r'(S.M|ARES)-(X*[MR]X?|U?SP|DW)[0-9]+(SA|ME|GG|LA|GA|XX)? (.*)', weapon_name)
+    base_name = finding.group(4)
+    check_x = r'([MB])-X*Sniper'
+    name_check = re.search(check_x, base_name)
+    if name_check is not None:
+        return name_check.group(1) + "-Sniper"
+    return base_name
 
 def series_link(series_name, weapon_am):
     actual_name = series_name
     suffix = ""
+    skell_suffix = "Skell"
     possible_suffix = ""
     match weapon_am:
         case 1:
@@ -137,6 +149,9 @@ def series_link(series_name, weapon_am):
             possible_suffix = "Orphean"
         case _:
             possible_suffix = "Other"
+
+    if actual_name in ["Sword", "Shield"]:
+        suffix = " ({sfx})".format(sfx="Skell")
     if actual_name in ["L-Cannon", "B-Rifle", "Firegun", "B-Gatling", "M-Missile", "S-Missile", "L-Missile", "F-Wave"]:
         suffix = " ({sfx})".format(sfx=possible_suffix)
 
@@ -247,6 +262,7 @@ blueprint_names = csv_to_dict(blueprint_name_table)
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
 with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
+    # for weapon_id_int in range(320,321):
     for weapon_id_int in range(1,2829):
         weapon_id = str(weapon_id_int)
         weapon_name_id = get_details_by_ID(wpn_dict, weapon_id)['Name']
@@ -279,11 +295,19 @@ with open("SkellWeapons/result.txt","w", encoding="utf-8") as outputFile:
                 case _:
                     article_title += " (Mystery)"
 
+        # These are a special case.
+        if weapon_id_int in range(320,328):
+            all_weapon_details = [get_details_by_ID(wpn_dict, weapon_id)]
+            rare = int(all_weapon_details[0]['Rare'])
+            if rare == 1:
+                article_title += " (silver)"
+            else:
+                article_title += " (gold)"
+        main_weapon_details = all_weapon_details[-1]
+
         all_weapon_ids = [weapon['ID'] for weapon in all_weapon_details]
         all_maker_lvs = [weapon['MakerLv'] for weapon in all_weapon_details]
         all_slotnum = [weapon['SlotNum'] for weapon in all_weapon_details]
-
-        main_weapon_details = all_weapon_details[-1]
 
         # Used to avoid duplicates.
         if weapon_id != main_weapon_details['ID']:
