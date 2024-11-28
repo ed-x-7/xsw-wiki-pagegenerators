@@ -1,7 +1,3 @@
-# Copy the files below from https://xenobladedata.github.io/xbx/bdat/index.html
-# Then paste them into an Excel or other spreadsheet editor 
-# Delete the "Referenced By" column and the "Return to BDAT index" row and then save as CSV
-
 import csv
 import sys
 
