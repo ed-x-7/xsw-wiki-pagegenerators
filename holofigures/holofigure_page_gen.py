@@ -120,6 +120,10 @@ with open("holofigures/result.txt","w", encoding="utf-8") as outputFile:
             article_title = article_title + " (holofigure)"
             for_text ="{{for|the holofigure|the weapon series|"+ holofigure_name + "}}\n"
 
+        # Other disambiguations needed due to shared name
+        if holofigure_name in ["Legendary Nopopopopon", "White Whale", "The Blood Lobster", "Sword of Legendaryness", "Factory 1.21"]:
+            article_title = article_title + " (holofigure)"
+
         print(holofigure_name_id)
 
         # Populate the page.
