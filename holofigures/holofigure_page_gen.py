@@ -115,6 +115,11 @@ with open("holofigures/result.txt","w", encoding="utf-8") as outputFile:
             print("unused holofigure "+str(holofigure_id)+", skipping")
             continue
 
+        for_text = ""
+        if holofigure_name.endswith("Series"):
+            article_title = article_title + " (holofigure)"
+            for_text ="{{for|the holofigure|the weapon series|"+ holofigure_name + "}}\n"
+
         print(holofigure_name_id)
 
         # Populate the page.
@@ -122,6 +127,8 @@ with open("holofigures/result.txt","w", encoding="utf-8") as outputFile:
 
         fullText = infobox_holofigure + "\n\n"
 
+        # For text at beginning
+        fullText += for_text
         fullText += summary(holofigure_name) + "\n\n"
 
         # SECTION FOR SOURCES 
