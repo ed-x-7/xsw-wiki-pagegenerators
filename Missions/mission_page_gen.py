@@ -6,6 +6,7 @@ import re
 fld_questlist = "fld_questlist.csv"
 fld_questtask = "fld_questtask.csv"
 quest_itemset = "quest_itemset.csv"
+chr_enlist = "chr_enlist_ms.csv"
 multilanguage_base = "Languages/quest_ms_{lng}.csv"
 languages = ["en", "jp", "fr", "de", "es", "it"]
 
@@ -32,6 +33,15 @@ def csv_to_dict(file_name, bitfield_sections = [], first_row = 1):
             row_num += 1
     return a
 
+def csv_to_list(file_name):
+    a = []
+    with open(file_name, encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f, skipinitialspace=True):
+            for k, v in row.items():
+                a.append(v)
+    return a
+
+
 def get_details_by_ID(search_dict, id, idx="ID"):
     return next((q for q in search_dict if isinstance(q, dict) and q[idx] == str(id)), None)
 
@@ -49,7 +59,7 @@ def split_questlist(quest_details):
     return (mission_dict,objective_dict)
 
 # Returns an article title.
-def mission_name_disambig(mission_name, mission_details):
+def mission_name_disambig(mission_name, mission_details, enemy_list):
     base_name = mission_name
     mission_id_int = int(mission_details["ID"])
     # Other game confusion
@@ -61,6 +71,232 @@ def mission_name_disambig(mission_name, mission_details):
         suffix = " (XCX)"
     elif base_name in shared_article:
         suffix = " (mission)"
+
+    # Handle enemy names
+    if base_name in enemy_list:
+        suffix = " (mission)"
+
+    match mission_id_int: # Basic missions
+        case 1825: # Adsecula Extermination
+            suffix = " (Shadow)"
+        case 1921:
+            suffix = " (Sparrow)"
+        case 1707: # Arms Testers Wanted
+            suffix = " (Titanium Knife II)"
+        case 1767:
+            suffix = " (Soldier Avagar)"
+        case 1813:
+            suffix = " (Warrior Dual Guns)"
+        case 1841:
+            suffix = " (Warrior Raygun)"
+        case 1897:
+            suffix = " (Chrome Shield)"
+        case 2015:
+            suffix = " (Ophidian Psylans)"
+        case 2089:
+            suffix = " (Chromoly Parce)"
+        case 2111:
+            suffix = " (Cermet Slair)"
+        case 2151:
+            suffix = " (Cermet Blades)"
+        case 2217:
+            suffix = " (Carbide Saber)"
+        case 2233:
+            suffix = " (Delta Retic)"
+        case 2259:
+            suffix = " (Delta Machine)"
+        case 2361: # Backup Request
+            suffix = " (Bozé)"
+        case 2367: # Backup Request
+            suffix = " (Phog)"
+        case 1731: # Blatta Splatter
+            suffix = " (Zeppelin)"
+        case 1753: 
+            suffix = " (Rust)"
+        case 1871: # Culling Caecuses
+            suffix = " (Thug)"
+        case 2037:
+            suffix = " (Villainous)"
+        case 1787: # Fending Off Forfexes
+            suffix = " (Cobalt)"
+        case 2145:
+            suffix = " (Native)"
+        case 1735: # From Idea to Inventory
+            suffix = " (Opaque Mirror)"
+        case 1797:
+            suffix = " (Beryl Aetrygon Horn)"
+        case 1857:
+            suffix = " (Aprica Back Moss)"
+        case 2021:
+            suffix = " (Fine Aprica Wood)"
+        case 2079: 
+            suffix = " (Ornate Progen Horn)"
+        case 2219:
+            suffix = " (Lucky Cervus Sapling)"
+        case 1745: # Germivores No More
+            suffix = " (Echo)"
+        case 2137:
+            suffix = " (Terrible)"
+        case 1955: # Ictus Infestation
+            suffix = " (Inferno)"
+        case 2107:
+            suffix = " (Warlord)"
+        case 2277:
+            suffix = " (Hermit)"
+        case 1727: # Indigen Investigation
+            suffix = " (Golden Mortifole Feather)"
+        case 1783:
+            suffix = " (Saltat Horn)"
+        case 1903:
+            suffix = " (Moving Thallus Tail)"
+        case 2009:
+            suffix = " (Slimy Tongue)"
+        case 2185:
+            suffix = " (Muscled Simius Bulge)"
+        case 1931: # Laying Lophids Low
+            suffix = " (Blazing)"
+        case 1949:
+            suffix = " (Ocean)"
+        case 1873: # Marnuck Masher
+            suffix = " (Aspirer)"
+        case 1937: 
+            suffix = " (Soldier)"
+        case 1701: # Miranium Request
+            suffix = " (700 units)"
+        case 1737:
+            suffix = " (1,200 units)"
+        case 1761:
+            suffix = " (1,800 units)"
+        case 1821:
+            suffix = " (2,400 units)"
+        case 1881:
+            suffix = " (3,600 units)"
+        case 1941:
+            suffix = " (4,000 units)"
+        case 2061:
+            suffix = " (5,700 units)"
+        case 2121:
+            suffix = " (9,300 units)"
+        case 2181:
+            suffix = " (7,000 units)"
+        case 2241:
+            suffix = " (12,000 units)"
+        case 1721: # Mortifole Mulching
+            suffix = " (Lake)"
+        case 2127:
+            suffix = " (Pit)"
+        case 1741:
+            suffix = " (White)"
+        case 1827:
+            suffix = " (Docile)"
+        case 1851:
+            suffix = " (Prowler)"
+        case 1801: # Papil Punisher
+            suffix = " (Sorcerer)"
+        case 2007:
+            suffix = " (Lake)"
+        case 1743: # Partners in Prototyping
+            suffix = " (Glowing Retina)"
+        case 1779:
+            suffix = " (Blue Forfex Shell)"
+        case 1899:
+            suffix = " (Insidia Mohawk)"
+        case 1925:
+            suffix = " (Vivohast Crescent Hook)"
+        case 2031:
+            suffix = " (Adsecula Oil Drop)"
+        case 2197:
+            suffix = " (Ingrown Virago Claw)"
+        case 2245:
+            suffix = " (Thick Cinicula Horn)"
+        case 2275:
+            suffix = " (Quality Vigent Claw)"
+        case 2457: # This one should be skipped since no rewards and duplicate.
+            suffix = " (Blue Forfex Shell)"
+        case 2269: # Petramand Patrol
+            suffix = " (Malium)"
+        case 2289:
+            suffix = " (Terbium)"
+        case 2071: # Plucking Auravises
+            suffix = " (Reaver)"
+        case 2265:
+            suffix = " (Tempest)"
+        case 1811: # Pounding Puges
+            suffix = " (Porter)"
+        case 1981:
+            suffix = " (Knight)"
+        case 1747: # Reclaiming the Whale
+            suffix = " (Cordless Transformer)"
+        case 1785:
+            suffix = " (Gesture Glove)"
+        case 2155:
+            suffix = " (5th Gen Recycler)"
+        case 2029: # Ridding Insidias
+            suffix = " (Javelin)"
+        case 2075:
+            suffix = " (Vermilion)"
+        case 1717: # Search Request
+            suffix = " (Primordia)"
+        case 2001:
+            suffix = " (Oblivia)"
+        case 2099:
+            suffix = " (Sylvalum)"
+        case 2139:
+            suffix = " (Noctilum)"
+        case 2299:
+            suffix = " (Cauldros)"
+        case 1781: # Squashing Scirpos
+            suffix = " (Amrita)"
+        case 1951:
+            suffix = " (Jade)"
+        case 2251:
+            suffix = " (Native)"
+        case 1705: # Suid Sweep
+            suffix = " (Brass)"
+        case 1895:
+            suffix = " (Forest)"
+        case 1957: # Sundering Saltats
+            suffix = " (Jocular)"
+        case 2125:
+            suffix = " (Viridian)"
+        case 1803: # The Jewelmonger
+            suffix = " (Giant Blue Pearl)"
+        case 2065:
+            suffix = " (Lepyx Sunstone)"
+        case 2149:
+            suffix = " (Gremlin Stone)"
+        case 2293:
+            suffix = " (Hidden Cantor Hoard)"
+        case 1723: # The Next Big Thing
+            suffix = " (Scirpo Silk)"
+        case 1815:
+            suffix = " (Petramand Black Silk)"
+        case 1863:
+            suffix = " (Shimmering Silk)"
+        case 1933:
+            suffix = " (Alluring Lophid Extract)"
+        case 2257:
+            suffix = " (Distilled Sap)"
+        case 1791: # Thinning the Thalluses
+            suffix = " (Recluse)"
+        case 2077:
+            suffix = " (False)"
+        case 2243: # Top-Secret Mission
+            suffix = " (Julius)"
+        case 2447:
+            suffix = " (Stella)"
+        case 2453:
+            suffix = " (Lara Mara)"
+        case 1475: # Blitzkrieg
+            suffix = " (Frye)"
+        case 1479:
+            suffix = " (Phog)"
+        case 1646: # don't use this one
+            suffix = " (Frye)"
+        case 1018: # Definian Love
+            suffix = " (female Lyvia)"
+        case 1023:
+            suffix = " (male Lyvia)"
 
     # Special case: New Orders
     if base_name == "New Orders":
@@ -107,9 +343,6 @@ def mission_name_disambig(mission_name, mission_details):
                 suffix = " (mechanical)"
             case 2358:
                 suffix = " (biological)"
-
-    # Check if the name is shared with the massive list of enemies
-
 
     return mission_name + suffix
 
@@ -283,7 +516,6 @@ def result(text_id, quest_text):
     return "''" + caption_scrub(get_details_by_ID(quest_text, int(text_id))["name"]) + "''"
 
 def result_text(mission_details, two_results, quest_text):
-    
     if two_results:
         text_id_a = mission_details["result_text_a"]
         text_id_b = mission_details["result_text_b"]
@@ -339,6 +571,7 @@ def other_languages(language_detail_list, clb_linenumber):
 quest_dict = csv_to_dict(fld_questlist)
 objective_dict = csv_to_dict(fld_questtask)
 itemset_dict = csv_to_dict(quest_itemset)
+enemy_list = csv_to_list(chr_enlist)
 all_language_files = map(lambda lang: multilanguage_base.format(lng=lang), languages)
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
@@ -355,14 +588,19 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
             mission_name = get_details_by_ID(language_detail_list[0], mission_name_id)['name']
 
             # Check for name clash
-            article_title = mission_name_disambig(mission_name, mission_dict)
-
+            article_title = mission_name_disambig(mission_name, mission_dict, enemy_list)
             print(article_title)
 
             # Populate the page.
             infobox_mission = mission_infobox(mission_id, mission_dict, mission_name,language_detail_list[0])
 
-            fullText = infobox_mission + "\n\n"
+            fullText = infobox_mission + "\n"
+
+            # Handle Tyrant "for" section
+            if mission_name in enemy_list:
+                fullText += "{{for|the [[Basic Mission]]|the [[Tyrant]]|"+mission_name+"}}" + "\n"
+            else:
+                fullText += "\n"
 
             fullText += summary(mission_name, mission_dict) + "\n\n"
 
@@ -376,8 +614,18 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
             fullText += "\n\n"
 
             # SECTION FOR DIALOGUE (for Affinity/Normal Missions only)
-            dialogue_delimiter = "==Dialogue==\n"
-            fullText += dialogue_delimiter + "{{incomplete}}" + "\n\n" # Do this manually later
+            mis_type = int(mission_dict["category"])
+            mission_type = "unknown"
+            match mis_type:
+                case 1: # Story
+                    dialogue_delimiter = "==Dialogue==\n"
+                    fullText += dialogue_delimiter + "{{main|Script of Xenoblade Chronicles X/" + mission_name + "}}" + "\n\n" # Do this manually later
+                case 2: # Normal
+                    dialogue_delimiter = "==Dialogue==\n"
+                    fullText += dialogue_delimiter + "{{main|"+article_title+"/Script}}" + "\n\n" # Do this manually later
+                case 3: # Affinity
+                    dialogue_delimiter = "==Dialogue==\n"
+                    fullText += dialogue_delimiter + "{{main|"+article_title+"/Script}}" + "\n\n" # Do this manually later
 
             # SECTION FOR REWARDS
             rewards_delimiter = "==Rewards==\n"
@@ -407,12 +655,13 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
             fullText += other_languages_delimiter
 
             fullText += other_languages(language_detail_list, clb_linenumber) + "\n"
-            fullText += "\n"
 
-            # SECTION FOR GALLERY
-            gallery_delimiter = "==Gallery==\n"
-            fullText += gallery_delimiter
-            fullText += "{{image needed}}\n\n"
+            # SECTION FOR GALLERY (only for non-Basic Missions)
+            if mis_type != 4:
+                fullText += "\n"
+                gallery_delimiter = "==Gallery==\n"
+                fullText += gallery_delimiter
+                fullText += "{{image needed}}\n"
 
             outputFile.write("{{-start-}}\n")
             outputFile.write("'''"+article_title+"'''\n")
