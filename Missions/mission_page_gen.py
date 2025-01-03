@@ -289,20 +289,7 @@ def mission_name_disambig(mission_name, mission_details, enemy_list):
             suffix = " (Stella)"
         case 2453:
             suffix = " (Lara Mara)"
-        case 1475: # Blitzkrieg
-            suffix = " (Frye)"
-        case 1479:
-            suffix = " (Phog)"
-        case 1646: # don't use this one
-            suffix = " (Frye)"
-        case 1018: # Definian Love
-            suffix = " (female Lyvia)"
-        case 1023:
-            suffix = " (male Lyvia)"
-        case 142: # Mayhem
-            suffix = " (Redwood Aprica Antlers first)"
-        case 1637: # Mayhem
-            suffix = " (Magical Finding Rods first)"
+
     # Special case: New Orders
     if base_name == "New Orders":
         # Need to figure out which chapter was started.
