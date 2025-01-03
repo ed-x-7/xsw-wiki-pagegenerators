@@ -67,6 +67,8 @@ def mission_name_disambig(mission_name, mission_details, enemy_list):
     shared_article = ["Miranium", "Skell License", "Flight Module", "Dodonga Caravan", "Dorian Caravan", "Yelv's Partner"]
 
     suffix = "" # Should start with a space
+    if base_name.startswith("Chapter"): # Chapters
+        suffix = " (XCX)"
     if base_name in shared_other_game:
         suffix = " (XCX)"
     elif base_name in shared_article:
@@ -281,7 +283,7 @@ def mission_name_disambig(mission_name, mission_details, enemy_list):
             suffix = " (Recluse)"
         case 2077:
             suffix = " (False)"
-        case 2243: # Top-Secret Mission
+        case 2443: # Top-Secret Mission
             suffix = " (Julius)"
         case 2447:
             suffix = " (Stella)"
@@ -297,7 +299,10 @@ def mission_name_disambig(mission_name, mission_details, enemy_list):
             suffix = " (female Lyvia)"
         case 1023:
             suffix = " (male Lyvia)"
-
+        case 142: # Mayhem
+            suffix = " (Redwood Aprica Antlers first)"
+        case 1637: # Mayhem
+            suffix = " (Magical Finding Rods first)"
     # Special case: New Orders
     if base_name == "New Orders":
         # Need to figure out which chapter was started.
@@ -575,17 +580,39 @@ enemy_list = csv_to_list(chr_enlist)
 all_language_files = map(lambda lang: multilanguage_base.format(lng=lang), languages)
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
+duplicate_mission_id_versions = \
+[
+89, # Story Missions Complete (not a mission)
+1190, # A Dish Served Cold
+1646, # Blitzkrieg (Frye)
+1645, # Fortun and Glory
+1591, # Haywire!
+1197, # Lionhearted (this one has just 1 objective)
+1179, 1181, # Mamma Mia!
+2457, # Partners in Prototyping (no rewards)
+1682, 1684, 1686, 1693, 1695, 1698, # Proficiency Exam 7 (there's 7 versions!)
+1194, # Rise of the Blood Lobster
+1184, 1186, 1188, # The Bodyguard
+]
+
 with open("missions/result.txt","w", encoding="utf-8") as outputFile:
     # for mission_id_int in range(1, 941):
     for mission_id_int in range(1,2459):
+        if mission_id_int in duplicate_mission_id_versions: # Manually checking for duplicate missions.
+            continue
         mission_id = str(mission_id_int)
         quest_details = get_details_by_ID(quest_dict, mission_id)
         # Split it into mission and objective details.
         (mission_dict, _) = split_questlist(quest_details)
 
         mission_name_id = mission_dict['quest_title']
+
         if int(mission_name_id) != 0: # Actual mission.
+            # Setup mission name.
             mission_name = get_details_by_ID(language_detail_list[0], mission_name_id)['name']
+
+            if mission_name.startswith("qst"): # Name not showing up in the actual game.
+                continue
 
             # Check for name clash
             article_title = mission_name_disambig(mission_name, mission_dict, enemy_list)
