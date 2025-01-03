@@ -492,6 +492,14 @@ def reward_section(mission_details, rewards_a, rewards_b):
     if rewards_a is None:
         return "None."
     if rewards_b is not None:
+        # Check if the rewards are the exact same.
+        same_rewards = True
+        for key in rewards_a.keys():
+            if key != "ID":
+                if rewards_a[key] != rewards_b[key]:
+                    same_rewards = False
+        if same_rewards:
+            return reward(rewards_a)
         rewardSection = ""
         rewardSection += "===Route A===" + "\n"
         rewardSection += reward(rewards_a) + "\n"
