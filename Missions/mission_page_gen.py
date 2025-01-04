@@ -371,21 +371,25 @@ def mission_infobox(mission_id, mission_details, mission_name, quest_text):
 def objective(mission_details, task_details, quest_text):
     head = "{{XCX mission objective\n"
     navbox = head
+    purpose_msgs = ["purpose_log1", "purpose_log2", "purpose_log3"]
     for key in mission_details.keys():
         toWrite = mission_details[key]
-        navbox += "|" + key + "=" + toWrite + "\n"
+        navbox += "|" + key + "=" + toWrite + " "
 
     for key in task_details.keys():
         toWrite = task_details[key]
         if key == "ID": # Covered by task_id
             continue
-        elif key in ["purpose_log1", "purpose_log2", "purpose_log3"]:
-            if int(toWrite) != 0:
-                navbox += "|task_" + key + "=" + caption_scrub(get_details_by_ID(quest_text, int(toWrite))["name"]) + "\n"
-        else:
+        elif key not in purpose_msgs:
             if toWrite == "":
                 toWrite = "0"
-            navbox += "|task_" + key + "=" + toWrite + "\n"
+            navbox += "|task_" + key + "=" + toWrite + " "
+    navbox += "\n"
+    # Handle the purpose_log values next
+    for key in purpose_msgs:
+        toWrite = task_details[key]
+        if int(toWrite) != 0:
+            navbox += "|task_" + key + "=" + caption_scrub(get_details_by_ID(quest_text, int(toWrite))["name"]) + "\n"
     tail = "}}"
     navbox += tail
 
