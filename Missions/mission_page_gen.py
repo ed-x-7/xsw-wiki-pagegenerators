@@ -460,7 +460,7 @@ def objectives_section(mission_details, mission_list, task_list, quest_text):
     if split_section != len(route_a):
         objective_list_text += "</ol>\n"
         objective_list_text += "===Route A===\n"
-        objective_list_text += "<ol start={start}>\n".format(start=split_section)
+        objective_list_text += "<ol start=\"{start}\">\n".format(start=split_section)
 
     for i in range(split_section, len(route_a)):
         # Set Route A paths
@@ -469,7 +469,7 @@ def objectives_section(mission_details, mission_list, task_list, quest_text):
     if split_section != len(route_b):
         objective_list_text += "</ol>\n"
         objective_list_text += "===Route B===\n"
-        objective_list_text += "<ol start={start}>\n".format(start=split_section)
+        objective_list_text += "<ol start=\"{start}\">\n".format(start=split_section)
 
     for i in range(split_section, len(route_b)):
         # Set Route B paths
@@ -504,7 +504,7 @@ def reward_section(mission_details, rewards_a, rewards_b):
             if key != "ID":
                 if rewards_a[key] != rewards_b[key]:
                     same_rewards = False
-        if same_rewards:
+        if same_rewards and rewards_a["ID"] != rewards_b["ID"]:
             return reward(rewards_a, rewards_b["ID"])
         rewardSection = ""
         rewardSection += "===Route A===" + "\n"
