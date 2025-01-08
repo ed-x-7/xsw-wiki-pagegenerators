@@ -486,7 +486,7 @@ def reward(rewards_details, id_2 = "0"):
         if toWrite == "":
             toWrite = "0"
         navbox += "|" + key + "=" + toWrite + "\n"
-        if key == "ID" and id_2 != "0":
+        if key == "ID" and id_2 != "0" and toWrite != id_2:
             navbox += "|ID_2" + "=" + id_2 + "\n"
 
     tail = "}}"
@@ -504,7 +504,7 @@ def reward_section(mission_details, rewards_a, rewards_b):
             if key != "ID":
                 if rewards_a[key] != rewards_b[key]:
                     same_rewards = False
-        if same_rewards and rewards_a["ID"] != rewards_b["ID"]:
+        if same_rewards:
             return reward(rewards_a, rewards_b["ID"])
         rewardSection = ""
         rewardSection += "===Route A===" + "\n"
