@@ -460,7 +460,7 @@ def objectives_section(mission_details, mission_list, task_list, quest_text):
     if split_section != len(route_a):
         objective_list_text += "</ol>\n"
         objective_list_text += "===Route A===\n"
-        objective_list_text += "<ol start={start}>\n".format(start=split_section)
+        objective_list_text += "<ol start=\"{start}\">\n".format(start=split_section)
 
     for i in range(split_section, len(route_a)):
         # Set Route A paths
@@ -469,7 +469,7 @@ def objectives_section(mission_details, mission_list, task_list, quest_text):
     if split_section != len(route_b):
         objective_list_text += "</ol>\n"
         objective_list_text += "===Route B===\n"
-        objective_list_text += "<ol start={start}>\n".format(start=split_section)
+        objective_list_text += "<ol start=\"{start}\">\n".format(start=split_section)
 
     for i in range(split_section, len(route_b)):
         # Set Route B paths
@@ -478,7 +478,7 @@ def objectives_section(mission_details, mission_list, task_list, quest_text):
     objective_list_text += "</ol>"
     return objective_list_text
 
-def reward(rewards_details):
+def reward(rewards_details, id_2 = "0"):
     head = "{{XCX mission rewards\n"
     navbox = head
     for key in rewards_details.keys():
@@ -486,6 +486,8 @@ def reward(rewards_details):
         if toWrite == "":
             toWrite = "0"
         navbox += "|" + key + "=" + toWrite + "\n"
+        if key == "ID" and id_2 != "0" and toWrite != id_2:
+            navbox += "|ID_2" + "=" + id_2 + "\n"
 
     tail = "}}"
     navbox += tail
@@ -503,7 +505,7 @@ def reward_section(mission_details, rewards_a, rewards_b):
                 if rewards_a[key] != rewards_b[key]:
                     same_rewards = False
         if same_rewards:
-            return reward(rewards_a)
+            return reward(rewards_a, rewards_b["ID"])
         rewardSection = ""
         rewardSection += "===Route A===" + "\n"
         rewardSection += reward(rewards_a) + "\n"
