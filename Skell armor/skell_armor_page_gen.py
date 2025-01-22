@@ -182,6 +182,10 @@ with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
         print(armor_name_id)
         all_armor_details = list(filter(lambda armor: armor["Name"] == armor_name_id, amr_dict))
 
+        # Special case for some Skydon armor which has an extra copy
+        if len(all_armor_details) > 3:
+            all_armor_details = all_armor_details[:3]
+
         all_armor_ids = [armor['ID'] for armor in all_armor_details]
         all_maker_lvs = [armor['MakerLv'] for armor in all_armor_details]        
 
