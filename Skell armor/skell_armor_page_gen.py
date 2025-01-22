@@ -34,7 +34,7 @@ def csv_to_dict(file_name, bitfield_sections = []):
             row_num = row_num + 1
     return a
 
-def skell_armor_navbox(all_armor_ids, all_maker_lvs, armor_details, armor_name, drop_id, drop_itemtype):
+def skell_armor_navbox(all_armor_ids, all_maker_lvs, all_slotnum, armor_details, armor_name, drop_id, drop_itemtype):
     # Add details from armor
     head = "{{Infobox XCX Skell armor\n"
     navbox = head
@@ -57,6 +57,13 @@ def skell_armor_navbox(all_armor_ids, all_maker_lvs, armor_details, armor_name, 
                 if one_armor:
                     key = "MakerLv"
                 navbox += "|" + key + "=" + all_maker_lvs[i] + "\n"
+        elif key == "SlotNum":
+            for i in range(len(all_slotnum)):
+                val = i+1
+                key = "SlotNum_{d}".format(d=val)
+                if one_armor:
+                    key = "SlotNum"
+                navbox += "|" + key + "=" + all_slotnum[i] + "\n"
         else:
             if key.startswith("Affix["):
                 index = int(key[-2]) + 1
@@ -188,6 +195,7 @@ with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
 
         all_armor_ids = [armor['ID'] for armor in all_armor_details]
         all_maker_lvs = [armor['MakerLv'] for armor in all_armor_details]        
+        all_slotnum = [armor['SlotNum'] for armor in all_armor_details]
 
         main_armor_details = all_armor_details[-1]
 
@@ -204,7 +212,7 @@ with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
             drop_itemtype = None
 
         # Populate the page.
-        infobox_armor = skell_armor_navbox(all_armor_ids, all_maker_lvs, main_armor_details, armor_name, drop_id, drop_itemtype)
+        infobox_armor = skell_armor_navbox(all_armor_ids, all_maker_lvs, all_slotnum, main_armor_details, armor_name, drop_id, drop_itemtype)
         #print(infobox_armor)
 
         fullText = infobox_armor + "\n\n"
