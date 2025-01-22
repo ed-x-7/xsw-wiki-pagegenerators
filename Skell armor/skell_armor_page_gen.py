@@ -65,8 +65,6 @@ def skell_armor_navbox(all_armor_ids, all_maker_lvs, armor_details, armor_name, 
                 toWrite = "0"
             navbox += "|" + key + "=" + toWrite + "\n"
 
-    navbox += "\n"
-
     if drop_id is not None:
         navbox += "\n"
         navbox += "|DRP_ID=" + drop_id + "\n"
@@ -79,33 +77,12 @@ def skell_armor_navbox(all_armor_ids, all_maker_lvs, armor_details, armor_name, 
     return navbox
 
 def summary(armor_name, armor_details):
-    # Describe the summary of the armor.
+    # Describe which section is covered.
+    mounts = ["unknown", "head", "torso", "right arm", "left arm", "legs"]
+    mounting = mounts[int(armor_details["TypeAmr"])]
 
-    match int(armor_details["TypeAmr"]):
-        case 1: 
-            mounting = "head"
-        case 2: 
-            mounting = "torso"
-        case 3: 
-            mounting = "right arm"
-        case 4: 
-            mounting = "left arm"
-        case 5: 
-            mounting = "legs"
-        case _:
-            mounting = "unknown"
-
-    match int(armor_details["ArmLv"]):
-        case 1: 
-            weight = "light"
-        case 2: 
-            weight = "medium"
-        case 3: 
-            weight = "heavy"
-        case _:
-            mounting = "unknown weight"
-
-    armor_series = armor_name.split()[-1]
+    weights = ["unknown", "light", "medium", "heavy"]
+    weight = weights[int(armor_details["ArmLv"])]
 
     return "'''{name}''' is a piece of [[Skell armor]] in ''[[Xenoblade Chronicles X]]''. This {weight} armor covers the {section}.".format(name=armor_name, weight=weight, section=mounting)
 
@@ -191,8 +168,7 @@ all_language_files = map(lambda lang: multilanguage_base.format(lng=lang), langu
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
 with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
-    # for armor_id_int in range(1, 941):
-    for armor_id_int in range(96,101):
+    for armor_id_int in range(1, 941):
         armor_id = str(armor_id_int)
         armor_name_id = get_details_by_ID(amr_dict, armor_id)['Name']
         armor_name = get_details_by_ID(language_detail_list[0], armor_name_id)['name']
@@ -210,6 +186,10 @@ with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
         all_maker_lvs = [armor['MakerLv'] for armor in all_armor_details]        
 
         main_armor_details = all_armor_details[-1]
+
+        if int(all_armor_ids[-1]) != armor_id_int:
+            print("skipping, will handle later")
+            continue
 
         drop_details = next((q for q in item_dict if (q["ItemID"] == main_armor_details["ID"] and q["ItemType"] in ["10","11","12","13","14"])), None)
         if drop_details is not None:
