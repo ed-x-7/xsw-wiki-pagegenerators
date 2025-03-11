@@ -191,7 +191,7 @@ with open("SkellArmor/result.txt","w", encoding="utf-8") as outputFile:
 
         # Special case for some Skydon armor which has an extra copy
         if len(all_armor_details) > 3:
-            all_armor_details = all_armor_details[:3]
+            all_armor_details = [all_armor_details[0]] # Just take results from the first one
 
         all_armor_ids = [armor['ID'] for armor in all_armor_details]
         all_maker_lvs = [armor['MakerLv'] for armor in all_armor_details]        
