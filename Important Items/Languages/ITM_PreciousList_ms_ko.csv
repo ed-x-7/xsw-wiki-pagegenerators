@@ -1,0 +1,696 @@
+label {9},style {2},name {7}
+ITM_PRC001_Name,18,코너의 통신 단말기
+ITM_PRC002_Name,18,방풍 글라스
+ITM_PRC003_Name,18,보비의 손목시계
+ITM_PRC004_Name,18,기형목의 꿀
+ITM_PRC005_Name,18,전설 레이더
+ITM_PRC006_Name,18,악취 전설 레이더
+ITM_PRC007_Name,18,빵 한 조각
+ITM_PRC008_Name,18,딥 블루
+ITM_PRC009_Name,18,빅 로브스터
+ITM_PRC010_Name,18,로브스터 베이비
+ITM_PRC011_Name,18,다이너 식사권
+ITM_PRC012_Name,18,즈우스의 뼈
+ITM_PRC013_Name,18,마 논 헌트 세트
+ITM_PRC014_Name,18,블라타 카드 <동>
+ITM_PRC015_Name,18,버설트 카드 <동>
+ITM_PRC016_Name,18,아라네아 카드 <동>
+ITM_PRC017_Name,18,시미우스 카드 <은>
+ITM_PRC018_Name,18,스토르트 카드 <은>
+ITM_PRC019_Name,18,루메델 카드 <은>
+ITM_PRC020_Name,18,폴리움 카드 <은>
+ITM_PRC021_Name,18,노포히포 카드 <금>
+ITM_PRC022_Name,18,
+ITM_PRC023_Name,18,천연 진주
+ITM_PRC024_Name,18,
+ITM_PRC025_Name,18,
+ITM_PRC026_Name,18,
+ITM_PRC027_Name,18,
+ITM_PRC028_Name,18,
+ITM_PRC029_Name,18,
+ITM_PRC030_Name,18,
+ITM_PRC031_Name,18,
+ITM_PRC032_Name,18,화이트 골드 원석
+ITM_PRC033_Name,18,브릭즈의 열쇠
+ITM_PRC034_Name,18,포스다이크의 열쇠
+ITM_PRC035_Name,18,모어하우스의 열쇠
+ITM_PRC036_Name,18,
+ITM_PRC037_Name,18,
+ITM_PRC038_Name,18,
+ITM_PRC039_Name,18,쿠에가의 메모
+ITM_PRC040_Name,18,
+ITM_PRC041_Name,18,
+ITM_PRC042_Name,18,카드 키
+ITM_PRC043_Name,18,
+ITM_PRC044_Name,18,
+ITM_PRC045_Name,18,
+ITM_PRC046_Name,18,
+ITM_PRC047_Name,18,아조아의 ID 카드
+ITM_PRC048_Name,18,
+ITM_PRC049_Name,18,
+ITM_PRC050_Name,18,
+ITM_PRC051_Name,18,콜드 케이크
+ITM_PRC052_Name,18,마르테트의 약병
+ITM_PRC053_Name,18,
+ITM_PRC054_Name,18,
+ITM_PRC055_Name,18,노폰 계약서
+ITM_PRC056_Name,18,
+ITM_PRC057_Name,18,노폰의 원석
+ITM_PRC058_Name,18,
+ITM_PRC059_Name,18,
+ITM_PRC060_Name,18,
+ITM_PRC061_Name,18,비 세자의 팔찌
+ITM_PRC062_Name,18,게 쥬의 단검
+ITM_PRC063_Name,18,
+ITM_PRC064_Name,18,
+ITM_PRC065_Name,18,링 스톤
+ITM_PRC066_Name,18,
+ITM_PRC067_Name,18,
+ITM_PRC068_Name,18,자자잔의 소포
+ITM_PRC069_Name,18,위험물 수납 캡슐
+ITM_PRC070_Name,18,위험한 연료 전지
+ITM_PRC071_Name,18,니오의 차용증
+ITM_PRC072_Name,18,파란 보석 반지
+ITM_PRC073_Name,18,
+ITM_PRC074_Name,18,
+ITM_PRC075_Name,18,
+ITM_PRC076_Name,18,
+ITM_PRC077_Name,18,
+ITM_PRC078_Name,18,
+ITM_PRC079_Name,18,
+ITM_PRC080_Name,18,
+ITM_PRC081_Name,18,
+ITM_PRC082_Name,18,루메노아 허브
+ITM_PRC083_Name,18,고르콰
+ITM_PRC084_Name,18,룬오토남의 오른팔
+ITM_PRC085_Name,18,
+ITM_PRC086_Name,18,
+ITM_PRC087_Name,18,트로이란의 고르콰
+ITM_PRC088_Name,18,
+ITM_PRC089_Name,18,
+ITM_PRC090_Name,18,흰고래의 파츠
+ITM_PRC091_Name,18,
+ITM_PRC092_Name,18,
+ITM_PRC093_Name,18,
+ITM_PRC094_Name,18,이안의 ID 카드
+ITM_PRC095_Name,18,나르에게 보내는 선물
+ITM_PRC096_Name,18,아빠의 선글라스
+ITM_PRC097_Name,18,도돈가 친서
+ITM_PRC098_Name,18,도리안 친서
+ITM_PRC099_Name,18,라스제 파츠
+ITM_PRC100_Name,18,의료 키트
+ITM_PRC101_Name,18,수용동 열쇠
+ITM_PRC102_Name,18,
+ITM_PRC103_Name,18,돌 라이선스
+ITM_PRC104_Name,18,
+ITM_PRC105_Name,18,
+ITM_PRC106_Name,18,
+ITM_PRC107_Name,18,흰고래의 파츠
+ITM_PRC108_Name,18,L-002 전력 케이블
+ITM_PRC109_Name,18,인증 시험 합격 증명서
+ITM_PRC110_Name,18,
+ITM_PRC111_Name,18,
+ITM_PRC112_Name,18,
+ITM_PRC113_Name,18,
+ITM_PRC114_Name,18,생체 샘플
+ITM_PRC115_Name,18,미아의 단말기
+ITM_PRC116_Name,18,녹린 거목의 씨
+ITM_PRC117_Name,18,컨테이너 열쇠
+ITM_PRC118_Name,18,
+ITM_PRC119_Name,18,
+ITM_PRC120_Name,18,
+ITM_PRC121_Name,18,그레네이드 피자
+ITM_PRC122_Name,18,냉동 피자
+ITM_PRC123_Name,18,아지바의 열쇠
+ITM_PRC124_Name,18,무지바의 열쇠
+ITM_PRC125_Name,18,무희의 의상
+ITM_PRC126_Name,18,붉은 눈물
+ITM_PRC127_Name,18,
+ITM_PRC128_Name,18,
+ITM_PRC129_Name,18,
+ITM_PRC130_Name,18,
+ITM_PRC131_Name,18,
+ITM_PRC132_Name,18,
+ITM_PRC133_Name,18,
+ITM_PRC134_Name,18,
+ITM_PRC135_Name,18,신형 병기의 설계도
+ITM_PRC136_Name,18,
+ITM_PRC137_Name,18,서모나이즈 고글
+ITM_PRC138_Name,18,세니라파 물
+ITM_PRC139_Name,18,
+ITM_PRC140_Name,18,질드 다이아몬드
+ITM_PRC141_Name,18,고르보가 디스크
+ITM_PRC142_Name,18,
+ITM_PRC143_Name,18,딕키의 수액
+ITM_PRC144_Name,18,
+ITM_PRC145_Name,18,회색 카드 키
+ITM_PRC146_Name,18,직사각형 상자
+ITM_PRC147_Name,18,
+ITM_PRC148_Name,18,
+ITM_PRC149_Name,18,
+ITM_PRC150_Name,18,
+ITM_PRC151_Name,18,
+ITM_PRC152_Name,18,
+ITM_PRC153_Name,18,쿠타의 짐
+ITM_PRC154_Name,18,
+ITM_PRC155_Name,18,에어로지움
+ITM_PRC156_Name,18,수호자의 영린
+ITM_PRC157_Name,18,
+ITM_PRC158_Name,18,
+ITM_PRC159_Name,18,
+ITM_PRC160_Name,18,
+ITM_PRC161_Name,18,
+ITM_PRC162_Name,18,
+ITM_PRC163_Name,18,히랄 요새의 열쇠
+ITM_PRC164_Name,18,B.B.의 왼쪽 팔 부분
+ITM_PRC165_Name,18,L-002 신형 플랜트
+ITM_PRC166_Name,18,신부님의 일기
+ITM_PRC167_Name,18,플레멘타이드
+ITM_PRC168_Name,18,부유석의 조각
+ITM_PRC169_Name,18,피 묻은 짐승의 털
+ITM_PRC170_Name,18,로의 펜던트
+ITM_PRC171_Name,18,세 자루의 검
+ITM_PRC172_Name,18,진주 목걸이
+ITM_PRC173_Name,18,데이터 유닛 FN093
+ITM_PRC174_Name,18,수리 물자 세트
+ITM_PRC175_Name,18,아가네바 합금
+ITM_PRC176_Name,18,콕피트의 잔해
+ITM_PRC177_Name,18,엔진의 잔해
+ITM_PRC178_Name,18,즈 하그의 잔해
+ITM_PRC179_Name,18,잡동사니
+ITM_PRC180_Name,18,데이터 유닛 FN094
+ITM_PRC181_Name,18,B.B.의 머리
+ITM_PRC182_Name,18,B.B.의 몸통
+ITM_PRC183_Name,18,B.B.의 왼쪽 다리 부분
+ITM_PRC184_Name,18,B.B.의 오른쪽 다리 부분
+ITM_PRC185_Name,18,언록 키 1
+ITM_PRC186_Name,18,
+ITM_PRC187_Name,18,큐어 이끼
+ITM_PRC188_Name,18,로켓 펜던트
+ITM_PRC189_Name,18,별 모래
+ITM_PRC190_Name,18,보라색 결정
+ITM_PRC191_Name,18,에메리아의 렐릭
+ITM_PRC192_Name,18,스토리지
+ITM_PRC193_Name,18,망가진 데이터 프로브
+ITM_PRC194_Name,18,하트 스톤
+ITM_PRC195_Name,18,
+ITM_PRC196_Name,18,
+ITM_PRC197_Name,18,미 간드산의 암석
+ITM_PRC198_Name,18,잼잼 풀
+ITM_PRC199_Name,18,신형 병기의 잔해
+ITM_PRC200_Name,18,
+ITM_PRC201_Name,18,
+ITM_PRC202_Name,18,
+ITM_PRC203_Name,18,샘플링 보틀
+ITM_PRC204_Name,18,태양계 항행 MAP
+ITM_PRC205_Name,18,햄버거
+ITM_PRC206_Name,18,핫도그
+ITM_PRC207_Name,18,데이터 유닛 FN095
+ITM_PRC208_Name,18,데이터 유닛 FN096
+ITM_PRC209_Name,18,데이터 유닛 FN097
+ITM_PRC210_Name,18,연습용 데이터 프로브
+ITM_PRC211_Name,18,포이즌 화학 폭탄
+ITM_PRC212_Name,18,의료 키트
+ITM_PRC213_Name,18,노블 실크
+ITM_PRC214_Name,18,데이터 유닛 FN098
+ITM_PRC215_Name,18,전설의 검
+ITM_PRC216_Name,18,금강불괴의 칼
+ITM_PRC217_Name,18,볼턴트
+ITM_PRC218_Name,18,카드 키
+ITM_PRC219_Name,18,트로이란의 고르콰
+ITM_PRC220_Name,18,비약
+ITM_PRC221_Name,18,신형 병기 테스트 데이터
+ITM_PRC222_Name,18,언록 키 2
+ITM_PRC223_Name,18,언록 키 3
+ITM_PRC224_Name,18,포그리움
+ITM_PRC225_Name,18,거대 링의 조각
+ITM_PRC226_Name,18,뷰트 유적의 파편
+ITM_PRC227_Name,18,노스 코스트 수수께끼의 돌
+ITM_PRC228_Name,18,교신 기록 데이터
+ITM_PRC229_Name,18,생명체 의료 데이터
+ITM_PRC230_Name,18,에너지 스토리지
+ITM_PRC001_Caption,148,"코너의 통신 단말기.
+원시 생물에게 습격당한 코너가
+도망치던 중에 떨어뜨리고 말았다."
+ITM_PRC002_Caption,148,"군용차의 전면에 부착하는 방풍 글라스.
+이제는 귀중해진 지구제 파츠."
+ITM_PRC003_Caption,148,"폴렌을 부모처럼 따르던 청년의 손목시계.
+안쪽에는 『어머니 폴렌의 가호가 있기를!』
+이라고 쓰여 있다."
+ITM_PRC004_Caption,148,"야광의 숲 오지에서 자라는 기묘한
+거목의 꿀로 접촉한 식물의 성장을
+촉진하는 효과가 있다."
+ITM_PRC005_Caption,148,"전설의 물건들을 찾아내기 위해
+고대 노폰이 만든 레이더.
+어떤 미약한 전설 전파도 캐치하는
+뛰어난 물건."
+ITM_PRC006_Caption,148,"전설의 물건들을 찾아내기 위해
+고대 노폰이 만든 레이더……이지만
+원시 생물의 배 속에 있었기에
+냄새가 고약하다."
+ITM_PRC007_Caption,148,"굶주린 모이모이가 맡긴 빵 한 조각.
+형에 대한 마음이 담겨 있다."
+ITM_PRC008_Caption,148,"진한 청색으로 빛나는 매우 고가의 보석.
+누군가에 의해 도둑맞았다.
+마성의 매력으로 마음을 현혹한다."
+ITM_PRC009_Caption,148,"로브스터의 커다란 인형.
+블러드 로브스터 아지트의 열쇠이다."
+ITM_PRC010_Caption,148,"언뜻 보면 귀여운 로브스터 모양의
+인형이지만 안에는 폭탄이 장치되어 있다."
+ITM_PRC011_Caption,148,"다이너 무료 점심 식사권.
+동색 버설트 카드와 교환해서 얻었다."
+ITM_PRC012_Caption,148,"즈우스의 뼈.
+동색 아라네아 카드와 교환해서 얻었다."
+ITM_PRC013_Caption,148,"캐프시카가 발명한 사냥에 편리한 도구
+……인 듯하다.
+아직 사용법은 모른다."
+ITM_PRC014_Caption,148,"미라 애니멀 컬렉션 카드의 브론즈 카드.
+블라타의 그림이 그려져 있다."
+ITM_PRC015_Caption,148,"미라 애니멀 컬렉션 카드의 브론즈 카드.
+버설트의 그림이 그려져 있다."
+ITM_PRC016_Caption,148,"미라 애니멀 컬렉션 카드의 브론즈 카드.
+아라네아의 그림이 그려져 있다."
+ITM_PRC017_Caption,148,"미라 애니멀 컬렉션 카드의 실버 카드.
+시미우스의 그림이 그려져 있다."
+ITM_PRC018_Caption,148,"미라 애니멀 컬렉션 카드의 실버 카드.
+스토르트의 그림이 그려져 있다."
+ITM_PRC019_Caption,148,"미라 애니멀 컬렉션 카드의 실버 카드.
+루메델의 그림이 그려져 있다."
+ITM_PRC020_Caption,148,"미라 애니멀 컬렉션 카드의 실버 카드.
+폴리움의 그림이 그려져 있다."
+ITM_PRC021_Caption,148,"미라 애니멀 컬렉션 카드의 골드 카드.
+노포히포의 그림이 그려져 있다."
+ITM_PRC022_Caption,171,
+ITM_PRC023_Caption,148,"지구산 천연 진주.
+미라에서는 더는 구할 수 없는 귀중품이다."
+ITM_PRC024_Caption,171,
+ITM_PRC025_Caption,171,
+ITM_PRC026_Caption,171,
+ITM_PRC027_Caption,171,
+ITM_PRC028_Caption,171,
+ITM_PRC029_Caption,171,
+ITM_PRC030_Caption,171,
+ITM_PRC031_Caption,171,
+ITM_PRC032_Caption,148,포스다이크의 손에 남은 유일한 화이트 골드.
+ITM_PRC033_Caption,148,거대 금고를 열기 위해 필요한 열쇠.
+ITM_PRC034_Caption,148,거대 금고를 열기 위해 필요한 열쇠.
+ITM_PRC035_Caption,148,거대 금고를 열기 위해 필요한 열쇠.
+ITM_PRC036_Caption,171,
+ITM_PRC037_Caption,171,
+ITM_PRC038_Caption,171,
+ITM_PRC039_Caption,148,"『테아에게 줄 ……을
+드라이랜드 암굴 요새의 동굴에……
+숨겼다…… 누군가 ……을 테아에게……』
+라고 휘갈겨 쓰여 있는 메모."
+ITM_PRC040_Caption,171,
+ITM_PRC041_Caption,171,
+ITM_PRC042_Caption,148,"비아노 정수장에 있는 연구원에게
+배부된 카드 키. 이 키가 있으면
+시설의 문을 열 수 있다."
+ITM_PRC043_Caption,171,
+ITM_PRC044_Caption,171,
+ITM_PRC045_Caption,171,
+ITM_PRC046_Caption,171,
+ITM_PRC047_Caption,148,"미라 수질 연구 팀의 서브 리더인 아조아가
+비아노 정수장에서 신분을 증명하는 ID 카드.
+시설 내의 설비를 사용할 때도 쓰인다."
+ITM_PRC048_Caption,171,
+ITM_PRC049_Caption,171,
+ITM_PRC050_Caption,171,
+ITM_PRC051_Caption,148,"바싹 말려서 오래 보관하도록 가공된 케이크.
+그레테가 좋아하는 디저트다."
+ITM_PRC052_Caption,148,"꺼림칙한 액체가 담겨 있는 약병.
+마르테트가 다 마시려 했지만
+입에 대자마자 죽어 버려 다 마시지 못했다."
+ITM_PRC053_Caption,171,
+ITM_PRC054_Caption,171,
+ITM_PRC055_Caption,148,"노폰 카라반의 리더와 불꽃놀이에 관해
+주고받은 계약 서류."
+ITM_PRC056_Caption,171,
+ITM_PRC057_Caption,148,정령 노포폰이 시련을 위해 준 것.
+ITM_PRC058_Caption,171,
+ITM_PRC059_Caption,171,
+ITM_PRC060_Caption,171,
+ITM_PRC061_Caption,148,"비 세자가 만든 은팔찌.
+비 세자와 게 쥬의 이름과
+『둘이 함께 살아가자』라는
+문구가 새겨져 있다."
+ITM_PRC062_Caption,148,"마지막까지 라스인으로서의 긍지를 지키며
+눈을 감은 게 쥬의 유품.
+자루에는 『비 세자를 영원히 지킨다』라고
+새겨져 있다."
+ITM_PRC063_Caption,171,
+ITM_PRC064_Caption,171,
+ITM_PRC065_Caption,148,"바이어스인 여성의 손가락에 딱 맞을 것 같은
+고리 모양의 단단한 돌.
+표면에 날카로운 가시가 나 있어 송곳니 같은
+단단한 것도 끼워 넣을 수 있게 되어 있다."
+ITM_PRC066_Caption,171,
+ITM_PRC067_Caption,171,
+ITM_PRC068_Caption,148,"큰 상자에 든 자자잔의 소중한 짐.
+악용되면 엄청난 일이 일어난다."
+ITM_PRC069_Caption,148,"제프리가 맡긴 수납 캡슐.
+강한 독성 연구 샘플이 담겨 있으므로
+취급에 주의가 필요."
+ITM_PRC070_Caption,148,"그레이엄이 맡긴 위험한 연료 전지.
+외계인의 이상한 기계에 쌓여 있던 물건으로
+잘못 다루었다간 큰일이 난다."
+ITM_PRC071_Caption,148,"『20000G 빌렸습니다.
+반드시 갚겠습니다. 니오』라고
+쓰인 차용증."
+ITM_PRC072_Caption,148,"매우 작은 반지. 파랗고 반짝이는
+보석이 박혀 있다."
+ITM_PRC073_Caption,171,
+ITM_PRC074_Caption,171,
+ITM_PRC075_Caption,171,
+ITM_PRC076_Caption,171,
+ITM_PRC077_Caption,171,
+ITM_PRC078_Caption,171,
+ITM_PRC079_Caption,171,
+ITM_PRC080_Caption,171,
+ITM_PRC081_Caption,171,
+ITM_PRC082_Caption,148,"오르페인이 오버와의 의사소통이 곤란할 때
+섭취하면 그 능력을 회복할 수 있는 허브."
+ITM_PRC083_Caption,148,"자르보가인이 볼턴트를 흡수할 때 사용하는
+흡인 장치. 지팡이 같은 모양을 하고 있다."
+ITM_PRC084_Caption,148,"생명을 다스리는 자에게 먹혀 버린
+룬오토남의 오른팔. 생명을 다스리는 자를
+쓰러뜨렸을 때 배에서 나왔다."
+ITM_PRC085_Caption,171,
+ITM_PRC086_Caption,171,
+ITM_PRC087_Caption,148,"르라듀에게 받은 트로이란의 고르콰.
+자르보가인이 볼턴트를 흡수할 때 사용한다."
+ITM_PRC088_Caption,171,
+ITM_PRC089_Caption,171,
+ITM_PRC090_Caption,148,"흰고래의 잔해에서 얻은 파츠.
+선내의 어느 구획에서 사용된 것인지
+분석하면 라이프가 떨어진 장소를
+산출하는 재료가 된다."
+ITM_PRC091_Caption,171,
+ITM_PRC092_Caption,171,
+ITM_PRC093_Caption,171,
+ITM_PRC094_Caption,148,"미라 수질 연구 팀의 리더인 이안이
+비아노 정수장에서 신분을 증명하는 ID 카드.
+시설 내의 모든 설비를 사용할 수 있는
+권한이 있다."
+ITM_PRC095_Caption,148,"나르가 갖고 싶어 하던 흰고래의 파츠 안에
+대량의 불릿 플라이를 숨긴 무서운 물건.
+섣불리 건드리면 불릿 플라이가 튀어나와
+크게 다칠 것이다."
+ITM_PRC096_Caption,148,"타츠의 아버지가 사용했다던 멋진 선글라스.
+떠나간 자에게 닿기를 바라며
+카카가 바다에 흘려 보냈다."
+ITM_PRC097_Caption,148,"NLA 임시자치정부와 도돈가 카라반의
+우호 조약 체결을 위해 보내진 친서.
+큼직하게 카카의 사인이 적혀 있다."
+ITM_PRC098_Caption,148,"NLA 임시자치정부와 도리안 카라반의
+우호 조약 체결을 위해 보내진 친서.
+큼직하게 츠무지의 사인이 적혀 있다."
+ITM_PRC099_Caption,148,"라스제 돌의 파츠.
+라스인의 기술을 알 수 있는 귀중한 샘플이다."
+ITM_PRC100_Caption,148,"살아 있는 몸으로 돌아갔을 때를 위해
+제프리가 개발한 생체용 의료 키트.
+미라의 여러 병원균에 대한 항생물질도
+들어 있다."
+ITM_PRC101_Caption,148,"바이어스인에게 강제 노동을 당하고 있는
+자들이 잡혀 있는 수용동 열쇠."
+ITM_PRC102_Caption,171,
+ITM_PRC103_Caption,148,"돌 라이선스 시험에 합격한 자에게
+주어지는 증서. 돌 구입과 탑승이 허가된다."
+ITM_PRC104_Caption,171,
+ITM_PRC105_Caption,171,
+ITM_PRC106_Caption,171,
+ITM_PRC107_Caption,148,"흰고래의 잔해에서 얻은 파츠.
+선내의 어느 구획에서 사용된 것인지
+분석하면 라이프가 떨어진 장소를
+산출하는 재료가 된다."
+ITM_PRC108_Caption,148,"흰고래에서 사용하던 초고전압 전력 케이블.
+긴 세월의 항행에 견딜 수 있도록 튼튼히
+만들어져 지금도 NLA의 설비 수리 등에
+사용한다."
+ITM_PRC109_Caption,148,"돌 라이선스 인증 시험에 합격한 증서.
+8장의 인증 시험 합격 증명서를 모아
+월터에게 건네면 돌 라이선스를 얻을 수 있다."
+ITM_PRC110_Caption,171,
+ITM_PRC111_Caption,171,
+ITM_PRC112_Caption,171,
+ITM_PRC113_Caption,171,
+ITM_PRC114_Caption,148,"지구에 있던 동물의 유전자 정보가 담겨 있는
+귀중한 데이터 박스."
+ITM_PRC115_Caption,148,"미아가 떨어뜨린 영구 불멸의 이용 포인트가
+쌓여 있는 휴대 단말기."
+ITM_PRC116_Caption,148,야광의 숲에 많이 자라는 녹린 거목의 씨.
+ITM_PRC117_Caption,148,미아가 잡혀 있는 컨테이너 열쇠.
+ITM_PRC118_Caption,171,
+ITM_PRC119_Caption,171,
+ITM_PRC120_Caption,171,
+ITM_PRC121_Caption,148,"치즈와 살라미 토핑이 보통 피자의
+3배나 되는 볼륨 만점의 피자.
+아미 피자 최고의 인기 상품……이지만
+배달 중인 상품이므로 먹어선 안 된다."
+ITM_PRC122_Caption,148,"마 논인이 매우 좋아하는 피자……이지만
+얼어 있으므로 차갑고 사각사각."
+ITM_PRC123_Caption,148,오르 발디레오가 붙잡힌 감시탑의 열쇠.
+ITM_PRC124_Caption,148,라다 발디레오가 붙잡힌 감시탑의 열쇠.
+ITM_PRC125_Caption,148,"정열의 빨강을 바탕으로 한
+바이어스의 무희의 옷.
+지금은 죽고 없는 쿠에가가
+테아를 위해 만든 옷이다."
+ITM_PRC126_Caption,148,"투명도가 매우 높은 진홍색 보석.
+그 아름다움과 희소성 때문에
+고가로 거래되고 있다."
+ITM_PRC127_Caption,171,
+ITM_PRC128_Caption,171,
+ITM_PRC129_Caption,171,
+ITM_PRC130_Caption,171,
+ITM_PRC131_Caption,171,
+ITM_PRC132_Caption,171,
+ITM_PRC133_Caption,171,
+ITM_PRC134_Caption,171,
+ITM_PRC135_Caption,148,그로우스가 개발 중인 신형 병기의 설계도.
+ITM_PRC136_Caption,171,
+ITM_PRC137_Caption,148,"오르페에게만 보이는 스모크를
+가시화한 고글."
+ITM_PRC138_Caption,148,"오르페인이 증식하는 데에 없어서는 안 될
+특수한 성질을 띤 물.
+미라에서는 거의 볼 수 없는 귀중한 것."
+ITM_PRC139_Caption,171,
+ITM_PRC140_Caption,148,"수상하게 빛나는 다이아몬드.
+안에는 다량의 유해 물질을 담고 있어
+취급에는 주의가 필요."
+ITM_PRC141_Caption,148,"자르보가를 창조한 신 고르보가의 모습이
+담겨 있다고 하는 홀로그램 디스크."
+ITM_PRC142_Caption,171,
+ITM_PRC143_Caption,148,"닥터 B가 가져다 달라고 부탁한
+검게 빛나는 수액."
+ITM_PRC144_Caption,171,
+ITM_PRC145_Caption,148,"닥터 B가 잡혀 있는 장소에 펼쳐진
+배리어를 해제하기 위한 카드 키."
+ITM_PRC146_Caption,148,"수수께끼의 외계인이 남긴 수수께끼의
+직사각형 상자. 뒷면에 알 수 없는
+열쇠 구멍이 나 있다."
+ITM_PRC147_Caption,171,
+ITM_PRC148_Caption,171,
+ITM_PRC149_Caption,171,
+ITM_PRC150_Caption,171,
+ITM_PRC151_Caption,171,
+ITM_PRC152_Caption,171,
+ITM_PRC153_Caption,148,"운반책 쿠타의 짐.
+고객이 맡긴 귀중한 물건들이 들어 있다."
+ITM_PRC154_Caption,171,
+ITM_PRC155_Caption,148,"배합하면 초경도의 건축 자재를
+만들 수 있는 수정체."
+ITM_PRC156_Caption,148,"생명을 다스리는 자의 비늘.
+독특한 영기로 에워싸인 그 비늘은
+노폰 비전의 한방약을 만드는 재료가 된다."
+ITM_PRC157_Caption,171,
+ITM_PRC158_Caption,171,
+ITM_PRC159_Caption,171,
+ITM_PRC160_Caption,171,
+ITM_PRC161_Caption,171,
+ITM_PRC162_Caption,171,
+ITM_PRC163_Caption,148,히랄 요새 창고의 열쇠.
+ITM_PRC164_Caption,148,"이엘브의 파트너였던 자의 왼팔.
+어릴 때 다쳐서 생긴 큰 십자 모양의
+흉터가 남아 있다."
+ITM_PRC165_Caption,148,"흰고래에서 만들어진 전자파 조사형
+신형 플랜트. 미완성품이지만 미미한
+태양광만 있으면 흙과 물을 사용하지 않고
+많은 음식물을 생성할 수 있는 뛰어난 물건."
+ITM_PRC166_Caption,148,"소형 데이터 유닛.
+히메리의 양아버지가 쓴 일기가 담겨 있다."
+ITM_PRC167_Caption,148,"불꽃처럼 새빨갛게 빛나는 광석.
+방대한 열에너지를 담고 있어
+NLA의 다양한 장소에서 이용한다."
+ITM_PRC168_Caption,148,"부력을 가진 부유석의 조각.
+공중에 떠 있는 미라의 부유섬은
+이 돌의 힘으로 하늘에 떠 있다."
+ITM_PRC169_Caption,148,"미망산에 사는 원시 생물 짐승의 털.
+끈적하게 피가 묻어 있다."
+ITM_PRC170_Caption,148,"로가 몸에 늘 지니고 있던 펜던트.
+펜던트 윗부분이 열쇠처럼 되어 있다."
+ITM_PRC171_Caption,148,"조 저지의 세 오빠가 남긴 유품.
+조 저지를 지키기 위해
+마지막까지 이 검으로 싸우다 목숨을 잃었다."
+ITM_PRC172_Caption,148,"히메리의 아버지가 유품으로 남긴
+진주 목걸이. 지구의 귀중한 천연 진주로
+만들어졌다."
+ITM_PRC173_Caption,148,극비 데이터가 담겨 있는 데이터 유닛.
+ITM_PRC174_Caption,148,"돌을 수리하기 위해 필요한 물자가
+정돈되어 담겨 있는 두랄루민 케이스."
+ITM_PRC175_Caption,148,"아가네바가 정제한 돌 장갑판을
+수리하기 위한 소재."
+ITM_PRC176_Caption,148,"그로우스의 섬멸 병기인 즈 하그의
+콕피트 블록 잔해. 르탄탄이 연구 재료로
+쓰고 싶어 한다."
+ITM_PRC177_Caption,148,"그로우스의 섬멸 병기인 즈 하그의
+엔진 블록 잔해. 르탄탄이 연구 재료로
+쓰고 싶어 한다."
+ITM_PRC178_Caption,148,"그로우스의 섬멸 병기인 즈 하그의 잔해.
+르탄탄이 연구 재료로 쓰고 싶어 한다."
+ITM_PRC179_Caption,148,"즈 하그의 잔해에서 추출된 물건.
+어딘가에 쓰였던 파츠인 것 같지만
+완전히 부서져 원형을 알 수 없다."
+ITM_PRC180_Caption,148,극비 데이터가 담겨 있는 데이터 유닛.
+ITM_PRC181_Caption,148,"이엘브의 파트너였던 자의 머리.
+불에 그슬려 있어 어떤 얼굴이었는지
+짐작할 수 없다."
+ITM_PRC182_Caption,148,"이엘브의 파트너였던 자의 몸통.
+흉부에 『The Immortal Heart』라는
+문신이 있다."
+ITM_PRC183_Caption,148,"이엘브의 파트너였던 자의 왼쪽 다리.
+『GO WEST』라는 문신이 있다."
+ITM_PRC184_Caption,148,"이엘브의 파트너였던 자의 오른쪽 다리.
+『GO EAST』라는 문신이 있다."
+ITM_PRC185_Caption,148,"3개를 모으면 데피니아의 아지트에 펼쳐진
+실드를 해제할 수 있는 열쇠.
+3명의 수호자가 각각을 지키고 있다."
+ITM_PRC186_Caption,171,
+ITM_PRC187_Caption,148,정화 작용이 있는 이끼.
+ITM_PRC188_Caption,148,"지구에 남기고 온 부모님의 사진이 들어 있는
+로켓 펜던트."
+ITM_PRC189_Caption,148,"백목의 대륙에서만 구할 수 있는
+하얗고 고운 모래. 현미경으로 보면
+별 모양을 하고 있다."
+ITM_PRC190_Caption,148,불길한 색을 띤 결정.
+ITM_PRC191_Caption,148,에메리아 고전적지에서 발굴한 유품.
+ITM_PRC192_Caption,148,"블레이드가 떨어뜨린 스토리지.
+중요한 데이터가 들어 있다."
+ITM_PRC193_Caption,148,"원시 생물에게 파괴된 데이터 프로브.
+수리하면 사용할 수 있는 가능성은 있다."
+ITM_PRC194_Caption,148,"하트 모양의 작은 돌.
+모양이 신기할 뿐이다."
+ITM_PRC195_Caption,171,
+ITM_PRC196_Caption,171,
+ITM_PRC197_Caption,148,"미 간드산의 지하에 있는 동굴에서
+채취한 암석."
+ITM_PRC198_Caption,148,"끈적끈적해서 되도록 만지고 싶지 않은 잡초.
+짓이겨서 과일과 섞으면 최고로 맛있는 잼이
+되지만 색깔은 최악이다."
+ITM_PRC199_Caption,148,정직한 진심당의 프로토타입 병기 잔해.
+ITM_PRC200_Caption,171,
+ITM_PRC201_Caption,171,
+ITM_PRC202_Caption,171,
+ITM_PRC203_Caption,148,"비아노 호수의 물이 들어 있는 플라스틱 용기.
+연구용 용기라기보다는 일반적으로 음료수를
+담는 정도의 간소한 물건이다."
+ITM_PRC204_Caption,148,"태양계의 우주 항행도가 담긴 데이터 유닛.
+지구에서 날아올라 태양계를 빠져나올 때
+사용된 물건."
+ITM_PRC205_Caption,148,"폴렌의 특제 햄버거.
+패티가 3장이나 들어간 푸짐한 양의 음식."
+ITM_PRC206_Caption,148,"언제나 따끈따끈하고 매콤한
+선샤인 카페 인기 메뉴."
+ITM_PRC207_Caption,148,극비 데이터가 담겨 있는 데이터 유닛.
+ITM_PRC208_Caption,148,극비 데이터가 담겨 있는 데이터 유닛.
+ITM_PRC209_Caption,148,극비 데이터가 담겨 있는 데이터 유닛.
+ITM_PRC210_Caption,148,"서투른 라스인들도 사용할 수 있도록
+만들어진 연습용 데이터 프로브.
+보통 데이터 프로브와 비교해
+채굴률이 낮으므로 실용성은 없다."
+ITM_PRC211_Caption,148,"페펜이 실수로 만들어 버린
+아주 흉악한 화학 병기.
+폭발하면 주변 일대가 오염되어 버리므로
+취급에는 주의가 필요."
+ITM_PRC212_Caption,148,"그로우스가 개발한 의료 키트.
+침략한 어떤 행성으로도 이주할 수 있도록
+다양한 병원균에 대한 항체가 담겨 있다."
+ITM_PRC213_Caption,148,"노블 아라크니드에서 얻을 수 있는
+귀중한 실. 햇빛을 쬐면 주변의 풍경을
+반사하여 투명해진다."
+ITM_PRC214_Caption,148,"커스티의 과거 연구 동료가 만들려고 한
+『차세대 프런티어넷』의 설계도가 담겨 있는
+데이터 유닛."
+ITM_PRC215_Caption,148,"고대 노폰인이 남긴 전설의 검.
+코등이에 수수께끼의 문자가 드러나면
+신기한 힘을 발휘할 수 있을 것 같다."
+ITM_PRC216_Caption,148,"데 징이 만든 최고의 명도.
+어떤 단단한 장갑도 베어 내며
+결코 도신에 흠집이 생기는 일은 없다."
+ITM_PRC217_Caption,148,"B.B.의 육체를 좀먹을 정도로
+강력한 유해 물질이지만
+자르보가인에게는 최고의 요리."
+ITM_PRC218_Caption,148,야들리가 찾고 있는 카드 키. 용도 불명.
+ITM_PRC219_Caption,148,"자르보가인이 볼턴트를 흡수할 때 사용하는
+지팡이 같은 모양을 한 장치."
+ITM_PRC220_Caption,148,"순보이톤이 만든 오르페인에게 전해지는 비약.
+먹으면 자신의 의지와 상관없이
+『예스』라고만 말하게 된다."
+ITM_PRC221_Caption,148,"파괴된 지조의 돌에서 빼낸 메모리 칩.
+사쿠라바의 신형 병기를 사용해
+원시 생물과 싸웠을 때의 데이터가 담겨 있다."
+ITM_PRC222_Caption,148,"3개를 모으면 데피니아의 아지트에 펼쳐진
+실드를 해제할 수 있는 열쇠.
+3명의 수호자가 각각을 지키고 있……었지만
+수호자가 키 둔 곳을 잊어 방치되어 있었다."
+ITM_PRC223_Caption,148,"3개를 모으면 데피니아의 아지트에 펼쳐진
+실드를 해제할 수 있는 열쇠.
+3명의 수호자가 각각을 지키고 있……었지만
+수호자가 키 둔 곳을 잊어 방치되어 있었다."
+ITM_PRC224_Caption,148,"만지면 안개처럼 사라져 버리지만
+강력한 에너지를 가하면 결정화하는
+신기한 결정체. 프라이가 포그리움이라
+이름을 붙였다."
+ITM_PRC225_Caption,148,"망각의 계곡에 우뚝 솟은 거대한 링의 조각.
+복잡한 구조를 하고 있어서
+무언가의 장치라고 생각되지만
+어떤 것인지 확실히 알 수 없다."
+ITM_PRC226_Caption,148,"망각의 계곡에서 발견한 고대 유적의 파편.
+불가사의한 문양이 새겨져 있다."
+ITM_PRC227_Caption,148,"망각의 계곡에 우두커니 서 있는
+수수께끼의 거석 조각.
+돌인지 금속인지 알 수 없는 재질로
+되어 있다."
+ITM_PRC228_Caption,148,"흰고래와 다른 이민선과의 교신 기록이
+보존된 메모리 칩. 백목의 대륙에 떨어진
+라이프 포인트에서 회수했다."
+ITM_PRC229_Caption,148,"다양한 생명체에 대한 의료 계열의 데이터가
+보존된 메모리 칩. 흑강의 대륙에 떨어진
+라이프 포인트에서 회수했다."
+ITM_PRC230_Caption,148,"무기에 부착하는 확장 어태치먼트.
+퀵 리캐스트를 발동하는 데 필요한
+에너지 게인의 충전량이 증가한다."
+ITM_PRC905_Name,18,실드 해제 키 α
+ITM_PRC906_Name,18,실드 해제 키 β
+ITM_PRC907_Name,18,실드 해제 키 γ
+ITM_PRC905_Caption,148,"3개를 갖추면 서멀의 유물에 펼쳐진
+실드를 해제할 수 있는 열쇠.
+도주한 갈드라에게서 회수했다."
+ITM_PRC901_Caption,148,"일반 시누유니 마늘보다
+양질의 향을 내는 식재료."
+ITM_PRC902_Caption,148,일반 윌 피망보다 윤기와 탄력이 있는 식재료.
+ITM_PRC903_Caption,148,"일반 도보보라 브로콜리보다
+신선도가 높은 식재료."
+ITM_PRC904_Caption,148,살라미 재료로 최적인 즈우스의 목심.
+ITM_PRC901_Name,18,향기로운 시누유니 마늘
+ITM_PRC902_Name,18,싱싱한 윌 피망
+ITM_PRC903_Name,18,신선한 도보보라 브로콜리
+ITM_PRC904_Name,18,육질 좋은 즈우스의 목심
+ITM_PRC900_Caption,148,"백목의 대륙에서 드물게 채취되는
+천연 액체 금속. 열전도 효율이 높아
+일시적인 냉각 조치에 사용된다."
+ITM_PRC900_Name,18,용융 금속 리프듐
+ITM_PRC908_Caption,148,"백목의 대륙에 서식하는 나무에서 소량
+분비되는 수액. 점도가 적당하며 열저항치가
+낮아 천연 방열 윤활유로 이용할 수 있다."
+ITM_PRC908_Name,18,백목의 청수액

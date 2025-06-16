@@ -5,10 +5,10 @@
 import csv
 import sys
 
-itm_preciouslist = "ITM_PreciousList.csv"
+itm_preciouslist = "ITM_PreciousList_DE.csv"
 item_table = "drp_itemtable.csv" # Lists the drop table
 multilanguage_base = "Languages/itm_preciouslist_ms_{lng}.csv"
-languages = ["en", "jp", "fr", "de", "es", "it"]
+languages = ["en", "jp", "fr", "de", "es", "it", "zh-tr", "zh-si", "ko"]
 
 def csv_to_dict(file_name):
     with open(file_name, encoding="utf-8-sig") as f:
@@ -39,20 +39,33 @@ def csv_to_dict_v2(file_name, bitfield_sections = []):
             row_num = row_num + 1
     return a
 
-def important_navbox(important_details):
-	head = "{{Infobox XCX important item\n"
-	navbox = head
-	for key in important_details.keys():
-		toWrite = important_details[key]
-		if key == "Caption":
-			toWrite = toWrite.replace("[ST:n ]", " ").replace("\\\"", "\"")
-		navbox += "|" + key + " = " + toWrite + "\n"
-	tail = "}}"
-	navbox += tail
-	return navbox
+def get_details_by_ID(search_dict, id, idx="ID"):
+    return next((q for q in search_dict if q[idx] == str(id)), None)
+
+def caption_scrub(caption):
+    return caption.replace("[ST:n ]", " ").replace("\\\"", "\"").replace("\n", " ")
+
+def important_navbox(important_details, lang_details):
+    head = "{{Infobox XCX important item\n"
+    infobox = head
+    for key in important_details.keys():
+        toWrite = important_details[key]
+        if key == "Name":
+            print("name ID", toWrite)
+            infobox += "|" + key + "=" + get_details_by_ID(lang_details, int(toWrite))["name"] + "\n"
+        elif key == "Caption":
+            if int(toWrite) != 0:
+                infobox += "|" + key + "=" + caption_scrub(get_details_by_ID(lang_details, int(toWrite))["name"]) + "\n"
+            else:
+                infobox += "|" + key + "=" + "\n"
+        else:
+            infobox += "|" + key + " = " + toWrite + "\n"
+    tail = "}}"
+    infobox += tail
+    return infobox
 
 def summary(item_name):
-	return "'''" + item_name + "''' is an [[Important Item]] in ''[[Xenoblade Chronicles X]]''."
+    return "'''" + item_name + "''' is an [[Important Item]] in ''[[Xenoblade Chronicles X]]''."
 
 def sources(ids, DRP_ID):
     item_sources = "{{XCX important item sources\n"
@@ -71,10 +84,14 @@ def other_languages(language_detail_list, item_linenumber):
     language_box = "{{in other languages\n"
     for i in range(len(languages)):
         # languages
-        print(len(language_detail_list), i, item_linenumber)
-        lng_amrname = language_detail_list[i][item_linenumber]["name"]
+        print(item_linenumber)
+        lng_amrname = get_details_by_ID(language_detail_list[i], item_linenumber)['name']
         if languages[i] == "jp":
             lng_amrname = "{{ja|" + lng_amrname + "|}}"
+        if languages[i] == "zh-si" or languages[i] == "zh-tr":
+            lng_amrname = "{{zh|" + lng_amrname + "|}}"
+        if languages[i] == "ko":
+            lng_amrname = "{{ko|" + lng_amrname + "|}}"
         language_box += "|" + languages[i] + " = " + lng_amrname + "\n"
         if languages[i] != "en":
             language_box += "|" + languages[i] + " meaning = \n"
@@ -82,57 +99,53 @@ def other_languages(language_detail_list, item_linenumber):
     language_box += "}}"
     return language_box
 
-# Check arguments
-if len(sys.argv) <= 1:
-	print("Please enter the important item ID number.")
-	sys.exit()
-
 # Init all dictionaries
-blh_dict = csv_to_dict(itm_preciouslist)
+blh_dict = csv_to_dict_v2(itm_preciouslist)
 item_dict = csv_to_dict_v2(item_table)
 all_language_files = map(lambda lang: multilanguage_base.format(lng=lang), languages)
 language_detail_list = list(map(csv_to_dict_v2, all_language_files))
 
-# Find the proper item given the ID
-itm_id = sys.argv[1]
-item_details = next((q for q in blh_dict if q["ID"] == itm_id), None)
+with open("precious_items/result.txt","w", encoding="utf-8") as outputFile:
+    for itm_id_int in range(1,241):
 
-ItemID = item_details["ID"]
-ItemName = item_details["Name"]
+        # Find the proper item given the ID
+        itm_id = str(itm_id_int)
+        item_details = next((q for q in blh_dict if q["ID"] == itm_id), None)
 
-drop_details = next((q for q in item_dict if (q["ItemID"] == ItemID and q["ItemType"] in ["29"])), None)
-if drop_details is not None:
-    drop_id = drop_details["ID"]
-    drop_itemtype = drop_details["ItemType"]
-else:
-    drop_id = None
-    drop_itemtype = None
+        ItemID = item_details["ID"]
+        ItemName_id = item_details["Name"]
+        precious_name = get_details_by_ID(language_detail_list[0], ItemName_id)['name']
 
-# Populate the page.
-infobox_item = important_navbox(item_details)
-print(infobox_item)
+        drop_details = next((q for q in item_dict if (q["ItemID"] == ItemID and q["ItemType"] in ["29"])), None)
+        if drop_details is not None:
+            drop_id = drop_details["ID"]
+            drop_itemtype = drop_details["ItemType"]
+        else:
+            drop_id = None
+            drop_itemtype = None
 
-fullText = infobox_item + "\n\n"
+        # Populate the page.
+        infobox_item = important_navbox(item_details, language_detail_list[0])
 
-fullText += summary(ItemName) + "\n\n"
+        fullText = infobox_item + "\n\n"
 
-# SECTION FOR SOURCES 
-if drop_id is not None:
-	sources_delimiter = "==Sources==\n"
-	fullText += sources_delimiter
+        fullText += summary(precious_name) + "\n\n"
 
-	fullText += sources([ItemID], drop_id) + "\n\n"
+        # SECTION FOR SOURCES 
+        if drop_id is not None:
+            sources_delimiter = "==Sources==\n"
+            fullText += sources_delimiter
 
-other_languages_delimiter = "==In other languages==\n"
-fullText += other_languages_delimiter
+            fullText += sources([ItemID], drop_id) + "\n\n"
 
-item_linenumber = int(ItemID)-1
-print(item_linenumber)
+        other_languages_delimiter = "==In other languages==\n"
+        fullText += other_languages_delimiter
 
-fullText += other_languages(language_detail_list, item_linenumber)
+        fullText += other_languages(language_detail_list, ItemName_id) + "\n"
 
-outputFile=open(ItemID + "-" + ItemName + ".txt","w",encoding="utf-8-sig")
-outputFile.write(fullText)
-outputFile.close()
+        outputFile.write("{{-start-}}\n")
+        outputFile.write("'''"+precious_name+"'''\n")
+        outputFile.write(fullText)
+        outputFile.write("{{-stop-}}\n")
 
 print("done")
