@@ -51,7 +51,6 @@ def important_navbox(important_details, lang_details):
     for key in important_details.keys():
         toWrite = important_details[key]
         if key == "Name":
-            print("name ID", toWrite)
             infobox += "|" + key + "=" + get_details_by_ID(lang_details, int(toWrite))["name"] + "\n"
         elif key == "Caption":
             if int(toWrite) != 0:
@@ -84,7 +83,6 @@ def other_languages(language_detail_list, item_linenumber):
     language_box = "{{in other languages\n"
     for i in range(len(languages)):
         # languages
-        print(item_linenumber)
         lng_amrname = get_details_by_ID(language_detail_list[i], item_linenumber)['name']
         if languages[i] == "jp":
             lng_amrname = "{{ja|" + lng_amrname + "|}}"
