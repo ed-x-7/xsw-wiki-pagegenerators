@@ -1,0 +1,2247 @@
+label {9},style {2},name {7}
+ITM_INFO_001_Name,21,Nutrimento per il Grande Albero
+ITM_INFO_002_Name,21,Abilità di caccia Pron
+ITM_INFO_003_Name,21,Proprietà Agrifoglio Kepha
+ITM_INFO_004_Name,21,Posizione di Tatsu
+ITM_INFO_005_Name,21,Avvistamento di Tatsu
+ITM_INFO_006_Name,21,Compagno di Yelv
+ITM_INFO_007_Name,21,Compagno di Yelv
+ITM_INFO_008_Name,21,Tec. raffin. Ultracciaio di Neraph
+ITM_INFO_009_Name,21,Turno di notte del comandante
+ITM_INFO_010_Name,0,
+ITM_INFO_011_Name,21,Informazioni sul candidato 1
+ITM_INFO_012_Name,21,Informazioni sul candidato 2
+ITM_INFO_013_Name,21,Informazioni sul candidato 3
+ITM_INFO_014_Name,0,
+ITM_INFO_015_Name,0,
+ITM_INFO_016_Name,0,
+ITM_INFO_017_Name,0,
+ITM_INFO_018_Name,21,Posizione di Gerome
+ITM_INFO_019_Name,0,
+ITM_INFO_020_Name,0,
+ITM_INFO_021_Name,21,Ubicazione dell'Aerozium
+ITM_INFO_022_Name,21,Informazioni sul cecchino
+ITM_INFO_023_Name,21,Aiuto dei Ma-non
+ITM_INFO_024_Name,21,Aiuto dei Ma-non
+ITM_INFO_025_Name,21,Ricetta del curry
+ITM_INFO_026_Name,21,Ricetta anatra alla pechinese
+ITM_INFO_027_Name,21,Ricetta spezzatino misterioso
+ITM_INFO_028_Name,21,Codice Definian
+ITM_INFO_029_Name,21,Ricetta di Ngogo
+ITM_INFO_030_Name,21,Ricetta di Pirapira
+ITM_INFO_031_Name,21,Ricetta di Warawa
+ITM_INFO_032_Name,0,
+ITM_INFO_033_Name,0,
+ITM_INFO_034_Name,0,
+ITM_INFO_035_Name,21,Indizio 1
+ITM_INFO_036_Name,21,Indizio 2
+ITM_INFO_037_Name,21,Indizio 3
+ITM_INFO_038_Name,0,
+ITM_INFO_039_Name,0,
+ITM_INFO_040_Name,0,
+ITM_INFO_041_Name,0,
+ITM_INFO_042_Name,21,Posizione di Aisha
+ITM_INFO_043_Name,0,
+ITM_INFO_044_Name,0,
+ITM_INFO_045_Name,0,
+ITM_INFO_046_Name,21,Avvistamento del cecchino 1
+ITM_INFO_047_Name,21,Avvistamento del cecchino 2
+ITM_INFO_048_Name,21,Avvistamento del cecchino 3
+ITM_INFO_049_Name,0,
+ITM_INFO_050_Name,21,Disinnesco bombe
+ITM_INFO_051_Name,21,Aiuto Ma-non
+ITM_INFO_052_Name,21,Avvistamento di Sun'celeg
+ITM_INFO_053_Name,21,Avvistamento di Sun'celeg
+ITM_INFO_054_Name,21,Posizione di Celica
+ITM_INFO_055_Name,21,Posizione di Rock
+ITM_INFO_056_Name,0,
+ITM_INFO_057_Name,0,
+ITM_INFO_058_Name,0,
+ITM_INFO_059_Name,0,
+ITM_INFO_060_Name,0,
+ITM_INFO_061_Name,0,
+ITM_INFO_062_Name,21,Conoscenza d'oltretomba
+ITM_INFO_063_Name,21,Conoscenza d'oltretomba
+ITM_INFO_064_Name,21,Conoscenza d'oltretomba
+ITM_INFO_065_Name,21,Registro delle attività
+ITM_INFO_066_Name,21,Info su Bobora il Vagabondo 1
+ITM_INFO_067_Name,21,Info su Bobora il Vagabondo 2
+ITM_INFO_068_Name,21,Info su Bobora il Vagabondo 3
+ITM_INFO_069_Name,21,Info sul coso supergigante
+ITM_INFO_070_Name,21,Info sul coso supergigante
+ITM_INFO_071_Name,21,Info sul coso supergigante
+ITM_INFO_072_Name,21,Info sul coso supergigante
+ITM_INFO_073_Name,21,Indizio sull'Acqua Senirapa
+ITM_INFO_074_Name,0,
+ITM_INFO_075_Name,21,Info schianto Balena Bianca 1
+ITM_INFO_076_Name,21,Info schianto Balena Bianca 2
+ITM_INFO_077_Name,21,Info schianto Balena Bianca 3
+ITM_INFO_078_Name,21,Informazioni sull'isola sperduta
+ITM_INFO_079_Name,21,Informazioni sui Blathax
+ITM_INFO_080_Name,0,
+ITM_INFO_081_Name,0,
+ITM_INFO_082_Name,0,
+ITM_INFO_083_Name,0,
+ITM_INFO_084_Name,0,
+ITM_INFO_085_Name,0,
+ITM_INFO_086_Name,21,Dati di ricerca
+ITM_INFO_087_Name,21,Posizione di Lan'cord
+ITM_INFO_088_Name,21,Informazioni tesoro
+ITM_INFO_089_Name,0,
+ITM_INFO_090_Name,0,
+ITM_INFO_091_Name,0,
+ITM_INFO_092_Name,0,
+ITM_INFO_093_Name,0,
+ITM_INFO_094_Name,21,Informazioni Dialogo empatico
+ITM_INFO_095_Name,21,Informazioni sulla donna in fuga 1
+ITM_INFO_096_Name,21,Informazioni sulla donna in fuga 2
+ITM_INFO_097_Name,21,Informazioni sulla donna in fuga 3
+ITM_INFO_098_Name,21,Info sulla persona scomparsa
+ITM_INFO_099_Name,0,
+ITM_INFO_100_Name,21,Consiglio per riparare elicotteri
+ITM_INFO_101_Name,21,Informazioni Tyrant
+ITM_INFO_102_Name,21,Informazioni Tyrant
+ITM_INFO_103_Name,21,Informazioni tesoro
+ITM_INFO_104_Name,21,Informazioni tesoro
+ITM_INFO_105_Name,21,Informazioni tesoro
+ITM_INFO_106_Name,21,Informazioni Tyrant
+ITM_INFO_107_Name,21,Informazioni Tyrant
+ITM_INFO_108_Name,21,Informazioni tesoro
+ITM_INFO_109_Name,21,Informazioni Tyrant
+ITM_INFO_110_Name,21,Informazioni Tyrant
+ITM_INFO_111_Name,21,Informazioni tesoro
+ITM_INFO_112_Name,21,Informazioni tesoro
+ITM_INFO_113_Name,21,Informazioni tesoro
+ITM_INFO_114_Name,21,Informazioni tesoro
+ITM_INFO_115_Name,21,Informazioni tesoro
+ITM_INFO_116_Name,21,Informazioni Tyrant
+ITM_INFO_117_Name,21,Informazioni tesoro
+ITM_INFO_118_Name,21,Informazioni tesoro
+ITM_INFO_119_Name,21,Informazioni Tyrant
+ITM_INFO_120_Name,21,Informazioni tesoro
+ITM_INFO_121_Name,21,Informazioni tesoro
+ITM_INFO_122_Name,21,Informazioni Tyrant
+ITM_INFO_123_Name,21,Informazioni Tyrant
+ITM_INFO_124_Name,21,Informazioni Tyrant
+ITM_INFO_125_Name,21,Informazioni Tyrant
+ITM_INFO_126_Name,21,Informazioni tesoro
+ITM_INFO_127_Name,21,Informazioni Tyrant
+ITM_INFO_128_Name,21,Informazioni Tyrant
+ITM_INFO_129_Name,21,Informazioni Tyrant
+ITM_INFO_130_Name,21,Informazioni Tyrant
+ITM_INFO_131_Name,21,Informazioni Tyrant
+ITM_INFO_132_Name,21,Informazioni Tyrant
+ITM_INFO_133_Name,21,Informazioni Tyrant
+ITM_INFO_134_Name,21,Informazioni Tyrant
+ITM_INFO_135_Name,21,Informazioni tesoro
+ITM_INFO_136_Name,21,Informazioni tesoro
+ITM_INFO_137_Name,21,Informazioni Tyrant
+ITM_INFO_138_Name,21,Informazioni tesoro
+ITM_INFO_139_Name,21,Informazioni tesoro
+ITM_INFO_140_Name,21,Informazioni tesoro
+ITM_INFO_141_Name,21,Informazioni Tyrant
+ITM_INFO_142_Name,21,Informazioni tesoro
+ITM_INFO_143_Name,21,Informazioni tesoro
+ITM_INFO_144_Name,21,Informazioni tesoro
+ITM_INFO_145_Name,21,Informazioni tesoro
+ITM_INFO_146_Name,21,Informazioni tesoro
+ITM_INFO_147_Name,0,
+ITM_INFO_148_Name,0,
+ITM_INFO_149_Name,0,
+ITM_INFO_150_Name,21,Informazioni missione
+ITM_INFO_151_Name,21,Informazioni Tyrant
+ITM_INFO_152_Name,21,Informazioni Tyrant
+ITM_INFO_153_Name,21,Informazioni tesoro
+ITM_INFO_154_Name,21,Informazioni Tyrant
+ITM_INFO_155_Name,21,Informazioni Tyrant
+ITM_INFO_156_Name,21,Informazioni Tyrant
+ITM_INFO_157_Name,21,Informazioni Tyrant
+ITM_INFO_158_Name,21,Informazioni Tyrant
+ITM_INFO_159_Name,21,Informazioni Tyrant
+ITM_INFO_160_Name,21,Informazioni tesoro
+ITM_INFO_161_Name,21,Informazioni Tyrant
+ITM_INFO_162_Name,21,Informazioni tesoro
+ITM_INFO_163_Name,21,Informazioni tesoro
+ITM_INFO_164_Name,21,Informazioni tesoro
+ITM_INFO_165_Name,21,Informazioni tesoro
+ITM_INFO_166_Name,21,Informazioni tesoro
+ITM_INFO_167_Name,21,Informazioni Tyrant
+ITM_INFO_168_Name,21,Informazioni tesoro
+ITM_INFO_169_Name,21,Informazioni Tyrant
+ITM_INFO_170_Name,21,Informazioni tesoro
+ITM_INFO_171_Name,21,Informazioni Tyrant
+ITM_INFO_172_Name,21,Informazioni Tyrant
+ITM_INFO_173_Name,21,Informazioni tesoro
+ITM_INFO_174_Name,21,Informazioni Tyrant
+ITM_INFO_175_Name,21,Informazioni tesoro
+ITM_INFO_176_Name,21,Informazioni Tyrant
+ITM_INFO_177_Name,21,Informazioni tesoro
+ITM_INFO_178_Name,21,Informazioni Tyrant
+ITM_INFO_179_Name,21,Informazioni tesoro
+ITM_INFO_201_Name,21,Informazioni tesoro
+ITM_INFO_202_Name,21,Informazioni tesoro
+ITM_INFO_203_Name,21,Informazioni Tyrant
+ITM_INFO_204_Name,21,Informazioni tesoro
+ITM_INFO_205_Name,21,Informazioni Tyrant
+ITM_INFO_206_Name,21,Informazioni tesoro
+ITM_INFO_207_Name,21,Informazioni tesoro
+ITM_INFO_208_Name,21,Informazioni Tyrant
+ITM_INFO_209_Name,21,Informazioni tesoro
+ITM_INFO_210_Name,21,Informazioni Tyrant
+ITM_INFO_211_Name,21,Informazioni tesoro
+ITM_INFO_212_Name,21,Informazioni Tyrant
+ITM_INFO_213_Name,21,Informazioni Tyrant
+ITM_INFO_214_Name,21,Informazioni Tyrant
+ITM_INFO_215_Name,21,Informazioni tesoro
+ITM_INFO_216_Name,21,Informazioni tesoro
+ITM_INFO_217_Name,21,Informazioni tesoro
+ITM_INFO_218_Name,21,Informazioni Tyrant
+ITM_INFO_219_Name,21,Informazioni tesoro
+ITM_INFO_220_Name,21,Informazioni Tyrant
+ITM_INFO_221_Name,21,Informazioni tesoro
+ITM_INFO_222_Name,21,Informazioni Tyrant
+ITM_INFO_223_Name,21,Informazioni Tyrant
+ITM_INFO_224_Name,21,Informazioni tesoro
+ITM_INFO_225_Name,21,Informazioni Tyrant
+ITM_INFO_226_Name,21,Informazioni tesoro
+ITM_INFO_227_Name,21,Informazioni tesoro
+ITM_INFO_228_Name,21,Informazioni Tyrant
+ITM_INFO_229_Name,21,Informazioni Tyrant
+ITM_INFO_230_Name,21,Informazioni tesoro
+ITM_INFO_231_Name,21,Informazioni Tyrant
+ITM_INFO_232_Name,21,Informazioni Tyrant
+ITM_INFO_233_Name,21,Informazioni Tyrant
+ITM_INFO_234_Name,21,Informazioni tesoro
+ITM_INFO_235_Name,21,Informazioni tesoro
+ITM_INFO_236_Name,21,Informazioni tesoro
+ITM_INFO_237_Name,21,Informazioni Tyrant
+ITM_INFO_238_Name,21,Informazioni Tyrant
+ITM_INFO_239_Name,21,Informazioni tesoro
+ITM_INFO_240_Name,21,Informazioni tesoro
+ITM_INFO_241_Name,21,Informazioni Tyrant
+ITM_INFO_242_Name,21,Informazioni tesoro
+ITM_INFO_243_Name,21,Informazioni tesoro
+ITM_INFO_244_Name,21,Informazioni Tyrant
+ITM_INFO_245_Name,21,Informazioni tesoro
+ITM_INFO_246_Name,21,Informazioni Tyrant
+ITM_INFO_247_Name,21,Informazioni tesoro
+ITM_INFO_248_Name,21,Informazioni Tyrant
+ITM_INFO_249_Name,21,Informazioni tesoro
+ITM_INFO_250_Name,21,Informazioni Tyrant
+ITM_INFO_251_Name,21,Informazioni tesoro
+ITM_INFO_252_Name,21,Informazioni tesoro
+ITM_INFO_253_Name,21,Informazioni tesoro
+ITM_INFO_254_Name,21,Informazioni Tyrant
+ITM_INFO_255_Name,21,Informazioni Tyrant
+ITM_INFO_256_Name,21,Informazioni tesoro
+ITM_INFO_257_Name,21,Informazioni Tyrant
+ITM_INFO_258_Name,21,Informazioni tesoro
+ITM_INFO_259_Name,21,Informazioni Tyrant
+ITM_INFO_260_Name,21,Informazioni tesoro
+ITM_INFO_261_Name,21,Informazioni tesoro
+ITM_INFO_262_Name,21,Informazioni tesoro
+ITM_INFO_263_Name,21,Informazioni Tyrant
+ITM_INFO_264_Name,21,Informazioni tesoro
+ITM_INFO_265_Name,21,Informazioni tesoro
+ITM_INFO_266_Name,21,Informazioni Tyrant
+ITM_INFO_267_Name,21,Informazioni tesoro
+ITM_INFO_268_Name,21,Informazioni tesoro
+ITM_INFO_269_Name,21,Informazioni tesoro
+ITM_INFO_270_Name,21,Informazioni Tyrant
+ITM_INFO_271_Name,21,Informazioni tesoro
+ITM_INFO_272_Name,21,Informazioni tesoro
+ITM_INFO_273_Name,21,Informazioni tesoro
+ITM_INFO_274_Name,21,Informazioni tesoro
+ITM_INFO_275_Name,21,Informazioni Tyrant
+ITM_INFO_276_Name,21,Informazioni Tyrant
+ITM_INFO_277_Name,21,Informazioni Tyrant
+ITM_INFO_278_Name,21,Informazioni Tyrant
+ITM_INFO_279_Name,21,Informazioni tesoro
+ITM_INFO_280_Name,21,Informazioni Tyrant
+ITM_INFO_281_Name,21,Informazioni Tyrant
+ITM_INFO_282_Name,21,Informazioni tesoro
+ITM_INFO_283_Name,21,Informazioni Tyrant
+ITM_INFO_284_Name,21,Informazioni tesoro
+ITM_INFO_285_Name,21,Informazioni tesoro
+ITM_INFO_286_Name,21,Informazioni tesoro
+ITM_INFO_287_Name,21,Informazioni tesoro
+ITM_INFO_288_Name,21,Informazioni Tyrant
+ITM_INFO_289_Name,21,Informazioni Tyrant
+ITM_INFO_290_Name,21,Informazioni tesoro
+ITM_INFO_291_Name,21,Informazioni Tyrant
+ITM_INFO_292_Name,21,Informazioni Tyrant
+ITM_INFO_293_Name,21,Informazioni tesoro
+ITM_INFO_294_Name,21,Informazioni tesoro
+ITM_INFO_295_Name,21,Informazioni tesoro
+ITM_INFO_296_Name,21,Informazioni Tyrant
+ITM_INFO_297_Name,21,Informazioni tesoro
+ITM_INFO_298_Name,21,Informazioni tesoro
+ITM_INFO_299_Name,21,Informazioni Tyrant
+ITM_INFO_300_Name,21,Informazioni Tyrant
+ITM_INFO_301_Name,21,Informazioni Tyrant
+ITM_INFO_302_Name,21,Informazioni tesoro
+ITM_INFO_303_Name,21,Informazioni tesoro
+ITM_INFO_304_Name,21,Informazioni Tyrant
+ITM_INFO_305_Name,21,Informazioni tesoro
+ITM_INFO_306_Name,21,Informazioni Tyrant
+ITM_INFO_307_Name,21,Informazioni tesoro
+ITM_INFO_308_Name,21,Informazioni Tyrant
+ITM_INFO_309_Name,21,Informazioni tesoro
+ITM_INFO_310_Name,21,Informazioni Tyrant
+ITM_INFO_311_Name,21,Informazioni tesoro
+ITM_INFO_312_Name,21,Informazioni Tyrant
+ITM_INFO_313_Name,21,Informazioni tesoro
+ITM_INFO_314_Name,21,Informazioni tesoro
+ITM_INFO_315_Name,21,Informazioni tesoro
+ITM_INFO_316_Name,21,Informazioni tesoro
+ITM_INFO_317_Name,21,Informazioni tesoro
+ITM_INFO_318_Name,21,Informazioni tesoro
+ITM_INFO_319_Name,21,Informazioni Tyrant
+ITM_INFO_320_Name,21,Informazioni tesoro
+ITM_INFO_321_Name,21,Informazioni tesoro
+ITM_INFO_322_Name,21,Informazioni Tyrant
+ITM_INFO_323_Name,21,Informazioni Tyrant
+ITM_INFO_324_Name,21,Informazioni Tyrant
+ITM_INFO_325_Name,21,Informazioni tesoro
+ITM_INFO_326_Name,21,Informazioni Tyrant
+ITM_INFO_327_Name,21,Informazioni tesoro
+ITM_INFO_328_Name,21,Informazioni tesoro
+ITM_INFO_329_Name,21,Informazioni tesoro
+ITM_INFO_330_Name,21,Informazioni Tyrant
+ITM_INFO_331_Name,21,Informazioni tesoro
+ITM_INFO_332_Name,21,Informazioni Tyrant
+ITM_INFO_333_Name,21,Informazioni Tyrant
+ITM_INFO_334_Name,21,Informazioni tesoro
+ITM_INFO_335_Name,21,Informazioni tesoro
+ITM_INFO_336_Name,21,Informazioni tesoro
+ITM_INFO_337_Name,21,Informazioni tesoro
+ITM_INFO_338_Name,21,Informazioni tesoro
+ITM_INFO_339_Name,21,Informazioni tesoro
+ITM_INFO_340_Name,21,Informazioni tesoro
+ITM_INFO_341_Name,21,Informazioni tesoro
+ITM_INFO_342_Name,21,Informazioni tesoro
+ITM_INFO_343_Name,0,
+ITM_INFO_344_Name,0,
+ITM_INFO_345_Name,0,
+ITM_INFO_346_Name,0,
+ITM_INFO_347_Name,0,
+ITM_INFO_348_Name,0,
+ITM_INFO_349_Name,0,
+ITM_INFO_350_Name,0,
+ITM_INFO_351_Name,0,
+ITM_INFO_352_Name,21,Informazioni Dialogo empatico
+ITM_INFO_353_Name,21,Informazioni missione
+ITM_INFO_354_Name,21,Informazioni missione
+ITM_INFO_355_Name,21,Informazioni missione
+ITM_INFO_356_Name,21,Informazioni Dialogo empatico
+ITM_INFO_357_Name,21,Informazioni missione
+ITM_INFO_358_Name,21,Informazioni missione
+ITM_INFO_359_Name,21,Informazioni Dialogo empatico
+ITM_INFO_360_Name,21,Informazioni missione
+ITM_INFO_361_Name,21,Informazioni Dialogo empatico
+ITM_INFO_362_Name,21,Informazioni Dialogo empatico
+ITM_INFO_363_Name,21,Informazioni missione
+ITM_INFO_364_Name,21,Informazioni Dialogo empatico
+ITM_INFO_365_Name,21,Informazioni Dialogo empatico
+ITM_INFO_366_Name,21,Informazioni missione
+ITM_INFO_367_Name,21,Informazioni Dialogo empatico
+ITM_INFO_368_Name,21,Informazioni missione
+ITM_INFO_369_Name,21,Informazioni missione
+ITM_INFO_370_Name,21,Informazioni missione
+ITM_INFO_371_Name,21,Informazioni tesoro
+ITM_INFO_372_Name,21,Informazioni missione
+ITM_INFO_373_Name,21,Informazioni missione
+ITM_INFO_374_Name,21,Informazioni missione Intesa
+ITM_INFO_375_Name,21,Informazioni Dialogo empatico
+ITM_INFO_376_Name,21,Informazioni missione
+ITM_INFO_377_Name,21,Informazioni Dialogo empatico
+ITM_INFO_378_Name,21,Informazioni Dialogo empatico
+ITM_INFO_379_Name,21,Informazioni missione
+ITM_INFO_380_Name,21,Informazioni Dialogo empatico
+ITM_INFO_381_Name,21,Informazioni missione
+ITM_INFO_382_Name,21,Informazioni Dialogo empatico
+ITM_INFO_383_Name,21,Informazioni missione
+ITM_INFO_384_Name,21,Informazioni Dialogo empatico
+ITM_INFO_385_Name,21,Informazioni tesoro
+ITM_INFO_386_Name,21,Informazioni Dialogo empatico
+ITM_INFO_387_Name,21,Informazioni Dialogo empatico
+ITM_INFO_388_Name,21,Informazioni Dialogo empatico
+ITM_INFO_389_Name,21,Informazioni missione Intesa
+ITM_INFO_390_Name,21,Informazioni Dialogo empatico
+ITM_INFO_391_Name,21,Informazioni tesoro
+ITM_INFO_392_Name,21,Informazioni missione
+ITM_INFO_393_Name,21,Informazioni missione
+ITM_INFO_394_Name,21,Informazioni Dialogo empatico
+ITM_INFO_395_Name,21,Informazioni tesoro
+ITM_INFO_396_Name,21,Informazioni missione
+ITM_INFO_397_Name,21,Informazioni missione
+ITM_INFO_398_Name,21,Informazioni Dialogo empatico
+ITM_INFO_399_Name,21,Informazioni Dialogo empatico
+ITM_INFO_400_Name,21,Informazioni missione
+ITM_INFO_401_Name,21,Informazioni missione Intesa
+ITM_INFO_402_Name,21,Informazioni missione
+ITM_INFO_403_Name,21,Informazioni Dialogo empatico
+ITM_INFO_404_Name,21,Informazioni Dialogo empatico
+ITM_INFO_405_Name,21,Informazioni missione
+ITM_INFO_406_Name,21,Informazioni missione
+ITM_INFO_407_Name,21,Informazioni missione
+ITM_INFO_408_Name,21,Informazioni missione
+ITM_INFO_409_Name,21,Informazioni Dialogo empatico
+ITM_INFO_410_Name,21,Informazioni Dialogo empatico
+ITM_INFO_411_Name,21,Informazioni missione
+ITM_INFO_412_Name,21,Informazioni tesoro
+ITM_INFO_413_Name,21,Informazioni missione Intesa
+ITM_INFO_414_Name,21,Informazioni missione
+ITM_INFO_415_Name,21,Informazioni Dialogo empatico
+ITM_INFO_416_Name,21,Informazioni missione Intesa
+ITM_INFO_417_Name,21,Informazioni missione
+ITM_INFO_418_Name,21,Informazioni Dialogo empatico
+ITM_INFO_419_Name,21,Informazioni missione
+ITM_INFO_420_Name,21,Informazioni Dialogo empatico
+ITM_INFO_421_Name,21,Informazioni missione
+ITM_INFO_422_Name,21,Informazioni missione
+ITM_INFO_423_Name,21,Informazioni missione
+ITM_INFO_424_Name,21,Informazioni missione
+ITM_INFO_425_Name,21,Informazioni missione
+ITM_INFO_426_Name,21,Informazioni missione
+ITM_INFO_427_Name,21,Informazioni missione
+ITM_INFO_428_Name,21,Informazioni missione
+ITM_INFO_429_Name,21,Informazioni missione
+ITM_INFO_430_Name,21,Informazioni missione
+ITM_INFO_431_Name,21,Informazioni missione
+ITM_INFO_432_Name,21,Informazioni missione
+ITM_INFO_433_Name,0,
+ITM_INFO_434_Name,21,Informazioni tesoro
+ITM_INFO_435_Name,0,
+ITM_INFO_436_Name,0,
+ITM_INFO_437_Name,0,
+ITM_INFO_438_Name,21,Informazioni Dialogo empatico
+ITM_INFO_439_Name,0,
+ITM_INFO_440_Name,21,Informazioni Dialogo empatico
+ITM_INFO_441_Name,0,
+ITM_INFO_442_Name,0,
+ITM_INFO_443_Name,21,Informazioni missione
+ITM_INFO_444_Name,0,
+ITM_INFO_445_Name,0,
+ITM_INFO_446_Name,0,
+ITM_INFO_447_Name,0,
+ITM_INFO_448_Name,0,
+ITM_INFO_451_Name,21,
+ITM_INFO_452_Name,21,
+ITM_INFO_453_Name,21,
+ITM_INFO_454_Name,21,Abilità sul campo: meccanica
+ITM_INFO_455_Name,21,Abilità biologica
+ITM_INFO_456_Name,21,Abilità biologica
+ITM_INFO_457_Name,21,Abilità biologica
+ITM_INFO_458_Name,21,Abilità sul campo: biologica
+ITM_INFO_459_Name,21,
+ITM_INFO_460_Name,21,
+ITM_INFO_461_Name,21,
+ITM_INFO_462_Name,21,Abilità sul campo: archeologica
+ITM_INFO_463_Name,21,Informazioni Tyrant
+ITM_INFO_464_Name,21,Informazioni Tyrant
+ITM_INFO_465_Name,21,Informazioni tesoro
+ITM_INFO_501_Name,21,Informazioni Dialogo empatico
+ITM_INFO_502_Name,21,Informazioni missione
+ITM_INFO_503_Name,21,Informazioni Dialogo empatico
+ITM_INFO_504_Name,0,
+ITM_INFO_505_Name,21,Informazioni Dialogo empatico
+ITM_INFO_506_Name,21,Informazioni Dialogo empatico
+ITM_INFO_507_Name,21,Informazioni missione
+ITM_INFO_508_Name,21,Informazioni Dialogo empatico
+ITM_INFO_509_Name,21,Informazioni Dialogo empatico
+ITM_INFO_510_Name,21,Informazioni Dialogo empatico
+ITM_INFO_511_Name,21,Informazioni Dialogo empatico
+ITM_INFO_512_Name,21,Informazioni Dialogo empatico
+ITM_INFO_513_Name,0,
+ITM_INFO_514_Name,21,Informazioni missione
+ITM_INFO_515_Name,21,Informazioni Dialogo empatico
+ITM_INFO_516_Name,21,Informazioni Dialogo empatico
+ITM_INFO_517_Name,21,Informazioni Dialogo empatico
+ITM_INFO_518_Name,21,Informazioni Dialogo empatico
+ITM_INFO_519_Name,21,Informazioni Dialogo empatico
+ITM_INFO_520_Name,21,Informazioni Dialogo empatico
+ITM_INFO_521_Name,21,Informazioni Dialogo empatico
+ITM_INFO_522_Name,21,Informazioni Dialogo empatico
+ITM_INFO_523_Name,21,Informazioni missione
+ITM_INFO_524_Name,21,Informazioni Dialogo empatico
+ITM_INFO_525_Name,21,Informazioni missione
+ITM_INFO_526_Name,21,Avvistamento di Lyvia
+ITM_INFO_527_Name,21,Informazioni Dialogo empatico
+ITM_INFO_528_Name,21,Informazioni missione Intesa
+ITM_INFO_529_Name,21,Informazioni Dialogo empatico
+ITM_INFO_530_Name,21,Informazioni missione Intesa
+ITM_INFO_531_Name,21,Informazioni missione
+ITM_INFO_532_Name,21,Informazioni Dialogo empatico
+ITM_INFO_533_Name,21,Informazioni Dialogo empatico
+ITM_INFO_534_Name,21,Informazioni Dialogo empatico
+ITM_INFO_535_Name,21,Informazioni missione Intesa
+ITM_INFO_536_Name,21,Informazioni Dialogo empatico
+ITM_INFO_537_Name,0,
+ITM_INFO_538_Name,21,Informazioni missione
+ITM_INFO_539_Name,21,Informazioni missione
+ITM_INFO_540_Name,21,Informazioni missione
+ITM_INFO_541_Name,21,Informazioni missione Intesa
+ITM_INFO_542_Name,21,Informazioni missione
+ITM_INFO_543_Name,21,Informazioni Dialogo empatico
+ITM_INFO_544_Name,21,Informazioni tesoro
+ITM_INFO_545_Name,21,Informazioni missione
+ITM_INFO_546_Name,21,Informazioni missione Intesa
+ITM_INFO_547_Name,21,Informazioni tesoro
+ITM_INFO_548_Name,21,Informazioni Dialogo empatico
+ITM_INFO_549_Name,21,Informazioni Dialogo empatico
+ITM_INFO_550_Name,21,Informazioni missione Intesa
+ITM_INFO_551_Name,21,Informazioni tesoro
+ITM_INFO_552_Name,21,Informazioni missione
+ITM_INFO_553_Name,21,Informazioni missione
+ITM_INFO_554_Name,21,Informazioni missione Intesa
+ITM_INFO_555_Name,21,Informazioni missione
+ITM_INFO_556_Name,21,Informazioni missione
+ITM_INFO_557_Name,21,Informazioni missione
+ITM_INFO_558_Name,21,Informazioni missione
+ITM_INFO_559_Name,21,Informazioni missione
+ITM_INFO_560_Name,21,Informazioni missione
+ITM_INFO_561_Name,21,Informazioni Dialogo empatico
+ITM_INFO_562_Name,21,Informazioni missione
+ITM_INFO_563_Name,21,Informazioni Dialogo empatico
+ITM_INFO_564_Name,21,Informazioni Dialogo empatico
+ITM_INFO_565_Name,21,Informazioni missione
+ITM_INFO_566_Name,21,Informazioni tesoro
+ITM_INFO_567_Name,0,
+ITM_INFO_568_Name,21,Informazioni missione
+ITM_INFO_569_Name,21,Informazioni missione
+ITM_INFO_570_Name,21,Informazioni missione
+ITM_INFO_571_Name,21,Informazioni Dialogo empatico
+ITM_INFO_572_Name,21,Informazioni missione
+ITM_INFO_573_Name,21,Informazioni missione
+ITM_INFO_574_Name,0,
+ITM_INFO_575_Name,0,
+ITM_INFO_576_Name,21,Informazioni missione
+ITM_INFO_577_Name,21,Informazioni missione
+ITM_INFO_578_Name,21,Informazioni missione Intesa
+ITM_INFO_579_Name,21,Informazioni Dialogo empatico
+ITM_INFO_580_Name,21,Informazioni Dialogo empatico
+ITM_INFO_581_Name,21,Informazioni Dialogo empatico
+ITM_INFO_582_Name,0,
+ITM_INFO_583_Name,21,Informazioni missione
+ITM_INFO_001_Caption,171,"La linfa di Ramonodoso può aiutare
+la crescita del Grande Albero."
+ITM_INFO_002_Caption,171,"Tradizionali tecniche di caccia tramandate
+dai Pron sin dall'antichità."
+ITM_INFO_003_Caption,171,"Il Simius addomesticato dal Clan delle Caverne
+è vulnerabile all'Agrifoglio Kepha."
+ITM_INFO_004_Caption,171,"Tatsu si è diretto verso la Flotta Minatrice
+Dimenticata, a Cauldros."
+ITM_INFO_005_Caption,171,Tatsu ha fatto ritorno alla caserma BLADE.
+ITM_INFO_006_Caption,171,"Ci sono tracce del compagno di Yelv
+alla Gola Ibra orientale, a Oblivia."
+ITM_INFO_007_Caption,171,"Ci sono tracce del compagno di Yelv
+nei pressi del Lago Basel, a Oblivia."
+ITM_INFO_008_Caption,171,"Metodo segreto di Neraph per raffinare
+un tipo di acciaio particolarmente resistente."
+ITM_INFO_009_Caption,171,"Vandham si può incontrare alla
+Torre BLADE, durante la notte."
+ITM_INFO_010_Caption,0,
+ITM_INFO_011_Caption,171,"Lo Xenorappresentante ideale è un Orphe
+disposto ad ascoltare le opinioni delle
+altre specie."
+ITM_INFO_012_Caption,171,"Lo Xenorappresentante ideale è un Orphe
+dotato di perspicacia e raziocinio."
+ITM_INFO_013_Caption,171,"Lo Xenorappresentante ideale è un Orphe
+altruista e disinteressato al denaro."
+ITM_INFO_014_Caption,0,
+ITM_INFO_015_Caption,0,
+ITM_INFO_016_Caption,0,
+ITM_INFO_017_Caption,0,
+ITM_INFO_018_Caption,171,"Il ragazzo seduto nel livello inferiore,
+sotto Parco della Salvezza, è Gerome?
+Che cosa ci farà là sotto?"
+ITM_INFO_019_Caption,0,
+ITM_INFO_020_Caption,0,
+ITM_INFO_021_Caption,171,"La Carovana Dorian, a Oblivia, si occupa
+del commercio di Aerozium."
+ITM_INFO_022_Caption,171,"Un testimone dell'attacco alla nave Ma-non ha
+visto un raggio partire da Forte Rupestre."
+ITM_INFO_023_Caption,171,"Grazie ai Ma-non, i materiali un tempo
+difficili da raffinare ora sono più facili
+da ottenere."
+ITM_INFO_024_Caption,171,"La compagnia Ma-non produttrice d'armi,
+Candid & Credible, è di grande aiuto nello
+sviluppo di equipaggiamenti per umani."
+ITM_INFO_025_Caption,171,"Istruzioni per la preparazione di un curry
+fatto in casa dal sapore molto intenso."
+ITM_INFO_026_Caption,171,Una ricetta segreta per l'anatra alla pechinese.
+ITM_INFO_027_Caption,171,Ricetta per uno stufato stravagante.
+ITM_INFO_028_Caption,171,"Il codice per accedere al quartier generale
+delle Definian a Cauldros."
+ITM_INFO_029_Caption,171,"Una ricetta della cucina reale Nopon,
+tramandata di generazione in generazione."
+ITM_INFO_030_Caption,171,"Una ricetta di una squisita specialità Nopon
+preparata con erbe e insetti tritati."
+ITM_INFO_031_Caption,171,"Una ricetta di un piatto tradizionale Nopon
+preparato dalla mammapon di Warawa."
+ITM_INFO_032_Caption,0,
+ITM_INFO_033_Caption,0,
+ITM_INFO_034_Caption,0,
+ITM_INFO_035_Caption,171,"Ho sentito che la vittima è morta per un
+colpo alla testa e uno al piede! Fossi in te,
+uscirei sempre in compagnia, se possibile."
+ITM_INFO_036_Caption,171,"A quanto pare, gli uomini uccisi sono morti 
+a causa di un colpo alla gamba destra e 
+uno alla testa. È pura follia! Dev'essere 
+stata opera di qualche Xeno impazzito!"
+ITM_INFO_037_Caption,171,"Le vittime del serial killer sono state tutte uccise
+allo stesso modo. Cosa avranno in comune?
+E cosa vorrà ottenere il serial killer?"
+ITM_INFO_038_Caption,0,
+ITM_INFO_039_Caption,0,
+ITM_INFO_040_Caption,0,
+ITM_INFO_041_Caption,0,
+ITM_INFO_042_Caption,171,"Il gatto che veniva sempre qui per il cibo è 
+stato avvistato alla Spiaggia della Scogliera. 
+Potrebbe finire in pasto a qualche 
+mostro laggiù!"
+ITM_INFO_043_Caption,0,
+ITM_INFO_044_Caption,0,
+ITM_INFO_045_Caption,0,
+ITM_INFO_046_Caption,171,"Ho visto un uomo con una custodia per fucile
+scendere frettolosamente giù negli hangar.
+Cosa sarà successo laggiù?"
+ITM_INFO_047_Caption,171,"Penso di aver visto un uomo con una custodia 
+per fucile lanciarsi nei garage, e un momento 
+dopo, uno Skell è volato via! L'ho perso di 
+vista nelle vicinanze della zona industriale."
+ITM_INFO_048_Caption,171,"Uno Skell non identificato è arrivato qui ad 
+alta velocità e ha sfondato il cancello. L'ho 
+seguito per un po', e sembrava che quel 
+coso si stesse dirigendo verso Sylvalum."
+ITM_INFO_049_Caption,0,
+ITM_INFO_050_Caption,171,"Ti insegnerò come disinnescare una bomba.
+Se mi dai retta, potrai sopravvivere anche se
+te ne legano una addosso! Ehm, non che...
+Vabbè, cominciamo."
+ITM_INFO_051_Caption,171,"Grazie alla tecnologia Ma-non un mimosoma
+danneggiato è stato riparato velocemente,
+salvando una vita."
+ITM_INFO_052_Caption,171,"Un'umana con uno Xeno dalle sembianze di
+insetto al seguito. È stata vista andare verso
+il cancello orientale."
+ITM_INFO_053_Caption,171,"La donna che trascinava lo Xeno ha rubato un
+veicolo con poco carburante e si è diretta
+verso Oblivia."
+ITM_INFO_054_Caption,171,"Celica è andata alla Torre BLADE
+a incontrare Vandham."
+ITM_INFO_055_Caption,171,"Rock è stato visto di fronte alla caserma
+BLADE. Sembrava fosse alla ricerca di Celica."
+ITM_INFO_056_Caption,0,
+ITM_INFO_057_Caption,0,
+ITM_INFO_058_Caption,0,
+ITM_INFO_059_Caption,0,
+ITM_INFO_060_Caption,0,
+ITM_INFO_061_Caption,0,
+ITM_INFO_062_Caption,171,"""Il nostro tesoro è la rovina di ogni muro,
+può distruggere o rimarginare anche
+il più duro, 193."""
+ITM_INFO_063_Caption,171,"""Il nostro tesoro è d'aiuto per la povera
+gente, una fiamma che incenerisce
+tutti eternamente, 128."""
+ITM_INFO_064_Caption,171,"""Il nostro tesoro apre il sentiero
+tracciato per un mondo ormai
+dimenticato, 1986."""
+ITM_INFO_065_Caption,171,"Un dettagliato registro delle attività dello Skell
+di Lao. Contiene tutti i dati registrati fino
+al momento della sua distruzione."
+ITM_INFO_066_Caption,171,"Bobora il Vagabondo arrivato a Carovana
+Drongo sano e salvo? Tutti dice che trova
+tante cose paurose sul cammino."
+ITM_INFO_067_Caption,171,"Bobora il Vagabondo tornato a Oblivia.
+Tutto contento, dice ""è sicuramente a Roccia
+Alveare!""... Ma che vuole dire?"
+ITM_INFO_068_Caption,171,"Amic[ST:gender p1=o p2=a ] sa se Bobora il Vagabondo trovato
+quello che cercava? Ha detto che tornava
+a Sylvalum un'ultima volta, quindi forse no."
+ITM_INFO_069_Caption,171,"Non so cos'è coso gigante,
+ma sembra essere coso
+molto molto supergigante!"
+ITM_INFO_070_Caption,171,"Ha preso carico con sue braccia e gambe
+ondulose e traballose e ha trascinato tutto via!"
+ITM_INFO_071_Caption,171,"Sicuramente è serpente strisciante e
+sgraffignatore di cui tutti parla! Sputava
+fuoco proprio come storia racconta."
+ITM_INFO_072_Caption,171,"Era uccello gigante che ha attaccato
+corriere. Gente lo chiama Astara Ira.
+Sembra che volava verso sud."
+ITM_INFO_073_Caption,171,"A Cauldros c'è un lago in una caverna
+chiamata Oasi Selvaggia, le cui acque
+sembrano avere proprietà speciali. Potrebbe
+essere il lago che gli Orphe stavano cercando."
+ITM_INFO_074_Caption,0,
+ITM_INFO_075_Caption,171,"Quell'unità Archivio del Centro vitale piena di
+dati personali, come diari e foto? Purtroppo
+al momento non è abbastanza importante
+da mandare qualcuno a cercarla."
+ITM_INFO_076_Caption,171,"Mi chiedo se l'unità Archivio del Centro vitale
+contenente i dati personali di molte persone,
+e che Ada stava cercando, non sia l'unità
+numero 13..."
+ITM_INFO_077_Caption,171,"Se stai cercando l'unità Archivio del Centro
+vitale numero 13, siamo certi che si sia
+schiantata a nord."
+ITM_INFO_078_Caption,171,"Sembra che un nuovo rottame della Balena
+Bianca sia stato ritrovato a Oblivia. Non
+è stato ancora recuperato, ma si spera
+possa essere qualcosa di utile."
+ITM_INFO_079_Caption,171,"Sembra ci sia una grossa infestazione di
+Blathax a Primordia. Solo l'idea che
+possano strisciare dentro Neo L.A.
+mi dà il voltastomaco."
+ITM_INFO_080_Caption,0,
+ITM_INFO_081_Caption,0,
+ITM_INFO_082_Caption,0,
+ITM_INFO_083_Caption,0,
+ITM_INFO_084_Caption,0,
+ITM_INFO_085_Caption,0,
+ITM_INFO_086_Caption,171,"I dati di ricerca di Lan'cord. Contengono
+scoperte sulle armi Ganglion e
+informazioni riguardanti Orphe e umani."
+ITM_INFO_087_Caption,171,"I dati contengono una nota che indica
+la necessità di indagare a nord di Oblivia."
+ITM_INFO_088_Caption,171,"C'è uno strano albero tutto di pietra non
+lontano a sud. Deve essere pieno di tesori!
+Nopon deve andare con Nopopotamus
+e reclamare tesoro!"
+ITM_INFO_089_Caption,0,
+ITM_INFO_090_Caption,0,
+ITM_INFO_091_Caption,0,
+ITM_INFO_092_Caption,0,
+ITM_INFO_093_Caption,0,
+ITM_INFO_094_Caption,171,"Quanto sono carini, i cani! Ogni volta che
+vedo Lin che ci gioca, mi viene voglia di
+averne uno anch'io."
+ITM_INFO_095_Caption,171,"La donna è fuggita verso la tavola calda. È
+stato tutto troppo veloce e non l'ho vista in
+viso. Io devo stare qui, lascio a te la ricerca!"
+ITM_INFO_096_Caption,171,"Ho appena visto un'agente BLADE correre
+verso la zona amministrativa. Sembrava
+spaventata da qualcosa, spero sia tutto OK..."
+ITM_INFO_097_Caption,171,"Stai inseguendo qualcuno? Una donna della
+divisione Outfitter è appena scesa al livello
+inferiore. Sembrava molto calma però."
+ITM_INFO_098_Caption,171,"Ho appena visto Ada chiedere consiglio a
+Hope. È stranissimo vederle scambiarsi i
+ruoli in questo modo!"
+ITM_INFO_099_Caption,0,
+ITM_INFO_100_Caption,171,"Se hai un guasto al rotore posteriore del tuo
+elicottero, dovresti connettere il sistema di
+recupero al cavo blu. Capito? Il cavo BLU!
+Blu! Come il mare! Segnatelo..."
+ITM_INFO_101_Caption,171,"Hanno rilevato diversi segnali termici molto
+a nord del Forte Rupestre di Primordia.
+Credono sia un nido di Petramand, perciò
+dobbiamo prendere delle precauzioni."
+ITM_INFO_102_Caption,171,"Ho sentito che è stato avvistato un Lophid
+gigante nelle acque intorno all'isola sperduta
+nella punta settentrionale di Primordia. Spero
+che non pregiudichi il lavoro dei Prospector."
+ITM_INFO_103_Caption,171,"Un elicottero di pattuglia si è schiantato a
+nord di N.L.A., nei pressi del Ponte Arendt,
+alla Roccia Sperone. Sembra che i BLADE
+non abbiano agenti per recuperare i rottami."
+ITM_INFO_104_Caption,171,"I rottami dello Skell trovato sulla Rupe
+Maestosa? È un'area molto pericolosa anche
+per gli standard di Primordia.
+Il recupero potrebbe essere impossibile."
+ITM_INFO_105_Caption,171,"Ho sentito di un container alieno trovato
+vicino al Forte Rupestre, a Primordia.
+Dobbiamo recuperarlo prima possibile."
+ITM_INFO_106_Caption,171,"Ci sono altre informazioni sul Tyrant assassino
+di Primordia. Pare sia un Saltat che difende
+una grossa striscia di territorio intorno
+all'Isola delle Cascate Abissali."
+ITM_INFO_107_Caption,171,"Secondo i dati in nostro possesso, tutti gli
+Auravis di questa zona potrebbero venire da
+una singola coppia fertile nei pressi della
+Roccia Unicorno. Se solo potessimo trovarla..."
+ITM_INFO_108_Caption,171,"Danny ha trovato un rottame della Balena
+Bianca nella zona nord di Primordia, durante
+la sua ultima missione. Facciamo in modo
+che la sua morte non sia stata vana."
+ITM_INFO_109_Caption,171,"Non possiamo confermarti con certezza la
+posizione del Vesper Tyrant, ma è probabile
+che la sua tana sia alla Roccia Sperone."
+ITM_INFO_110_Caption,171,"Hai presente l'Isola delle Cascate Abissali?
+Beh quello è territorio Saltat e se ti avvicini, ti
+attaccheranno sicuramente. Quindi, a meno
+che non siano affari urgenti, starei alla larga."
+ITM_INFO_111_Caption,171,"Sembra ci siano ancora rottami di Skell nelle
+Rovine Saccheggiate qui a nord-ovest. Chissà
+se è possibile recuperare dei rottami utili
+dai detriti..."
+ITM_INFO_112_Caption,171,"Abbiamo trovato dei rottami alieni a
+nord del Lago Sayram. Saranno stati
+aggrediti dalle specie autoctone?"
+ITM_INFO_113_Caption,171,"Hanno trovato dei rottami della Balena Bianca
+a nord della Pianura nord-est del Lago
+Sayram. Volevano mandare dei BLADE per
+recuperarli, ma ci serve personale."
+ITM_INFO_114_Caption,171,"Ho sentito che alcuni rottami della Balena
+Bianca sono atterrati nella parte nord della
+Palude Silente. Spero solo che qualche
+mostro non li abbia già fatti a pezzi."
+ITM_INFO_115_Caption,171,"Mi è dispiaciuto tantissimo dover abbandonare
+il mio Skell a sud del Forte Rupestre. Ma se
+non l'avessi fatto non sarei sopravvissuta."
+ITM_INFO_116_Caption,171,"Hai presente quei Suid corazzati allevati dai
+Pron? Scommetto che tengono quelli
+più forti alla base Pron."
+ITM_INFO_117_Caption,171,"Hai visto il veicolo sfasciato appena fuori del
+cancello orientale di Neo L.A.? Apparteneva
+a un mio amico."
+ITM_INFO_118_Caption,171,"Alcuni rottami della Balena Bianca sono caduti
+al Lago Sayram e non sono ancora stati
+recuperati. Sembra un lavoro abbastanza
+difficile."
+ITM_INFO_119_Caption,171,"Pare sia spuntato uno Xiphias nelle acque
+basse del Litorale Puntanord. È un evento a
+dir poco anormale, perciò c'è il sospetto che
+sia un Tyrant."
+ITM_INFO_120_Caption,171,"Abbiamo trovato dei rottami della Balena
+Bianca sulla Pianura settentrionale del Lago
+Janpath. Chissà se sono già stati recuperati?"
+ITM_INFO_121_Caption,171,"Abbiamo trovato dei resti di una civiltà aliena
+a nord del Lago Janpath, a Primordia.
+Se li recuperassimo chissà cosa scopriremmo."
+ITM_INFO_122_Caption,171,"Uno ssspaventoso Marnuck chiamato Daril
+l'Estirpatore è sssolito apparire in un lago
+inquinato sssu un'isoletta di Primordia.
+Fsss... Avvicinati con cautela, ssspecie di notte!"
+ITM_INFO_123_Caption,171,"Ho visto un Cinicula gigantesco su un'altura
+nelle Pianure del Pianto di Primordia.
+Se quella creatura riuscisse ad arrivare
+a N.L.A. saremmo tutti morti!"
+ITM_INFO_124_Caption,171,"Abbiamo sentito che il capobranco di quei
+Grex è sempre in giro vicino alla Tana delle
+Bestie a Primordia. Farai meglio a sbrigarti e
+armare lo Skell per affrontare quel Tyrant!"
+ITM_INFO_125_Caption,171,"Quel Potamus al Lago Sayram di Primordia
+ha attaccato un'altra squadra BLADE?
+Qualcuno deve abbattere quella bestia."
+ITM_INFO_126_Caption,171,"Hanno trovato rottami di una civiltà aliena
+sul Colle Roccafalce, a est di qui.
+Quanto mi piacerebbe dissotterrare
+uno di quei giocattoli e analizzarlo..."
+ITM_INFO_127_Caption,171,"Di notte, mi sembra di aver visto un'unità
+robotizzata nemica sulla cima della Roccia
+Sperone. Spero fosse la mia mente a giocarmi
+brutti scherzi, ma non ne sono sicuro..."
+ITM_INFO_128_Caption,171,"Il mio fratellino è andato alla Palude Silente e
+per poco non ci lasciava la pelle. Il sole non
+esiste e il posto brulica sempre di Adsecula.
+Sapevo che sarebbe stato troppo per lui!"
+ITM_INFO_129_Caption,171,"Un Balaenan enorme è stato avvistato nei cieli
+a sud di La Mancia, a Primordia. La sua
+presenza ha messo gli Harrier in agitazione."
+ITM_INFO_130_Caption,171,"Devi stare con gli occhi aperti, anche se sei
+alle porte di Neo L.A.: ci sono stati diversi
+attacchi notturni da parte di alcuni
+esemplari di Blathax."
+ITM_INFO_131_Caption,171,"H.B. mi ha detto che il re dei Duoguill
+risiede nello stagno vicino al Tetto
+di Roccia! Ci sono rimasta tipo:
+""Wow! Che accidenti sono?"""
+ITM_INFO_132_Caption,171,"Ho visto un Millesaur Tyrant aggirarsi per la
+Pianura occidentale del Lago Janpath con fare
+sicuro. Generalmente non sono aggressivi,
+ma questo sembrava... diverso."
+ITM_INFO_133_Caption,171,"Quindi il nostro compagno è stato mangiato
+da un feroce Suid, sulla sponda nord del
+Lago Janpath? Ma è-è-è terribile..."
+ITM_INFO_134_Caption,171,"Un Tyrant è stato avvistato a est di Neo L.A.
+Può volare, quindi occhi sempre aperti!"
+ITM_INFO_135_Caption,171,"C'è uno strano ammasso d'insetti vicino al
+Fiume Biahno. In quel posto ci sono un sacco
+di mostri terrificanti, per questo non voglio
+tornarci. Ma forse qualcuno dovrebbe..."
+ITM_INFO_136_Caption,171,"Sono stati trovati dei rottami della Balena
+Bianca presso la Vetta Sorgente. È assurdo 
+come, sebbene sia una zona vicina, non
+siamo ancora riusciti a esplorarla."
+ITM_INFO_137_Caption,171,"Mentre vigilavo sul perimetro, scorsi un Equus
+sulla cima della Vetta Sorgente. È raro
+imbattersi in tale specie, qui nei dintorni, ma
+se desideri sfidarlo, procedi con cautela!"
+ITM_INFO_138_Caption,171,"Tornare a piedi dalla Cima Ombraoscura,
+dopo che lo Skell è stato distrutto
+da un Suid, non è cosa da tutti!
+Meno male che ce l'hai fatta!"
+ITM_INFO_139_Caption,171,"Quelle strane onde radio a Primordia venivano
+da un rottame alieno incagliato sulla Spiaggia
+della Scogliera. Lo controlleremo
+quando avremo tempo..."
+ITM_INFO_140_Caption,171,"Ho intravisto dei rottami della Balena Bianca
+nella parte meridionale delle Pianure del
+Pianto. Purtroppo non avevo l'abilità adatta
+per recuperarli... penso che siano ancora lì."
+ITM_INFO_141_Caption,171,"Spesso, a notte fonda, si vedono raggi di luce
+viaggiare ad alta velocità sopra la Fortezza
+Pron. Non ho mai visto niente muoversi così
+velocemente. Stai in guardia quando sei lì."
+ITM_INFO_142_Caption,171,"Sono stati avvistati rottami della Balena Bianca
+appena a est della Palude Silente. Farebbe
+molto comodo se ci fossero componenti utili
+fra i rottami."
+ITM_INFO_143_Caption,171,"Hai presente quella piccola isola a ovest di
+Neo L.A.? Laggiù si è schiantato un elicottero,
+ma tutto l'equipaggio è tornato sano e salvo.
+Sono stati fortunati che sia caduto così vicino."
+ITM_INFO_144_Caption,171,"Non riesco ancora a credere di aver perso il
+mio Skell nell'attacco di quel Filiavent sporico
+alla Sorgente Cremisi! Dovrei recuperare quello
+che posso dai rottami uno di questi giorni."
+ITM_INFO_145_Caption,171,"Se sei diretto a ovest, assicurati di essere
+ben preparato. Ci sono molti Xeno ostili e
+i mostri sono ancora peggiori. Non vale
+la pena rischiare la vita per un rottame alieno."
+ITM_INFO_146_Caption,171,"Ci sono dei piccoli campi base Ganglion
+intorno alla Fortezza Badr. Se riuscissimo a
+introdurci e a rubare le scorte da sotto
+il loro naso, sarebbe un bel colpo basso!"
+ITM_INFO_147_Caption,0,
+ITM_INFO_148_Caption,0,
+ITM_INFO_149_Caption,0,
+ITM_INFO_150_Caption,171,"Lo conosci un Wrothian di nome Zo Langra?
+L'ho visto correre terrorizzato nella zona
+commerciale! Non sono un genio, ma so che
+la gente non corre così se non è nei guai."
+ITM_INFO_151_Caption,171,"Dicono ci sia una bestia enorme, che
+chiamano Il Padrone dei Destini,
+nel profondo nord di Noctilum. Non ho
+nessuna intenzione di avvicinarmici."
+ITM_INFO_152_Caption,171,"Una squadra diretta alla Dimora del Grifo
+a Noctilum ha detto di aver visto un mostro
+che si nascondeva in una pianta gigante.
+Sarà uno di quei Tyrant di cui tutti parlano?"
+ITM_INFO_153_Caption,171,"Tu ricorda macchina umana giragira
+che era rotta in Dimora del Grifo?
+Tutti Nopon impauriti!"
+ITM_INFO_154_Caption,171,"Alcuni Xeno hanno addomesticato dei Simius
+e sembra si possano vedere alla Cittadella
+Arroccata a Noctilum. Ma ci pensi?!"
+ITM_INFO_155_Caption,171,"Il Tyrant che ha attaccato tantissimi BLADE
+è stato avvistato mentre volava poco oltre
+l'Imbocco Celeste dietro Noctilum."
+ITM_INFO_156_Caption,171,"Sembra che abbiano avvistato uno Scirpo
+gigante, a Noctilum, in un giorno di nebbia.
+Fate attenzione, mi raccomando!"
+ITM_INFO_157_Caption,171,"Dicono ci sia un Tyrant nella Caverna della
+Pozza Velenosa, chiamato Frost il Gentile.
+Si chiamerà così perché è meno aggressivo
+degli altri Tyrant?"
+ITM_INFO_158_Caption,171,"Conosci gli Unafulge? Vivono alle Cascate
+Paradiso a Noctilum e sono pericolosi anche
+quando sono separati dal resto del branco."
+ITM_INFO_159_Caption,171,"Fortissimo Turba di nome Tormenta il Manto
+Scarlatto vive al Decapotamon di Noctilum.
+Andrò lì a ucciderlo!"
+ITM_INFO_160_Caption,171,"Me ha sentito che si può trovare tesoro da
+strano albero a Corso Medio del Quietofiume
+di Noctilum. Aumenta vendite o me manda
+aiutante pigrone a cercare tesoro!"
+ITM_INFO_161_Caption,171,"Ho avvistato un altro Sylooth al Quietofiume.
+Sembrava il leader di un gruppo. Maledetti
+Ganglion! Finiranno mai le vostre forze
+militari?"
+ITM_INFO_162_Caption,171,"Abbiamo seguito le tracce della squadra che ci
+precedeva a Noctilum. Erano arrivati quasi
+al cuore della foresta, ma non abbiamo
+trovato che i resti del loro passaggio."
+ITM_INFO_163_Caption,171,"Ho sentito che uno Skell è stato distrutto da
+una creatura primordiale nella zona della
+Lunga Proboscide di Noctilum. Nessuno ha
+perso la vita, ma che spreco di risorse!"
+ITM_INFO_164_Caption,171,"Sei in possesso di informazioni riguardo allo
+strano albero vicino al Ponte Biforcuto di
+Noctilum? Non so perché, ma fa vibrare
+il mio Ovah ogni volta che lo osservo."
+ITM_INFO_165_Caption,171,"Abbiamo scoperto che un frammento della
+Balena Bianca è atterrato vicino alla Cittadella
+Arroccata. Ma come faremo a recuperarlo?"
+ITM_INFO_166_Caption,171,"Ho sentito che hanno ritrovato dei rottami
+di Skell nel Corso Medio del Quietofiume
+di Noctilum. Ma probabilmente non è quello
+che stava pilotando mio fratello..."
+ITM_INFO_167_Caption,171,"Hai visto un mostro simile a una pianta
+volteggiare vorticosamente sopra le Cascate
+Eterne? Forse era un Tyrant? Le chiamano
+così le specie di mostri più pericolose."
+ITM_INFO_168_Caption,171,"Ti ""ricordi"" di aver visto i resti di una civiltà
+aliena nel Bosco del Drago Blu di Noctilum?
+Uhm... Li hai visti davvero o li hai percepiti
+con quella roba Ovah di cui parli sempre?"
+ITM_INFO_169_Caption,171,"Fai attenzione quando viaggi per il Passo
+Fukai. Sembra sia infestato da Insidean.
+Uno di loro è particolarmente pericoloso."
+ITM_INFO_170_Caption,171,"Uno Skell è stato abbattuto al Decapotamon
+e non è stato ancora recuperato?
+Bella dritta! Corro subito a Noctilum."
+ITM_INFO_171_Caption,171,"La prossima volta che vede Forfex vicino
+a Cascate Eterne, noi lo ammazza!
+Poi lo cucina e poi lo mangia!"
+ITM_INFO_172_Caption,171,"Un mio amico ha trovato un nido di Viragon
+in fondo alla Galleria della Talpa delle Rocce
+mentre esplorava Noctilum, ma non ha osato
+avvicinarsi."
+ITM_INFO_173_Caption,171,"Un rimorchio carico di risorse preziose è stato
+attaccato al Decapotamon di Noctilum.
+Questo dimostra quanto sia pericoloso
+avventurarsi là fuori senza uno Skell."
+ITM_INFO_174_Caption,171,"Ho trovato una Zona inesplorata al di là
+della Foresta Semprenotte, ma prima di
+potermela godere è spuntato fuori un Tyrant
+a forma di masso. Me la sono data a gambe!"
+ITM_INFO_175_Caption,171,"Pare siano state perse le tracce di un elicottero
+da ricognizione, vicino alla Lunga Proboscide.
+Spero che l'equipaggio sia salvo, ma
+con tutti quei mostri è difficile essere ottimisti."
+ITM_INFO_176_Caption,171,"Ho sentito che c'è un Dilus feroce nella zona
+nord del Lago Ruggine. Se gli finisci tra le
+fauci, sei finito! A meno che tu non sia a
+bordo di uno Skell, suppongo..."
+ITM_INFO_177_Caption,171,"Un container alieno è stato rinvenuto vicino
+alle Pozze di Ruggine di Noctilum."
+ITM_INFO_178_Caption,171,"C'è un Tyrant alle Pozze di Ruggine. Dicono
+sia uno Scirpo, cioè uno di quei mostri a
+forma di ragno. Spero che non dovrò mai
+vederlo! Non sopporto quelle bestie."
+ITM_INFO_179_Caption,171,"Ho visto un gigantesco albero a forma di
+coda di drago a Noctilum. Non riesco
+a togliermelo dalla testa! Qualcuno
+potrebbe andarci per me, forse?"
+ITM_INFO_201_Caption,171,"Ho trovato Skell alienoterrestre.
+A Oblivia. A nord del Lago Basel.
+Forse contiene un tesoro?"
+ITM_INFO_202_Caption,171,"Alcuni rottami della Balena Bianca sono stati
+avvistati nella parte settentrionale del Lago
+Basel a Oblivia? Persino i Reclaimer non
+sarebbero in grado di recuperarli laggiù!"
+ITM_INFO_203_Caption,171,"C'è un Tyrant di nome Edgardo lo Spensierato
+che girovaga sulla spiaggia della Costa Nord.
+Non credo possa darti problemi se viaggi su
+uno Skell, ma fai comunque attenzione."
+ITM_INFO_204_Caption,171,"Sembra che dei rottami della Balena Bianca
+siano caduti al di là della Costa Nord a
+Oblivia. Ma io non sono che un'avvitatrice
+di bulloni, quindi non mi riguarda."
+ITM_INFO_205_Caption,171,"Di notte è quando i Ceteo esce.
+Loro ti mangia come caramella!"
+ITM_INFO_206_Caption,171,"C'è una tana di mostri fuori dalla Costa Nord.
+Intelligenti alieni della Terra potrebbero
+trovare qualcosa."
+ITM_INFO_207_Caption,171,"I rottami di Skell sulla Costa Nord? Era il mio
+Skell, quello. Eh già... Me l'hanno distrutto
+alla mia prima missione. Ne sono uscita
+viva per miracolo."
+ITM_INFO_208_Caption,171,"Ho sentito la voce di un oracolo
+dalla fontana! Parlava di Oc-serv
+rotto alla Costa Nord di Oblivia."
+ITM_INFO_209_Caption,171,"Ricordo di aver sentito di uno Skell
+abbattuto alle Cascate del Re. Non
+sarebbe il caso di recuperarlo, uhm?
+Oh, forse è un suggerimento inappropriato?"
+ITM_INFO_210_Caption,171,"Vicino al Lago Basel di Oblivia c'è un
+Mephite che raccoglie e si nutre degli
+avanzi di altri mostri. Sarà frutto di una
+specie di mutazione?"
+ITM_INFO_211_Caption,171,"Amici umani ha abbandonato macchina
+in parte sud di Lago Basel. Deve smettere
+di lasciare spazzatura su territorio Nopon!"
+ITM_INFO_212_Caption,171,"I Nopon del Lago Basel di Oblivia pensano
+che gli Aetrygon che vivono là attorno siano
+emissari divini scesi dal cielo. Lo sapevi?
+Che tipi buffi."
+ITM_INFO_213_Caption,171,"A quanto pare, c'è un nido di Sabula
+nel deserto attorno all'Arco del Titano
+a Oblivia. Sono feroci, e ingoiano
+per intero chiunque si avvicini."
+ITM_INFO_214_Caption,171,"C'è un Equus particolarmente forte che rende
+la vita difficile ai Prospector sulle scogliere
+vicino alle Cascate del Re di Oblivia."
+ITM_INFO_215_Caption,171,"Me vuole visitare isola fluttuante in cielo
+a sud. Probabilmente c'è tesori ovunque!"
+ITM_INFO_216_Caption,171,"Ho sentito che nel letame delle creature che
+dimorano vicino alla Roccia Vittoria a Oblivia
+si possono trovare oggetti molto rari... Eh?
+Che importa se è sporco?! Fallo per l'umanità!"
+ITM_INFO_217_Caption,171,"Sembra che i Reclaimer abbiano trovato
+rottami della Balena Bianca all'ingresso di
+Oblivia. Ancora non hanno recuperato nulla,
+ma magari troveranno qualcosa di utile."
+ITM_INFO_218_Caption,171,"C'è un'enorme femmina di Suid che sta
+schiacciando un pisolino nel bel mezzo della
+strada qui vicino. Ti conviene starne alla
+larga... non svegliare la mamma che dorme!"
+ITM_INFO_219_Caption,171,"Hai trovato i rottami di un veicolo agli Archi
+Gemelli di Oblivia? Beh, sembra che non
+potrò entrare in azione ancora per un po',
+perciò dovrai occupartene tu."
+ITM_INFO_220_Caption,171,"Oblivia è un posto spaventoso, vero?
+Sono stato quasi mangiato vivo da
+un Mortifole gigantesco che vive sugli
+Archi Gemelli, sai?"
+ITM_INFO_221_Caption,171,"Ho trovato dei rottami della Balena Bianca
+qui nella Pianura Aaroy, ma non sono stata
+in grado di fare un'analisi completa."
+ITM_INFO_222_Caption,171,"Quel Grex nella zona rocciosa del Crinale
+Keegan non dà fastidio a nessuno, ma
+scommetto che è stato temprato
+da un sacco di lotte."
+ITM_INFO_223_Caption,171,"Ho visto alcuni Saltat che si comportavano in
+modo molto strano vicino alle Cascate del Re.
+Sembrava quasi un rito di offerta alle acque...
+interessante e spaventoso allo stesso tempo."
+ITM_INFO_224_Caption,171,"Hai trovato un rottame della Balena Bianca
+oltre il Crinale Keegan a Oblivia?
+Meglio lasciare missioni di recupero
+di questo tipo nelle mani dei Reclaimer."
+ITM_INFO_225_Caption,171,"C'è una Sphinx in agguato sotto alla Roccia
+Vittoria. Sta eliminando tutti i BLADE che
+sono stati mandati a Oblivia!"
+ITM_INFO_226_Caption,171,"Mercanti da Carovana Dorian dice che ha
+scoperto rottami di nave umana vicino a
+Valle Ondatonante."
+ITM_INFO_227_Caption,171,"Amici deve prendere astronave Ma-non,
+attaccare Fortezza di Jair e prendere tesoro!"
+ITM_INFO_228_Caption,171,"Gotthard il Terribile della Crepa del Gigante
+è pericoloso. Neanche Clan degli
+Alberi è alla sua altezza."
+ITM_INFO_229_Caption,171,"I Vigent che vivono nella Pianura Aaroy
+sono estremamente violenti. E affamati.
+Evita di guardarli negli occhi se non
+hai voglia di farti sbranare."
+ITM_INFO_230_Caption,171,"Se un BLADE trova qualcosa che si possa
+utilizzare come risorsa, deve esaminarla.
+QUALUNQUE cosa, anche lo sterco di
+qualche creatura di Oblivia."
+ITM_INFO_231_Caption,171,"Pare che ci sia un insolito Evellon, vicino
+all'Isola Fluviale di Oblivia, che non fa
+altro che mangiare tutto il giorno...
+Sembra il mio ex! Ah ah ah!"
+ITM_INFO_232_Caption,171,"I Sylooth che trovi nel centro della Gola Ibra
+hanno delle strane piante che crescono sulle
+loro teste. Sembra che per le specie autoctone
+quelle piante abbiano un gran valore."
+ITM_INFO_233_Caption,171,"Ho visto un Adsecula mutante nei pressi della
+pozza d'acqua nella parte orientale della
+Gola Ibra di Oblivia. Ma ho perso di vista la
+carogna quando si è dileguata tra le rocce!"
+ITM_INFO_234_Caption,171,"Abbiamo visto Skell distrutto. Sul Sentiero del
+Sole, a Oblivia. Abbiamo lasciato dei fiori
+per onorare prode alieno della Terra."
+ITM_INFO_235_Caption,171,"Abbiamo trovato dei rottami appartenenti
+a una civiltà aliena nel lato sud della
+Crepa del Gigante, ma nessuno di noi
+è stato in grado di recuperare niente."
+ITM_INFO_236_Caption,171,"Ho sentito che una squadra Pathfinder è stata
+spazzata via alla Pianura Aaroy meridionale
+a Oblivia. Neanche gli Skell bastano più."
+ITM_INFO_237_Caption,171,"Ho sentito che nel Deserto Barbarich a Oblivia
+ci sono Tectinsula che possono sopravvivere
+per anni senza cibo né acqua. Che stoicismo!"
+ITM_INFO_238_Caption,171,"Si vocifera che, attorno al campo base della
+Roccia in bilico a Oblivia, nascano dei fiori
+mostruosi. Penso che nessuno abbia mai
+osato studiarli veramente per il momento."
+ITM_INFO_239_Caption,171,"Hai presente quel gigantesco anello rotto,
+a Oblivia? Sembra che una squadra sia 
+andata a ispezionare un nido di mostri là
+vicino, ma la spedizione sia fallita."
+ITM_INFO_240_Caption,171,"I Wrothian mi hanno detto che hanno trovato
+i rottami di un veicolo nella parte nord della
+Costa Sud di Oblivia, sì? Dovrei ringraziarli
+davvero-davvero per il suggerimento..."
+ITM_INFO_241_Caption,171,"Dicono che la Pron che ha ucciso i miei amici
+si stia nascondendo nella Fortezza Mesa
+di Oblivia. Che sia dannata! Se ne avessi
+le capacità, la ucciderei io stesso!"
+ITM_INFO_242_Caption,171,"FrontierNav segnala qualcosa a Oblivia, ma
+non possiamo andare a controllare perché la
+zona è vicinissima a una base di Xeno ostili."
+ITM_INFO_243_Caption,171,"Rottami di Skell vicino alla Fortezza Mesa
+di Oblivia? Potrebbe essere ciò che stavamo
+aspettando. Dobbiamo andare a recuperarli!"
+ITM_INFO_244_Caption,171,"Dicono che c'è un Millepod enorme che 
+si nasconde in fondo alla Crepa del Gigante.
+I Nopon che vivono in zona sembrano
+decisamente spaventati."
+ITM_INFO_245_Caption,171,"Ci sono dei rottami della Balena Bianca
+in attesa di essere recuperati nel caldo
+torrido del Deserto Barbarich.
+Dobbiamo andare a cercarli!"
+ITM_INFO_246_Caption,171,"Ho udito che un mastodontico Aprica di nome
+Sviatoslav il Biasimevole compare quando
+piove nella regione della Roccia in bilico di
+Oblivia. La mia spada brama il suo sangue!"
+ITM_INFO_247_Caption,171,"Abbiamo ricevuto ordine di recuperare
+i rottami di uno Skell scoperti alla Costa
+Sud di Oblivia. Ho il presentimento
+che non sarà una missione piacevole..."
+ITM_INFO_248_Caption,171,"C'è un enorme Duoguill al lago vicino
+all'Anello Arcano di Oblivia. Ma, in base
+alle mie osservazioni, compare solo
+se c'è una tempesta elettromagnetica."
+ITM_INFO_249_Caption,171,"Ci sono ancora quei rottami di Skell nella
+parte meridionale della Costa Sud? Se quel
+tipo fosse rimasto a lavorare a Neo L.A.
+a questo punto sarebbe ancora vivo."
+ITM_INFO_250_Caption,171,"Sembra che abbiano avvistato un Levitath
+all'Anello semisommerso, nel mare a sud
+di Oblivia, che sembra biologicamente
+differente da quelli trovati altrove..."
+ITM_INFO_251_Caption,171,"È da molto tempo che analizzo le sonde
+di ricerca, e ho trovato uno strano albero
+pietrificato nella parte nord di Sylvalum.
+Non so se menzionarlo nel mio rapporto."
+ITM_INFO_252_Caption,171,"Ho sentito che uno Skell è stato abbattuto
+vicino alle Dune Cineree settentrionali
+di Sylvalum. Spero davvero siano
+in grado di recuperarlo..."
+ITM_INFO_253_Caption,171,"Per testare il radar che utilizza la vostra
+tecnologia, l'ho puntato su Sylvalum.
+Fortunatamente, ho localizzato un relitto
+Xenomorfo, alle Dune Cineree settentrionali."
+ITM_INFO_254_Caption,171,"Sembra abbiano scoperto un gigantesco
+mostro alle Dune Cineree occidentali di
+Sylvalum. La nuova arma potrebbe essere
+quel che serve per affrontare cose simili."
+ITM_INFO_255_Caption,171,"Enorme nave da guerra Ganglion vola su
+nord Sylvalum! Io spera qualcuno abbatte.
+Non fa bene a commercio!"
+ITM_INFO_256_Caption,171,"C'è un grande albero pietrificato vicino al
+Deserto delle Incudini. È sulla lista degli
+obiettivi d'esplorazione, ma la zona è troppo
+pericolosa per noi. Tu puoi provare, se vuoi..."
+ITM_INFO_257_Caption,171,"Guardavo un filmato delle Dune Silenti nord
+e c'era un gregge di Ovis. Il capo sembrava
+davvero un osso duro! Sarebbe interessante
+incontrarlo dal vivo."
+ITM_INFO_258_Caption,171,"Secondo le scansioni di FrontierNav, nella
+parte nord-ovest di quest'area c'è un rottame
+di una civiltà aliena. Ma dubito che la mia
+squadra disponga dei mezzi per recuperarlo."
+ITM_INFO_259_Caption,171,"Ho avvistato un Petramand vicino al Declivio
+Samuel che sembrava esser stato catturato
+dai Ganglion. È ora di equipaggiarsi e
+andare a dargli il colpo di grazia!"
+ITM_INFO_260_Caption,171,"Sembra che nel Deserto delle Incudini sia stato
+trovato il rottame di un elicottero inviato a
+Sylvalum subito dopo il nostro atterraggio su
+Mira. Non credo ci fossero sopravvissuti."
+ITM_INFO_261_Caption,171,"Abbiamo perso i contatti con uno Skell carico
+di tesori. Dobbiamo andare alle Dune Silenti
+di Sylvalum e recuperare il bottino."
+ITM_INFO_262_Caption,171,"Abbiamo rinvenuto un grande albero
+pietrificato dall'aspetto strano sulla Litoranea
+settentrionale, ma non ci siamo potuti
+avvicinare a sufficienza per analizzarlo."
+ITM_INFO_263_Caption,171,"Amico Nopon a Sylvalum è stato attaccato
+da grosso mostro in Caverna Abissale. Amici
+BLADE dovrebbe prendere Skell e andare lì
+sotto a uccidere mostro cattivo!"
+ITM_INFO_264_Caption,171,"Non vuoi sposarmi se non recupero il
+container alieno ritrovato nel Bacino Badr di
+Sylvalum? SUL SERIO!? Hai delle richieste
+parecchio strane..."
+ITM_INFO_265_Caption,171,"Sono appena tornato da Sylvalum. Abbiamo
+trovato un container lasciato da una civiltà
+aliena alle Dune Cineree meridionali,
+ma non siamo riusciti ad aprirlo."
+ITM_INFO_266_Caption,171,"Attenzione a Gisela l'Infida! Se ti vedesse
+combattere i Sabula vicino al campo base
+del Declivio Samuel, s'arrabbierebbe di brutto."
+ITM_INFO_267_Caption,171,"Amic[ST:gender p1=o p2=a ] sa di albero tutto di pietra in Dune
+Silenti meridionali? Nopon potrebbe fare
+montagna di soldi se vende a umani!"
+ITM_INFO_268_Caption,171,"Ho visto un container alieno nei pressi
+delle Vette Illusorie, ma ho pensato
+che fosse pieno di cianfrusaglie
+e l'ho lasciato stare, sai?"
+ITM_INFO_269_Caption,171,"Ho trovato un container alieno nella Valle
+Spietata settentrionale. Se potessimo
+recuperare e analizzare il suo contenuto, forse
+scopriremmo qualcosa di utile per noi umani."
+ITM_INFO_270_Caption,171,"C'è un numeroso branco di mostri in
+prossimità delle Dune Tremule. Sospettiamo
+che il Monoceros che li guida sia un Tyrant."
+ITM_INFO_271_Caption,171,"C'è uno strano albero pietrificato sulle Dune
+Cineree meridionali a Sylvalum? Sembra
+essere un lavoro per la migliore cacciatrice di
+tesori dell'universo... ehm, io... forse?"
+ITM_INFO_272_Caption,171,"Hai visto il rottame alieno nella parte sud
+delle Dune Silenti? Sembra che quei
+fannulloni del campo base inferiore non
+siano ancora andati a recuperarlo."
+ITM_INFO_273_Caption,171,"Abbiamo rinvenuto un container alieno sulle
+dune occidentali del Lago Ciel a Sylvalum.
+Verosimilmente gli umani saranno capaci
+di studiarne la natura meglio di noi Wrothian."
+ITM_INFO_274_Caption,171,"C'è un reliquiario di una civiltà aliena alle
+Dune meridionali del Lago Ciel, ma non credo
+abbia niente a che fare con i Ganglion.
+Quali specie popolavano quell'area?"
+ITM_INFO_275_Caption,171,"Hai sentito di quel mostro tanto-tanto-tanto
+feroce, nei cieli a nord-ovest di Lago Ciel,
+a Sylvalum? Speriamo che gli umani lo
+abbattano presto, vero?"
+ITM_INFO_276_Caption,171,"Sembra che gli Aetrygon inferociti di Sylvalum
+stiano facendo fuggire gli abitanti dal
+Belvedere Xanadu. Si potrebbe risolvere
+tutto con un'arma della Grenada GG!"
+ITM_INFO_277_Caption,171,"Amicopon ha visto Arenatect a nord-est
+di Lago Ciel. Cominciato a muoversi di colpo
+e a povero amicopon venuto un colpo!"
+ITM_INFO_278_Caption,171,"Nopon ha visto macchina Ganglion
+in Valle Spietata che sembra diversa
+da solita macchina Ganglion.
+Me spera che non viene qua..."
+ITM_INFO_279_Caption,171,"Avete trovato un container alieno a Sylvalum?
+Ai piedi della Vetta Illusoria meridionale?
+Non importa! Balliamo! Non siamo
+in servizio! BALLIAMOOO!"
+ITM_INFO_280_Caption,171,"Vicino alla Litoranea di Sylvalum ho visto
+girare una cosa che non avevo mai visto
+prima. Una specie di creatura meccanica.
+Comunque mi sono tenuto alla larga."
+ITM_INFO_281_Caption,171,"Ho sentito che nella zona ovest del Lago Ciel
+di Sylvalum c'è un gigantesco mostro che
+nessuno aveva mai visto prima. Le nostre
+armi saranno in grado di combatterlo?"
+ITM_INFO_282_Caption,171,"Pare che un artefatto di una cultura aliena
+sia stato scoperto nel Lago Ciel a Sylvalum.
+È un lago enorme, non mi sorprende che
+non sia stato trovato in precedenza..."
+ITM_INFO_283_Caption,171,"Gli enormi mostri a est del Lago Ciel
+sembrano diventare più violenti dopo le aurore
+cremisi. È importante capire come il clima
+influenzi queste specie primordiali."
+ITM_INFO_284_Caption,171,"Cosa? Sei venuto fin qui da Sylvalum per
+trovare un combattente che possa recuperare
+il reliquiario alieno a est del Lago Ciel?
+Spero che trovi qualcuno presto, sì?"
+ITM_INFO_285_Caption,171,"Sapevi che c'è un intero continente, a nord
+di N.L.A.? Si dice che il luogo è disseminato
+di enormi alberi pietrificati. E che a volte
+nascondono qualcosa all'interno..."
+ITM_INFO_286_Caption,171,"Amicopon visto albero tutto di pietra
+a sud-ovest di Lago Ciel, però già trasportava
+carico pesante e non ha potuto prendere
+con sé. Forse prossima volta."
+ITM_INFO_287_Caption,171,"Hai visto i rottami dell'elicottero alle Dune
+Rocciadardo? È stato abbattuto dalla Fortezza
+Hilal. Uno di questi giorni dovremmo andare
+a recuperare ciò che ne è rimasto."
+ITM_INFO_288_Caption,171,"Fai attenzione quando vai in cerca delle
+Sfere nottilucenti a Sylvalum. I Vivohast si
+nascondono lì, in agguato, in attesa di una
+preda."
+ITM_INFO_289_Caption,171,"Hai visto quell'enorme mostro alla Prateria
+Hilal a Sylvalum? Ogni volta che ci passiamo,
+teniamo sempre gli occhi ben aperti."
+ITM_INFO_290_Caption,171,"Hanno scoperto uno strano albero pietrificato
+nella zona sud-est di Sylvalum. Pensi che
+andrai a dare un'occhiata?"
+ITM_INFO_291_Caption,171,"Al Becco di Gabbiano di Sylvalum ho visto
+un Nalquus molto più forte di tutti gli altri.
+Se mi fossi avvicinato un po' di più, forse
+non sarei qui a raccontarvelo!"
+ITM_INFO_292_Caption,171,"Abbiamo già perso ventuno agenti BLADE a
+causa del Tyrant gigante alla Prateria Hilal.
+Quasi non riesco a rendermi conto di quanto
+sia pericoloso. Mi tremano le gambe!"
+ITM_INFO_293_Caption,171,"Abbiamo trovato qualcosa vicino alla Prateria
+Hilall a Sylvalum. Forse è un artefatto alieno,
+ma recuperarlo è molto rischioso:
+la Fortezza Ganglion è troppo vicina."
+ITM_INFO_294_Caption,171,"Amicopon trovato rovine di Skell Ganglion
+in Dune orientali del Lago Ciel. Mentre
+rideva di sfortuna, un Marnuck spuntato
+da Skell! Imbarazzante... per amicopon..."
+ITM_INFO_295_Caption,171,"Hai visto quell'enorme albero pietrificato
+qui vicino? Vorrei proprio esaminarlo, ma
+non ho il fisico. Mi tocca chiedere ai
+Reclaimer di farlo. Sigh..."
+ITM_INFO_296_Caption,171,"Stavo guardando un filmato e ho notato
+che alcuni mech Ganglion, schierati lungo
+le mura esterne di Sylvalum, erano distrutti.
+Davvero!"
+ITM_INFO_297_Caption,171,"Ho distrutto il mio Skell vicino alla Fortezza
+Hilal. Mi sono distratto solo un attimo...
+quanto bastava per perdere il controllo.
+Era il miglior partner che abbia mai avuto..."
+ITM_INFO_298_Caption,171,"Mi hanno detto di una caverna a Sylvalum
+dove Marnuck hanno nascosto grande
+tesoro vicino alla parete sud."
+ITM_INFO_299_Caption,171,"Gira voce che una misteriosa creatura
+luccicante sia stata avvistata all'ingresso di
+Sylvalum, ma sia scomparsa all'improvviso.
+Il che significa: FANTASMA! AAARGH!"
+ITM_INFO_300_Caption,171,"Ho sentito dire che c'è un Cervus dalle
+corna dorate alle Dune meridionali del
+Lago Ciel di Sylvalum. Non so come
+sia possibile abbattere quel mostro!"
+ITM_INFO_301_Caption,171,"Il mio amico BLADE si è imbattuto per caso in
+un Milsaadi in grado di controllare gli insetti,
+alla Flotta Minatrice Dimenticata a Cauldros.
+Dice che appare di notte ed è un tipetto tosto!"
+ITM_INFO_302_Caption,171,"Abbiamo rinvenuto un rottame della Balena
+Bianca a ovest della Villa G'nahan. La nave
+deve essersi disintegrata a mezz'aria per
+far sì che un pezzo cadesse così lontano."
+ITM_INFO_303_Caption,171,"Gira voce che abbiano trovato rottami della
+Balena Bianca su una piccola isola, nella parte
+occidentale di Cauldros, ma che le operazioni
+di recupero siano risultate molto difficili."
+ITM_INFO_304_Caption,171,"Questo mi ha ricordato... C'era un Petramand
+gigante sulla cascata di magma a Cauldros.
+Sul nostro pianeta sarebbe stato
+un gran pericolo."
+ITM_INFO_305_Caption,171,"Abbiamo trovato dei rottami appartenenti a
+una civiltà aliena a ovest del Monte M'gando
+a Cauldros. Con la ricompensa che mi
+daranno ti comprerò qualcosa di speciale!"
+ITM_INFO_306_Caption,171,"Sembra che ci sia un enorme mostro volatile
+al Monte M'gando, a Cauldros. Solo a
+immaginare di dover combattere contro
+quel coso, mi vengono i brividi!"
+ITM_INFO_307_Caption,171,"Mi è arrivato un messaggio di mia sorella.
+Dice che c'è un reliquiario alieno dall'aspetto
+prezioso nelle pozze di magma di Cauldros.
+Che emozione!"
+ITM_INFO_308_Caption,171,"L'entrata del Castello di O'rrh Sim di Cauldros
+è protetta da un modello all'avanguardia di
+Galdr che brilla come l'oro. Non c'è modo
+di passare dal portone principale."
+ITM_INFO_309_Caption,171,"La maggior parte di Cauldros è in
+mano ai Ganglion. Ma se potessimo
+infiltrarci nel loro quartier generale,
+e rubare loro i rifornimenti..."
+ITM_INFO_310_Caption,171,"Durante il giorno puoi vedere un Seidr
+velocissimo vicino all'hangar Ganglion.
+Colui che lo controlla deve essere
+uno dei loro piloti migliori."
+ITM_INFO_311_Caption,171,"C'è un tesoro nascosto nella tana di un mostro
+nel Castello di O'rrh Sim di Cauldros, vero?
+Forse dovrei trovarlo e darlo alla Pron che si
+siede qua di notte, per farla sentire meglio?"
+ITM_INFO_312_Caption,171,"Ho peregrinato fino al Monte M'gando
+a Cauldros, ma un Manctis si è
+avventato su di me dall'alto.
+Sono quasi divenuta un kebab io stessa!"
+ITM_INFO_313_Caption,171,"Sono stati avvistati dei rottami alieni
+presso la Gola M'gando a Cauldros."
+ITM_INFO_314_Caption,171,"Dicono ci sia un tesoro nel nido di un mostro,
+a nord-est di Cauldros. Ma non credo di
+potermi avvicinare abbastanza da scoprirlo,
+neanche con il mio fantastico Skell."
+ITM_INFO_315_Caption,171,"Sai del reliquiario alieno che è stato
+scoperto a ovest dell'Arena Scholes?
+Per esaminarlo a fondo serve molta
+abilità, nel caso tu voglia farlo."
+ITM_INFO_316_Caption,171,"Se sali su per la collina troverai l'Arena
+Emerian. È un luogo ancora più sicuro
+di questo, quindi se ne hai la possibilità
+non esitare a visitarlo."
+ITM_INFO_317_Caption,171,"Ci sono dei resti di uno Skell di una civiltà
+aliena nell'Arena Emerian. Anche loro
+devono aver avuto i loro problemi
+con le specie autoctone."
+ITM_INFO_318_Caption,171,"Se davvero mi amate come dite, andate a
+Cauldros e recuperate l'elicottero da
+ricognizione affondato nella lava!"
+ITM_INFO_319_Caption,171,"È lo Xeno che si serve di un branco di Saprof
+per sorvegliare il Castello di O'rrh Sim che ha
+ucciso il mio ragazzo! Gli Xenomorfi sono
+i nostri nemici! Quindi sparisci dalla mia vista!"
+ITM_INFO_320_Caption,171,"Sì, abbiamo rilevato un container alieno
+gravemente danneggiato alle Terrazze
+T'phnom settentrionali di Cauldros. Pensi
+che ce la faremo a recuperare qualcosa?"
+ITM_INFO_321_Caption,171,"È caduto un elicottero vicino alle Terrazze
+T'phnom. Il pilota non ha commesso alcun
+errore, ma è stato abbattuto improvvisamente.
+È stata la nostra prima vittima su Mira."
+ITM_INFO_322_Caption,171,"Mai sentito parlare di quel Milsaadi, Sharnaak
+il Tecnico? Compare di notte a Cauldros,
+sul Monte M'gando, e distrugge tutto
+con quelle armi spaventose!"
+ITM_INFO_323_Caption,171,"L'Arena Scholes ospita un Saprof famoso per
+le sue doti da predatore. Sbuca dal nulla e
+si lancia sulle prede con la velocità
+di una freccia appena scoccata."
+ITM_INFO_324_Caption,171,"Conosco un tizio che è stato a Cauldros. Ha
+detto che c'era una tempesta elettromagnetica
+vicino alla Flotta Minatrice Dimenticata, e ha
+visto un possente Scintimure avvolto da fulmini!"
+ITM_INFO_325_Caption,171,"Pare ci sia un reliquiario alieno nella Grotta
+Rituale di Cauldros, sai? Se riuscissi ad avere
+qualche oggetto che proviene da lì  magari
+potrei battere quel tipo, che ne dici?"
+ITM_INFO_326_Caption,171,"Ho visto un vecchio Gularth davanti alle
+Cascate del Tramonto che contemplava
+la caduta del magma.
+Che gli piaccia restare da solo?"
+ITM_INFO_327_Caption,171,"Degli Outfitter dicono di aver trovato un nido
+di mostri in un posto chiamato Antica Arena,
+giusto? Cauldros fa molta-molta paura,
+è praticamente inesplorabile..."
+ITM_INFO_328_Caption,171,"Amico Nopon dice che ha visto rottami di
+Balena Bianca in Fortezza della Lince
+a Cauldros. Chissà se è pieni di tesori?"
+ITM_INFO_329_Caption,171,"[ST:gender p1=Amico p2=Amica ] vede quella strana statua a sud
+di Flotta Minatrice Dimenticata? Era già rotta
+prima di arrivo Nopon, tu non accusa!"
+ITM_INFO_330_Caption,171,"Strano Caecus attacca amici che va
+a Punta Spinadrago a Cauldros.
+Forse pensa che quella è sua tana?"
+ITM_INFO_331_Caption,171,"Una macchina giragira di amici è caduta
+vicino a Cascate del Tramonto.
+Non è intelligente volare là!"
+ITM_INFO_332_Caption,171,"Pare che Ganglion abbiano delle armi
+automatiche dette ""Xe-dom"" sulle loro navi
+da estrazione a Cauldros, vero? Forse riuscite
+a farle a pezzi con la vostra potenza umana?"
+ITM_INFO_333_Caption,171,"Dicono che di notte, a Cauldros, un Blathax
+gigante esca all'aperto vicino alla Flotta
+Minatrice Dimenticata. Pazzesco, no?"
+ITM_INFO_334_Caption,171,"Questa è informazione top secret! Ci sarà
+cassa di provviste Ganglion a Incrocio
+Tridente. Noi dopo ci intrufola per rubarla!"
+ITM_INFO_335_Caption,171,"Aspetta, cosa? Hanno trovato una biocapsula
+sull'Isola della Preda, a Cauldros?
+E come diamine ci è finita, in quel postaccio?"
+ITM_INFO_336_Caption,171,"Cosa dici? Hanno abbattuto uno dei nostri
+elicotteri in pattuglia vicino al palazzo nel
+sud-est di Cauldros? Accidenti, credo sia il
+posto peggiore in cui cadere con l'elicottero."
+ITM_INFO_337_Caption,171,"Si dice che abbiano trovato una biocapsula
+nella parte meridionale di Cauldros. Se
+riuscissi a trovarla, potrei ricevere un'enorme
+ricompensa! Potrei anche comprarmi un'auto!"
+ITM_INFO_338_Caption,171,"Ho lasciato delle scorte vicino al sito di
+installazione per sonde dati nel settore 314
+delle mappe FrontierNav. Non esitare a
+servirtene in caso ne avessi bisogno."
+ITM_INFO_339_Caption,171,"Siamo stati veloci nella ricostruzione dopo
+l'invasione, ma sono rimasti dei rottami dalla
+battaglia. Nessuno si è preso la briga di
+spostare quelli rimasti in cima a questa gru."
+ITM_INFO_340_Caption,171,"Hai notato questa strana struttura che fluttua
+a nord-est del sito FN 501 sulla mappa
+dei settori? I nostri dati suggeriscono
+che un tesoro si trovi al suo interno."
+ITM_INFO_341_Caption,171,"Ho visto una strana statua senza
+testa all'Oasi Selvaggia. Sembra
+essere datata, dovremmo portarla
+a Neo L.A. per condurre delle indagini."
+ITM_INFO_342_Caption,171,"Abbiamo trovato una biocapsula a sud delle
+Cascate del Tramonto. Abbiamo provato
+a recuperarla, ma i mostri ci hanno reso
+la vita impossibile e abbiamo rinunciato."
+ITM_INFO_343_Caption,0,
+ITM_INFO_344_Caption,0,
+ITM_INFO_345_Caption,0,
+ITM_INFO_346_Caption,0,
+ITM_INFO_347_Caption,0,
+ITM_INFO_348_Caption,0,
+ITM_INFO_349_Caption,0,
+ITM_INFO_350_Caption,0,
+ITM_INFO_351_Caption,0,
+ITM_INFO_352_Caption,171,"Il Segretario Nagi verrà a ispezionare l'hangar
+dei test degli Outfitter! Sarà di mattina presto,
+ma mi aspetto di vederti sveglio e pimpante,
+intesi?"
+ITM_INFO_353_Caption,171,"Wrothian tengono un torneo di combattimento
+all'hangar dei test degli Outfitter.
+Sei un guerriero? Vai. Provalo!"
+ITM_INFO_354_Caption,171,"Un guerriero Wrothian è in cerca di BLADE
+competenti? Dovremmo inviare subito degli
+agenti al loro rifugio. Dobbiamo cercare di
+stabilire relazioni amichevoli."
+ITM_INFO_355_Caption,171,"Hugo, un tipo della zona industriale, era tutto
+esaltato per questa sua incredibile scoperta,
+ma quando ha tentato di spiegarmela... wow!
+Non mi ha fatto capire niente."
+ITM_INFO_356_Caption,171,"Nella zona industriale ho visto Celica, la
+Xeno, che massaggiava la testa di un
+piccolo animale dalle orecchie lunghe.
+Sarà stata una forma di venerazione religiosa?"
+ITM_INFO_357_Caption,171,"Ho visto un nuovo tipo di Xenomorfo davanti
+alla Torre BLADE. Un Wrothian, mi pare...
+Poi ha borbottato qualcosa sull'inutilità di
+questo posto per il loro addestramento."
+ITM_INFO_358_Caption,171,"Beh, qual era il problema con Yardley
+all'hangar dei test degli Outfitter? Davvero
+pensava gli avremmo dato le nostre preziose
+risorse per la sua insensata ricerca?"
+ITM_INFO_359_Caption,171,"Gira voce che di notte uno scimmione gigante
+si metta a scalare la torre dell'hangar dei test
+degli Outfitter! E che stringa una damigella
+nella sua mano gigante!"
+ITM_INFO_360_Caption,171,"Ho visto quel Wrothian, Gi Zang, vicino al
+Centro manutenzione. Mi ha detto che si stava
+preparando per un pellegrinaggio, una sorta
+d'addestramento guerriero. Ho girato al largo."
+ITM_INFO_361_Caption,171,"Ho assistito a qualcosa di strano stamattina.
+Un BLADE muscoloso stava dando delle
+istruzioni ultradettagliate a proposito
+di qualcosa. Sembrava molto esperto."
+ITM_INFO_362_Caption,171,"Poco prima dell'alba, mi sono imbattuto in un
+qualche incontro segreto nella zona industriale,
+e una donna mi ha puntato un'arma contro!
+Non scherzo! Mi hanno quasi sparato!"
+ITM_INFO_363_Caption,171,"Ehi, dico a te! Liza è allo stabilimento, ha dei
+problemi con tutti quei rifiuti. Cosa stai
+aspettando? Vai ad aiutarla, muoviti!"
+ITM_INFO_364_Caption,171,"La mia amica all'hangar dei test degli Outfitter
+è furiosa: immagino debba fare un'altra
+ramanzina a Irina."
+ITM_INFO_365_Caption,171,"Quella Lin ha fatto le ore piccole, lottando
+con un modulo di volo all'hangar dei test
+degli Outfitter. È veramente una
+ricercatrice molto scrupolosa."
+ITM_INFO_366_Caption,171,"Il Dott. Hugo sta sviluppando una nuova
+sonda dati da battaglia, all'hangar
+dei test degli Outfitter? Interessante.
+Andiamo a vedere?"
+ITM_INFO_367_Caption,171,"Ho visto Elma in pausa pranzo di recente.
+Stava parlando con due meccanici e sembrava
+nervosa per qualche motivo. Volevo chiederle
+un autografo, ma non mi è sembrato il caso."
+ITM_INFO_368_Caption,171,"Ho visto Robert nella zona industriale.
+Il poveretto sembrava davvero turbato.
+Cosa gli sarà capitato?"
+ITM_INFO_369_Caption,171,"Quel Tobias è pronto a tutto per fare soldi.
+Dicono sia immischiato in un sacco di affari
+loschi nella zona industriale. Ci sarebbe da
+dargli un assaggio di punizione divina!"
+ITM_INFO_370_Caption,171,"Stavo pensando allo Zaruboggan nato
+nella zona industriale, giusto? Immagina
+di nascere in un posto pazzo come
+questo, eh? Povero piccolo..."
+ITM_INFO_371_Caption,171,"C'è uno strano container abbandonato
+davanti all'impianto di produzione integrata.
+Cosa ci sarà mai dentro? Niente di buono,
+dico io!"
+ITM_INFO_372_Caption,171,"Conosci Hugo? Sta correndo da una parte
+all'altra della zona industriale, pregando i
+BLADE di aiutarlo con qualche sua invenzione.
+Tutti gli dicono di no, e li capisco!"
+ITM_INFO_373_Caption,171,"C'era un animale imbalsamato a terra, davanti
+all'hangar dei test degli Outfitter, nella
+zona industriale. Era un po'... spaventoso e
+quindi sono passato oltre."
+ITM_INFO_374_Caption,171,"Conosci un tale Horonalderon, della zona
+industriale? Pare che lo abbiano attaccato dei
+Ganglion, fuori città, ma una squadra lo ha
+soccorso."
+ITM_INFO_375_Caption,171,"Hope sta dando una mano alla zona
+industriale! Vuole per caso lavorare fino
+al collasso?"
+ITM_INFO_376_Caption,171,"Ho appena visto uno Zaruboggan nella zona
+industriale con del fumo che fuoriusciva
+dal suo zaino. È normale che ciò avvenga?"
+ITM_INFO_377_Caption,171,"Irina è davvero gentile: con tutti gli impegni
+che ha, trova comunque il tempo di dare
+consigli ai compagni BLADE, quasi ogni sera!"
+ITM_INFO_378_Caption,171,"Una sera ogni tanto, Frye si astiene dal bere.
+Poi sale sul ponte a contemplare Neo L.A.
+Un comportamento strano, eh?"
+ITM_INFO_379_Caption,171,"Ho visto Lara Nara insieme al suo fidanzato
+sulla terrazza davanti alla Torre BLADE.
+Diceva che aveva una buona notizia da dargli."
+ITM_INFO_380_Caption,171,"Ho visto un enorme Xeno che lavorava sodo
+nella zona industriale. E anche se c'era una
+ragazza molto carina vicino a lui, non riuscivo
+a togliere gli occhi di dosso da quel bestione."
+ITM_INFO_381_Caption,171,"Ehi tu... Scusa ma ho appena notato che nella
+zona industriale c'è uno Xeno che non ho mai
+visto prima. Non so cosa ci stia facendo lì..."
+ITM_INFO_382_Caption,171,"C'era una BLADE con due tipi loschi, nel
+vicoletto. Credi sia tutto a posto? Non sembra
+una tipa tosta, e lì dietro è così buio..."
+ITM_INFO_383_Caption,171,"C'è uno Zaruboggan qua in giro che continua
+a cercare... qualcosa. Spero che non sia
+niente di strano o pericoloso."
+ITM_INFO_384_Caption,171,"Hanno visto Frye di notte, agli hangar, intento
+a fare discorsi seriosi. Devo ammetterlo, sono
+stupita... Non pensavo riuscisse a rimanere
+sobrio abbastanza da parlare con qualcuno!"
+ITM_INFO_385_Caption,171,"I BLADE hanno dei depositi segreti in ogni
+zona della città, nei quali nascondono
+equipaggiamenti vari. Speriamo che
+non ci sia mai bisogno di utilizzarli."
+ITM_INFO_386_Caption,171,"Gwin segue Irina ovunque vada. Pensa
+che, di pomeriggio, addirittura l'aspetta sul
+ponte mentre lei è a fare acquisti! Patetico!"
+ITM_INFO_387_Caption,171,"Giuro, dico la verità. Ho visto Irina
+canticchiare mentre faceva shopping
+nella zona commerciale! Cosa le
+sarà successo?"
+ITM_INFO_388_Caption,171,"Ho visto Phog a Piazza Frappè, nella zona
+commerciale, vero? Fissava l'interno di un
+bar, sì? Strano. È molto-molto strano."
+ITM_INFO_389_Caption,171,"Che cosa? C'è il fantasma di un Nopon sulla
+Torre BLADE? F-f-finiscila! Non ci credo, nei
+fantasmi! E smettila di cercare di spaventarmi
+con le tue stregonerie!"
+ITM_INFO_390_Caption,171,"Ero alla zona commerciale, oggi. Ho visto
+una piccola ragazza con enorme gigante.
+È lei Celica?"
+ITM_INFO_391_Caption,171,"Ai civili non è permesso toccare i rifornimenti
+BLADE situati in ogni zona della città, giusto?
+Quindi cosa dovremmo fare se succedesse
+qualcosa? Metterci in salvo e basta?"
+ITM_INFO_392_Caption,171,"Hai presente Tracey? La Mediator? Ha appena
+arrestato uno Zaruboggan in Piazza Frappè,
+nella zona commerciale! Spero che non si
+verifichi un incidente diplomatico..."
+ITM_INFO_393_Caption,171,"C'è uno Zaruboggan di nome Shiraton di
+fronte a Rosemoss, nella zona commerciale.
+Di certo non è buono per gli affari!"
+ITM_INFO_394_Caption,171,"Sembra che di recente, Mia stia facendo le ore
+piccole. Sta lavorando di nuovo nella zona
+commerciale? Accidenti, non dovrebbe
+esagerare in questo modo."
+ITM_INFO_395_Caption,171,"Ci sono ancora i rottami di Skell Ganglion
+nella zona commerciale, ma non possiamo
+toccarli prima della fine dell'investigazione.
+E sbrigatevi! Sono stufa di averli tra i piedi!"
+ITM_INFO_396_Caption,171,"Ho appena visto un uomo litigare con un
+gruppo di pericolosi teppisti dall'altra parte
+della strada. Chissà se starà bene... non che
+possiamo farci qualcosa, ma insomma..."
+ITM_INFO_397_Caption,171,"Sono andato al Sunshine Café per un caffè
+e non me lo hanno potuto fare! Penso si fosse
+rotta la macchina. E comunque, questo mi ha
+rovinato la giornata."
+ITM_INFO_398_Caption,171,"Verso mezzogiorno, ho visto Doug giocare con
+un cane sugli scalini di Ishmael Hills.
+Sembrava distrutto: credo che lavori troppo."
+ITM_INFO_399_Caption,171,"Puoi trovare Lin nella zona amministrativa,
+a tener banco tra tutte le Prospector. Vedo
+che non riscuote successo solo con i ragazzi..."
+ITM_INFO_400_Caption,171,"Uno strano Ma-non di nome Chiopitus sta
+camminando lungo Piazza Frappè, nella zona
+commerciale. Credo stia cercando degli umani
+che lo aiutino con il suo esperimento..."
+ITM_INFO_401_Caption,171,"Veverta ha perso la sua ricetrasmittente, forse?
+Stava gironzolando nella zona commerciale
+dicendo brutte cose sottovoce, sì?
+Cose molto-molto brutte..."
+ITM_INFO_402_Caption,171,"Oooh! Victoria, della Belle Betty Fashion,
+sta assumendo degli stilisti a Piazza Frappè!
+Sarò così in tiro che non crederai ai tuoi
+occhi!"
+ITM_INFO_403_Caption,171,"Di tanto in tanto vedo L qua fuori che, nel
+cuore della notte, si aggira con un sorrisetto
+compiaciuto. Penso sia felice di aver venduto
+la sua ennesima strana invenzione."
+ITM_INFO_404_Caption,171,"Ho visto il Segretario Nagi all'incrocio
+sulla Prima Nord alle otto di questa
+mattina! Le otto! Di MATTINA! Ora
+DEVI credermi per forza!"
+ITM_INFO_405_Caption,171,"Mmmh? Un anziano al Bazaar Nopon sta
+tanto male e sta per svenire? È terribile!
+Se possiamo aiutare in qualsiasi modo,
+non esitate a chiedere."
+ITM_INFO_406_Caption,171,"Sembra che una Nopon di nome Chiroro
+stia inviando richieste di soccorso
+dall'Oasi Fluttuante di Oblivia."
+ITM_INFO_407_Caption,171,"Quando sono andata a fare compere alla
+boutique, Alesa e un Ma-non di nome
+Wersal stavano discutendo animatamente.
+Mi chiedo quale fosse la ragione..."
+ITM_INFO_408_Caption,171,"Kirsty è di cattivo umore, è tutto il giorno
+che urla ordini ai BLADE vicino alla
+caserma. Deve essere bello essere
+attraenti anche quando si perdono le staffe."
+ITM_INFO_409_Caption,171,"Quando di notte scoppiano risse nella zona
+commerciale, l'Assassina è sempre lì tra la
+folla a guardare. Ne starà pensando una delle
+sue? O è solo che le piace vedere il sangue?"
+ITM_INFO_410_Caption,171,"In via Melville, mi sono imbattuta in Frye:
+un umano che non disdegna di alzare il
+calice con i Wrothian. Tutti noi dovremmo
+imparare ad avere relazioni così cordiali."
+ITM_INFO_411_Caption,171,"Nella zona commerciale c'è un Nopon di
+nome Bubu che è molto preoccupato
+per sua moglie che non torna, sai?
+Poverino! Sono triste-triste..."
+ITM_INFO_412_Caption,171,"Sembra che i rottami dei robot Ganglion non
+siano stati ancora sgomberati dalla zona
+commerciale, giusto? Capisco che nessuno
+ne abbia voglia, dopo una dura battaglia."
+ITM_INFO_413_Caption,171,"Il Sergente Istruttore Wolf vuole reclutare gli
+Xeno nel BLADE per combattere i Ganglion.
+Come se chiunque potesse sopravvivere al
+suo addestramento! Ah!"
+ITM_INFO_414_Caption,171,"Una Nopon di nome Warawa sta girando per
+la zona commerciale in cerca di una rarissima
+Carta Mirafauna Nopopotamus d'Oro.
+Oh, ragazzi! Non sarà un'impresa facile!"
+ITM_INFO_415_Caption,171,"Prima, a pranzo, ho visto un Ma-non litigare
+con uno Xeno mai visto prima, lì al ristorante.
+Spero non si trasformi in... qualcosa. Il litigio,
+intendo..."
+ITM_INFO_416_Caption,171,"Beats, il Mediator che pattuglia la zona
+commerciale, cerca libri elettronici anche
+quando lavora, giusto? Questa per voi è
+diligenza, vero?"
+ITM_INFO_417_Caption,171,"Ho visto Ackwar fare domande a dei testimoni
+in via Melville. È successo qualcosa?"
+ITM_INFO_418_Caption,171,"Di notte vedo spesso Hope che aspetta
+qualcuno fuori da un edificio nella zona
+commerciale. Probabilmente dà una mano
+a qualche altra anima in pena."
+ITM_INFO_419_Caption,171,"Sssul ponte della nave Ma-non, gli Orphe
+correvano terrorizzati di qua e di là, intorno
+a Sssun'barac. Fsss... Sssono una razza
+debole come la nostra, sssempre preoccupati."
+ITM_INFO_420_Caption,171,"Ho visto Elma che controllava le macchine
+di passaggio nella zona commerciale.
+Che stia proteggendo qualcuno?
+O forse sta inseguendo un criminale?"
+ITM_INFO_421_Caption,171,"Un Pron di nome Loda Gorida stava facendo
+un gran baccano sulla nave Ma-non. Diceva
+che sua figlia era stata rapita dagli umani.
+Possibile? Pfff, ma dai!"
+ITM_INFO_422_Caption,171,"Quando sono andata alla nave Ma-non,
+c'era uno Xeno a forma di insetto chiamato
+Nan'celeg che continuava a borbottare cose
+da solo... Avrò gli incubi per SETTIMANE!"
+ITM_INFO_423_Caption,171,"Uno Zaruboggan...? Sembrava volesse dirmi
+qualcosa, ma ci ha ripensato e si è diretto
+all'astronave Ma-non. Magari cercava
+qualcosa."
+ITM_INFO_424_Caption,171,"Bazis Wolfen sta per avere un bebè!
+Chissà come saranno i piccoli di Pron!"
+ITM_INFO_425_Caption,171,"Sembra che i Pron si stiano preparando per
+un matrimonio! Wow, grande! Di questi tempi
+le buone notizie scarseggiano."
+ITM_INFO_426_Caption,171,"Ho sentito di questo Wrothian nella nave
+Ma-non che parlava di un assistente che
+raccoglierebbe dell'acciaio per lui.
+Non ci ho capito molto."
+ITM_INFO_427_Caption,171,"I Wrothian erano andati a sconfiggere certi
+cattivacci scatenati a Primordia, giusto?
+Ma-ma-ma invece sono stati battuti.
+Il capitano è sul ponte che si lamenta."
+ITM_INFO_428_Caption,171,"Gli Zaruboggan adorano una divinità
+chiamata Golbogga. Me l'ha detto un
+certo Feloran, sull'astronave Ma-non."
+ITM_INFO_429_Caption,171,"I maschi del Clan degli Alberi stavano
+correndo come matti! È una cosa legata alla
+loro cultura, ma credimi, vedere dei bestioni
+tarantolati non è stato proprio tranquillizzante."
+ITM_INFO_430_Caption,171,"Sajif Scoppio mi stava giusto chiedendo
+spiegazioni sulle tattiche militari. Mi sono
+sorpreso, non sapevo che i Pron potessero
+anche avere una certa curiosità intellettuale."
+ITM_INFO_431_Caption,171,"Quella Pron? Slovity? Quella che fa paura?
+Non ho idea di quello che voglia fare sulla
+nostra nave, ma spero davvero-DAVVERO
+niente di male, giusto?"
+ITM_INFO_432_Caption,171,"Stai seguendo l'andamento delle elezioni?
+Sun'barac ha raccolto dati sulla nave
+Ma-non e secondo lui c'è un candidato
+emergente che sembra pericoloso."
+ITM_INFO_433_Caption,0,
+ITM_INFO_434_Caption,171,"Spero che si sbrighino a togliere di mezzo
+quello Skell Ganglion dal tetto dell'hangar
+dei test degli Outfitter. Spaventa le ragazze
+e mi rovina la vita sociale!"
+ITM_INFO_435_Caption,0,
+ITM_INFO_436_Caption,0,
+ITM_INFO_437_Caption,0,
+ITM_INFO_438_Caption,171,"Sono andata a vedere Elma in caserma,
+ma era persa nei suoi pensieri. Comunque
+è proprio bellissima, quando pensa! Le donne
+intelligenti sono sempre le migliori."
+ITM_INFO_439_Caption,0,
+ITM_INFO_440_Caption,171,"Il Segretario della Difesa Nagi sarà a una
+festa con i pezzi grossi della Sakuruba, oggi
+a mezzogiorno. Non dovresti essere nella
+zona residenziale a fare la guardia?"
+ITM_INFO_441_Caption,0,
+ITM_INFO_442_Caption,0,
+ITM_INFO_443_Caption,171,"All'hangar dei test degli Outfitter, un umano
+di nome Hugo dice di aver inventato qualcosa
+che cambierà la storia. Sarebbe bello
+fare ricerca insieme, non trovi?"
+ITM_INFO_444_Caption,0,
+ITM_INFO_445_Caption,0,
+ITM_INFO_446_Caption,0,
+ITM_INFO_447_Caption,0,
+ITM_INFO_448_Caption,0,
+ITM_INFO_451_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione umana.
+Concede l'accesso al livello 2."
+ITM_INFO_452_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione umana.
+Concede l'accesso al livello 3."
+ITM_INFO_453_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione umana.
+Concede l'accesso al livello 4."
+ITM_INFO_454_Caption,171,"Questo manuale avanzato tratta
+e concede accesso ulteriore a oggetti
+di fabbricazione umana."
+ITM_INFO_455_Caption,171,"Questo manuale tratta principalmente
+di oggetti naturali.
+Concede l'accesso al livello 2."
+ITM_INFO_456_Caption,171,"Questo manuale tratta principalmente
+di oggetti naturali.
+Concede l'accesso al livello 3."
+ITM_INFO_457_Caption,171,"Questo manuale tratta principalmente
+di oggetti naturali.
+Concede l'accesso al livello 4."
+ITM_INFO_458_Caption,171,"Questo manuale avanzato tratta
+e concede accesso ulteriore a oggetti
+naturali."
+ITM_INFO_459_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione aliena.
+Concede l'accesso al livello 5."
+ITM_INFO_460_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione aliena.
+Concede l'accesso al livello 3."
+ITM_INFO_461_Caption,171,"Questo manuale tratta principalmente
+di oggetti di fabbricazione aliena.
+Concede l'accesso al livello 4."
+ITM_INFO_462_Caption,171,"Questo manuale avanzato tratta
+e concede accesso ulteriore a oggetti
+di fabbricazione aliena."
+ITM_INFO_463_Caption,171,"Gente dice che Morm gigante spacca
+tutta Costa Nord di Oblivia! Me spera
+che amici non incontra lui."
+ITM_INFO_464_Caption,171,"Vicino agli Archi Gemelli ci sono degli Ovis
+simili a pietre che attaccano tutto ciò che si
+muove. Sai una cosa? A volte detesto
+questo pianeta."
+ITM_INFO_465_Caption,171,"Quel segnale che abbiamo captato dalla Costa
+Sud di Oblivia? No, non faceva parte del
+Centro vitale. Era qualche rottame di
+Skell che lo stava trasmettendo."
+ITM_INFO_501_Caption,171,"Ho visto Phog starsene tutto solo in uno
+strato inferiore, sotto al Parco della Salvezza.
+È un comportamento molto sospetto, vero?
+Magari dovremmo comunicarlo ai Mediator."
+ITM_INFO_502_Caption,171,"Hugo, il ricercatore, era così entusiasta mentre
+trafficava con macchinari vari all'hangar dei
+test degli Outfitter, vero? Magari significa che
+sta per accadere qualcosa di interessante, no?"
+ITM_INFO_503_Caption,171,"Ho incontrato un'umana di nome Lin al
+cantiere della zona residenziale, sì? E mi
+ha fatto una valanga di domande sulla
+nostra nave. È stato elettrizzante!"
+ITM_INFO_504_Caption,0,
+ITM_INFO_505_Caption,171,"È tutto il giorno che Phog gira intorno all'area
+di raccolta dietro al Centro sportivo con lo
+sguardo fisso a terra. Avrà perso qualcosa..."
+ITM_INFO_506_Caption,171,"C'è un BLADE di nome Gwin che si allena
+sempre vicino al Centro sportivo, anche in
+piena notte. Non esiterei ad affidare la mia
+vita a un tipo come lui."
+ITM_INFO_507_Caption,171,"Ho visto Fosdyke, uno dei Tre Celesti, al Parco
+della Salvezza, nella zona residenziale.
+Davvero! Era proprio lui!"
+ITM_INFO_508_Caption,171,"Ho visto L questa mattina. Al Parco della
+Salvezza. Danzava. Sembrava danza Pron
+di corteggiamento. È la stagione degli amori?"
+ITM_INFO_509_Caption,171,"Ho visto una ragazza Xeno molto carina al
+parco. Sono quelle cose che ti fanno sentire
+in pace col mondo."
+ITM_INFO_510_Caption,171,"Spesso vedo Doug allenarsi al Centro sportivo
+nel tempo libero. Non ne capisco il motivo
+dato che i mimosomi non possono atrofizzarsi.
+Sicuramente lo farà solo per passione."
+ITM_INFO_511_Caption,171,"Gwin e Mathias stavano discutendo
+animatamente di qualcosa all'impianto
+di purificazione dell'acqua. Sembrano
+due fratelli!"
+ITM_INFO_512_Caption,171,"Ho incontrato l'umano Frye, alla fontana della
+zona residenziale. Puzzava di alcol e si stava
+azzuffando con un gatto, sai? È un tipo
+proprio strano, no?"
+ITM_INFO_513_Caption,0,
+ITM_INFO_514_Caption,171,"Sembra che Kirsty stesse cercando qualcuno
+a Cauldros, o abbia trovato qualcuno, o...
+qualcosa? Non riesco mai a capire cosa
+farfugli quando è eccitata."
+ITM_INFO_515_Caption,171,"Ho appena visto Gwin che giocava con un
+cane a Ishmael Hills...
+Non è che mi interessi in quel SENSO!
+Perché ti stai ingelosendo?"
+ITM_INFO_516_Caption,171,"Ho visto Mia davanti alla sua casa a Ishmael
+Hills. Sembrava preoccupata, e non è affatto
+da lei! È la persona più spensierata che
+conosco!"
+ITM_INFO_517_Caption,171,"Se hai bisogno di una mano parla con Hope,
+sì? Può aiutarti qualunque sia il tuo problema.
+È nella zona commerciale ora-ora, credo?"
+ITM_INFO_518_Caption,171,"Perché Phog fissa l'impianto di purificazione
+dell'acqua con quello sguardo serio? Io quel
+tipo non lo capisco proprio."
+ITM_INFO_519_Caption,171,"A pranzo ho visto l'Assassina che parlava con
+un tizio sospetto vicino alla casa di fronte al
+Parco della Salvezza. Me ne sono andato via
+perché non ci tenevo a farmi ammazzare..."
+ITM_INFO_520_Caption,171,"Gli animali domestici sono incredibili! Ho visto
+una signora nella zona residenziale che da
+super furiosa è diventata calmissima. Tutto per
+via di un animaletto! Chissà se ce l'ha ancora?"
+ITM_INFO_521_Caption,171,"A Mia non piace Nopon: lei ama solo
+stupido gatto. Se me incontra lei ancora in
+zona commerciale, me gliene dice quattro!"
+ITM_INFO_522_Caption,171,"Mi chiedo cosa ne facciano delle proprietà
+degli agenti BLADE caduti in battaglia...
+Sono sicura che Doug lo sappia, ma
+è da un po' che non lo vedo in giro."
+ITM_INFO_523_Caption,171,"Un Nopon è svenuto nella zona residenziale!
+Poverino, non so se fosse malato o impazzito,
+ma mi sono tenuto alla larga."
+ITM_INFO_524_Caption,171,"Wow... Hai visto Elma all'impianto di
+purificazione dell'acqua ieri sera?!
+No... Non posso dire altro. Non voglio
+che si arrabbi con me!"
+ITM_INFO_525_Caption,171,"Kirsty sta cercando quel nuovo membro della
+squadra di Elma vicino all'impianto di
+purificazione dell'acqua. Sembrava proprio
+entusiasta per qualche motivo."
+ITM_INFO_526_Caption,171,"Friz stava trattando con questa donna a via
+dell'Armeria, OK? Dopodiché, beh...
+Lei gira l'angolo e si trasforma in una Xeno
+all'improvviso! L'ho vista con i miei occhi!"
+ITM_INFO_527_Caption,171,"Ho visto Mia nel vicolo dietro la zona
+residenziale, una sera. Era vivace come non
+mai. Ogni volta che la vedo mi sento meglio."
+ITM_INFO_528_Caption,171,"Ho sentito che un Orphe è entrato in casa
+di Caroline e le ha distrutto il giardino. Ne
+parlano tutti nella zona residenziale."
+ITM_INFO_529_Caption,171,"Sono ore che Phog è a Ishmael Hills
+che gioca a nascondino con un gatto.
+Vorrei sapere cosa gli passa per la testa...
+Che personaggio stravagante..."
+ITM_INFO_530_Caption,171,"C'è Orphe di nome Kon'luarb nell'area
+residenziale. Fa domande. Molte domande.
+Domande sull'impianto di purificazione
+dell'acqua di Biahno. Cosa sta pianificando?"
+ITM_INFO_531_Caption,171,"Una donna di nome Rosie stava strillando per
+via di qualcosa all'impianto di purificazione
+dell'acqua. Poveretta, dev'essere disperata...
+O pazza. Non è da escludere."
+ITM_INFO_532_Caption,171,"Al tramonto, ho sentito dei cani
+abbaiare contro Irina davanti a una
+casa, vicino alla cattedrale. Quella
+donna è un disastro con gli animali."
+ITM_INFO_533_Caption,171,"Ho visto L fissare in modo sinistro un gatto
+nella zona residenziale. Stava borbottando
+qualcosa su come mangiarselo. Quindi...
+beh, occhio al tuo gatto."
+ITM_INFO_534_Caption,171,"Aliene della Terra sono strane. Alcune
+comprano grandi case e ci vivono insieme."
+ITM_INFO_535_Caption,171,"Wendy, a Ishmael Hills, si lamentava di un
+mercante Nopon che non la lascia in pace.
+Poverina!"
+ITM_INFO_536_Caption,171,"Ho sentito che il Segretario Nagi farà visita
+alla squadra di Elma, alla caserma BLADE.
+Quel team è in buoni rapporti con lui...
+BEATI LORO!"
+ITM_INFO_537_Caption,0,
+ITM_INFO_538_Caption,171,"Neanche il Dottor Staccata ha trovato una
+cura a questo male, vero? Ma sembra che
+guarirò se vado da Fraisie alla cattedrale, sì?"
+ITM_INFO_539_Caption,171,"C'è un eccentrico Nopon nella zona
+residenziale, e sembra sia in grado di
+fare qualche strano tipo d'incantesimo. Non
+sarà mica magia nera? O magia del sangue?"
+ITM_INFO_540_Caption,171,"Nella cattedrale della zona residenziale c'è
+una donna che predica sempre che umani e
+Xeno hanno pari diritti. NO GRAZIE, sorella!
+Tenetemi alla larga da quella svitata!"
+ITM_INFO_541_Caption,171,"Pare che Letrick stia cercando un
+membro di una congregazione che ha
+fatto visita alla cattedrale mentre lui
+non c'era. È proprio un uomo diligente..."
+ITM_INFO_542_Caption,171,"C'è una tipa strana, che si aggira nel parco
+della zona residenziale, ma proprio
+COMPLETAMENTE ASSURDA.
+Secondo me, non viene neanche dalla Terra."
+ITM_INFO_543_Caption,171,"Ho visto Hope che si occupava dei fiori
+nel parchetto dietro la cattedrale, a pranzo.
+Conoscendola, stava facendo un
+favore a qualcun altro."
+ITM_INFO_544_Caption,171,"Possiamo prendere i container al livello
+inferiore della zona residenziale?
+Potremmo usarli come sedie."
+ITM_INFO_545_Caption,171,"Recentemente, sono apparsi tra noi
+dei traditori che rinnegano l'Ovah.
+On'tonam si sta occupando della
+situazione nell'area residenziale."
+ITM_INFO_546_Caption,171,"Quel tipo di nome Phoskeran se ne va in giro
+per Ishmael Hills a predicare la sua
+nuova ossessione per la chiaroveggenza.
+Certo che è uno strano Zaruboggan..."
+ITM_INFO_547_Caption,171,"Anche i depositi di scorte d'emergenza sono
+veramente tosti. Vai a vedere se non ci credi!
+Ce n'è uno proprio dietro la cattedrale
+nella zona residenziale."
+ITM_INFO_548_Caption,171,"Ho visto Gwin passare tutta la pausa pranzo
+a parlare con un novellino alla postazione di
+guardia del livello inferiore. Era tutto triste,
+non ha nemmeno mangiato! Che gli succede?"
+ITM_INFO_549_Caption,171,"Ultimamente, Irina passa tutte le mattine
+a farsi modificare le armi a quel punto
+di ritrovo BLADE, negli hangar."
+ITM_INFO_550_Caption,171,"È incredibile quanta sete di conoscenza
+abbiano i Ma-non! Quiquat ha posto ogni
+tipo di domanda su FrontierNav, vicino
+alle aree di raccolta della zona commerciale."
+ITM_INFO_551_Caption,171,"Chi ha lasciato quel rimorchio sfasciato giusto
+dietro via dell'Armeria? Prendiamo almeno la
+roba che c'è dentro, e dopo lo sposteranno."
+ITM_INFO_552_Caption,171,"Hai presente quel tipo, Gus? Sembra abbia
+degli affari loschi. Secondo me, il BLADE
+farebbe molto meglio a disfarsene."
+ITM_INFO_553_Caption,171,"Ho sentito dire che c'è un tecnico Ma-non
+nel livello inferiore della zona amministrativa.
+Si presume sia molto talentuoso, ma non
+sembra godersi molto il suo successo."
+ITM_INFO_554_Caption,171,"Sento Cedric brontolare tutta la notte negli
+hangar. Per caso qualcuno gli ha
+commissionato un'altra ridicola invenzione?"
+ITM_INFO_555_Caption,171,"Ho appena incontrato Kirsty, un pezzo
+grosso di FrontierNav. Sembra che abbia
+scelto Oblivia come prossimo obiettivo.
+Amo il suo entusiasmo!"
+ITM_INFO_556_Caption,171,"Quella Kirsty dà sempre delle missioni troppo
+pericolose a mio marito! Dice che non ha
+abbastanza personale per esplorare Noctilum...
+Ma chi pensa di prendere in giro?"
+ITM_INFO_557_Caption,171,"C'è un'aspirante BLADE all'area di raccolta a
+via delle Divisioni che non riesce a superare
+l'addestramento reclute. Non si vuole arrendere
+e il povero Walter sta per uscire di testa."
+ITM_INFO_558_Caption,171,"Giogion e il suo amico L apriranno
+un negozio per vendere i gadget fatti
+da loro, sì? Staranno cercando un posto
+in via dell'Armeria, allora... no?"
+ITM_INFO_559_Caption,171,"Hai scorto una Wrothian sulla cima della
+Torre BLADE? Immagino sia Gu Ladha.
+È solita starsene sulle sue."
+ITM_INFO_560_Caption,171,"Muimui, vicino a Torre BLADE, dice che lui
+trovato come diventare pazzissimamente ricco.
+Cosa lui sa? Quando lui saputo? ME DEVE
+SCOPRIRE!"
+ITM_INFO_561_Caption,171,"Ho visto il Segretario della Difesa Nagi vicino
+la Torre BLADE. Sembrava molto concentrato,
+immerso in qualche pensiero... I dettagli della
+prossima operazione, suppongo."
+ITM_INFO_562_Caption,171,"Quando sono andato da Kirsty per, ehm...
+""consultarmi"" con lei, mi ha detto che non
+dovevo neanche parlarle, era troppo occupata
+a pensare a Sylvalum. Ma ci pensi?"
+ITM_INFO_563_Caption,171,"Di sera vedo spesso Doug nel parcheggio
+della zona commerciale, mentre fissa un'auto
+con un ghigno stampato in faccia. Credo che
+se la sia comprata..."
+ITM_INFO_564_Caption,171,"Di solito puoi trovare Frye di notte alla tavola
+calda, ubriaco fradicio. Quando beve
+è manesco, perciò fai attenzione!"
+ITM_INFO_565_Caption,171,"Kirsty stava cercando la nuova recluta di fronte
+al Centro manutenzione. Chissà che vuole da
+[ST:gender p1=lui p2=lei ]?"
+ITM_INFO_566_Caption,171,"Pare che ci sia un rottame di una macchina
+da guerra Ganglion nella zona residenziale.
+Sembra si sia schiantato mentre atterrava
+durante l'invasione. Vogliamo controllare?"
+ITM_INFO_567_Caption,0,
+ITM_INFO_568_Caption,171,"Ho sentito Carl lamentarsi di qualcosa al
+cancello est. Avrà qualche problema
+con la sua missione?"
+ITM_INFO_569_Caption,171,"Ho appena visto Julius davanti al Centro
+manutenzione che parlava con quell'Orphe,
+Han'barac. Sembrava una cosa seria, a
+giudicare dalla faccia di Julius."
+ITM_INFO_570_Caption,171,"Mi dicono che la squadra di Corwin sta
+cercando nuovi membri. Se ti interessa,
+puoi chiedere a qualcuno alla base
+operativa dei Pathfinder."
+ITM_INFO_571_Caption,171,"Amica Lin sta di nuovo comprando ingredienti
+in zona commerciale. Tatsu è fortunato,
+mangia sempre pappa deliziosissima!"
+ITM_INFO_572_Caption,171,"C'era questa BLADE che sembrava in difficoltà,
+no? Ma quando le ho chiesto cosa avesse, ha
+urlato ed è fuggita verso il cancello est...
+Avrò detto qualcosa di sbagliato?"
+ITM_INFO_573_Caption,171,"Hai presente quel pallone gonfiato di Tobias?
+Di recente stava cercando qualcuno. Chiunque
+stia cercando, ha tutta la mia compassione.
+Poveretto!"
+ITM_INFO_574_Caption,0,
+ITM_INFO_575_Caption,0,
+ITM_INFO_576_Caption,171,"Satie aveva un lavoro urgente da sbrigare
+alla zona amministrativa.
+Non è facile essere un meccanico..."
+ITM_INFO_577_Caption,171,"Apparentemente c'è un gruppo di soldati
+Pron feriti al cancello orientale.
+Appartengono al Clan delle Caverne!
+Che sta succedendo?"
+ITM_INFO_578_Caption,171,"Zurranik ha ricevuto una piccola fortuna in
+crediti da qualche strambo Wrothian.
+Ora sarà sulla nave Ma-non, fuori di testa per
+tutte le Carte Mirafauna che potrà comprarsi."
+ITM_INFO_579_Caption,171,"Sembra che il Colonnello Elma sia in visita
+sulla nave Ma-non per migliorare le relazioni
+umani-Xeno. Naturale, dopotutto è stata la
+maggiore sostenitrice del trattato."
+ITM_INFO_580_Caption,171,"Ogni notte, L raduna un mucchio di Xeno
+all'ingresso della nave Ma-non. Non ho idea
+del motivo. Forse cerca di vender loro qualche
+altro articolo di dubbia utilità."
+ITM_INFO_581_Caption,171,"Nemmeno gli animali riescono a staccarsi da
+Hope. Ho visto un cane giocare con lei nel
+parcheggio del campo da tennis. Sembrava
+proprio divertirsi."
+ITM_INFO_582_Caption,0,
+ITM_INFO_583_Caption,171,"Il mio amico BLADE? È partito per Oblivia,
+diretto verso un posto chiamato Carovana
+Dorian, mi pare... Non l'ho più rivisto da
+allora, spero proprio che stia bene..."
+ITM_INFO_RESERVE,0,
+ITM_INFO_900_Caption,171,"Dati dal registro dell'attività dell'anello
+gigante che illustrano la normalizzazione
+topografica, indotta da enormi variazioni
+nella composizione atmosferica che
+consumano molta energia."
+ITM_INFO_901_Caption,171,"Dati dal registro dell'attività dell'anello
+gigante che illustrano l'utilizzo militare
+del sistema di ingegneria planetaria
+e l'annientamento di forze di terra
+nemiche."
+ITM_INFO_902_Caption,171,"Testimonianze di una civiltà aliena
+senza nome. I dati sono scarsi, ma
+descrivono una terra governata da
+un solo sovrano."
+ITM_INFO_904_Caption,171,"Testimonianze di una civiltà aliena
+senza nome. Dai pochi dati si può
+evidenziare un'analogia tra il loro
+sistema di credenze e il culto degli
+antichi Samaar."
+ITM_INFO_903_Caption,171,"Testimonianze di una civiltà aliena
+senza nome. Dai pochi dati disponibili
+si evince che il suo sovrano venne
+cacciato per qualche ragione e la civiltà
+cadde in rovina."
+ITM_INFO_900_Name,21,Registro attività anello gigante 1
+ITM_INFO_901_Name,21,Registro attività anello gigante 2
+ITM_INFO_902_Name,21,Registri Reali 1
+ITM_INFO_903_Name,21,Registri Reali 2
+ITM_INFO_904_Name,21,Registri Reali 3
