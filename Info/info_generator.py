@@ -36,7 +36,7 @@ def get_details_by_ID(search_dict, id, idx="ID"):
     return next((q for q in search_dict if q[idx] == str(id)), None)
 
 def caption_scrub(caption):
-    return caption.replace("[ST:n ]", " ").replace("\\\"", "\"").replace("\n", " ")
+    return caption.replace("[ST:n ]", " ").replace("\\\"", "\"").replace("\n", " ").replace("  ", " ")
 
 def info_infobox(important_details, lang_details):
     head = "{{Infobox XCX info item\n"
