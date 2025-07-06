@@ -173,14 +173,14 @@ def rewards(reward_details, reward_details_DE, items_details, items_details_DE):
                 if key.startswith("ref_item_bdat") or key.startswith("item_id") or key.startswith("itmPer"):
                     if item[key] != '0':
                         toWrite = item[key]
-                        toWrite_DE = items_details_DE[0][key]
+                        toWrite_DE = items_details_DE[itemNum-1][key]
 
                         navbox += f"|Item{itemNum}_{key} = {toWrite}\n"
                         if (toWrite != toWrite_DE):
                             navbox += f"|Item{itemNum}_{key} DE = {toWrite_DE}\n"
                 elif key != "QuestID":
                     toWrite = item[key]
-                    toWrite_DE = items_details_DE[0][key]
+                    toWrite_DE = items_details_DE[itemNum-1][key]
 
                     navbox += f"|Item{itemNum}_{key} = {toWrite}\n"
                     if (toWrite != toWrite_DE):
