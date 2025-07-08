@@ -1,4 +1,4 @@
-ID_int {9},money {3},exp {3},TicketParty {2},TicketSquad {2},u_point {2},classExp {3},btlPoint {2},friendPoint {2},Miranum {3}
+hashID {9},money {3},exp {3},TicketParty {2},TicketSquad {2},u_point {2},classExp {3},btlPoint {2},friendPoint {2},Miranum {3}
 <9752DB46>,7450,400,50,5,0,0,6,0,0
 <E893FE93>,23550,10000,210,21,0,0,64,0,0
 <433DC3AA>,18200,4000,190,19,0,0,36,0,0

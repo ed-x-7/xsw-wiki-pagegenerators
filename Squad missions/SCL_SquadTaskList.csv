@@ -1,4 +1,4 @@
-ID_int {9},TaskType {1},enemyID1 {2},count1 {1},enemyID2 {2},count2 {1},enemyID3 {2},count3 {1},enemyID4 {2},count4 {1},GimmickType1 {1},MatchingID1 {3},GimmickType2 {1},MatchingID2 {3},GimmickType3 {1},MatchingID3 {3},GimmickType4 {1},MatchingID4 {3},PartsEneID1 {2},PartsName1 {7},PartsCount1 {1},PartsEneID2 {2},PartsName2 {7},PartsCount2 {1},PartsEneID3 {2},PartsName3 {7},PartsCount3 {1},PartsEneID4 {2},PartsName4 {7},PartsCount4 {1},Navi_Type {1},Navi_Title {2}
+hashID {9},TaskType {1},enemyID1 {2},count1 {1},enemyID2 {2},count2 {1},enemyID3 {2},count3 {1},enemyID4 {2},count4 {1},GimmickType1 {1},MatchingID1 {3},GimmickType2 {1},MatchingID2 {3},GimmickType3 {1},MatchingID3 {3},GimmickType4 {1},MatchingID4 {3},PartsEneID1 {2},PartsName1 {7},PartsCount1 {1},PartsEneID2 {2},PartsName2 {7},PartsCount2 {1},PartsEneID3 {2},PartsName3 {7},PartsCount3 {1},PartsEneID4 {2},PartsName4 {7},PartsCount4 {1},Navi_Type {1},Navi_Title {2}
 <40A8B9D5>,0,832,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,,0,3,3
 <13ECC34B>,0,836,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,,0,3,3
 <C78BE798>,0,837,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,,0,3,3

@@ -44,6 +44,9 @@ def csv_to_dict(file_name, bitfield_sections = []):
 def get_details_by_ID(search_dict, id, idx="ID"):
     return next((q for q in search_dict if q[idx] == str(id)), None)
 
+def filter_hash(filter_str):
+    return filter_str.replace("<", "").replace(">", "")
+
 def filter_text(filter_str):
     return filter_str.replace("[ST:n ]", " ").replace("\n", " ").replace("  ", " ").replace("\\\"", "\"")
 
@@ -52,6 +55,8 @@ def squad_mission_infobox(quest, quest_title, quest_summary, quest_purpose, ques
     navbox = head
     for key in quest.keys():
         toWrite = quest[key]
+        if key == "hashID":
+            toWrite = filter_hash(toWrite)
         if key == "title":
             toWrite = filter_text(quest_title)
         if key == "summary":
@@ -112,6 +117,8 @@ def objectives(progress, task):
 
     for key in progress.keys():
         toWrite = progress[key]
+        if key == "hashID":
+            toWrite = filter_hash(toWrite)
         if key.startswith("TaskID"):
             if not (len(toWrite) == 0 or int(toWrite) == 0):
                 task_index = key.replace("TaskID", "")
@@ -142,13 +149,13 @@ def task_info(task, index):
     navbox = ""
     for key in task.keys():
         toWrite = task[key]
+        if key == "hashID":
+            toWrite = filter_hash(toWrite)
         if key != "ID":
             if key != "TaskType":
                 if task[key] != '0' and len(task[key]) > 0:
-                    toWrite = task[key]
                     navbox += f"|Task{index}_{key} = {toWrite}\n"
             else:
-                toWrite = task[key]
                 navbox += f"|Task{index}_{key} = {toWrite}\n"
     return navbox
 
@@ -156,6 +163,8 @@ def rewards(reward_details, reward_details_DE, items_details, items_details_DE):
     head = "{{XCX squad mission rewards\n"
     navbox = head
     for key in reward_details.keys():
+        if key == "hashID":
+            toWrite = filter_hash(toWrite)
         toWrite = reward_details[key]
         toWrite_DE = reward_details_DE[key]
         
@@ -164,7 +173,6 @@ def rewards(reward_details, reward_details_DE, items_details, items_details_DE):
             navbox += "|" + key + " DE = " + toWrite_DE + "\n"
 
     itemNum = 0
-    print(items_details)
     if items_details != None:
         for item in items_details:
             navbox += "\n"

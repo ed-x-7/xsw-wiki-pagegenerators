@@ -1,4 +1,4 @@
-ID_int {9},QuestCondition1 {2},QuestID1 {2},QuestCondition2 {2},QuestID2 {2},QuestCondition3 {2},QuestID3 {2},QuestCondition4 {2},QuestID4 {2},QuestCondition5 {2},QuestID5 {2},QuestCondition6 {2},QuestID6 {2},QuestCondition7 {2},QuestID7 {2},QuestCondition8 {2},QuestID8 {2},QuestCondition9 {2},QuestID9 {2},QuestCondition10 {2},QuestID10 {2},OrderCondition {2},LimitType {1}
+hashID {9},QuestCondition1 {2},QuestID1 {2},QuestCondition2 {2},QuestID2 {2},QuestCondition3 {2},QuestID3 {2},QuestCondition4 {2},QuestID4 {2},QuestCondition5 {2},QuestID5 {2},QuestCondition6 {2},QuestID6 {2},QuestCondition7 {2},QuestID7 {2},QuestCondition8 {2},QuestID8 {2},QuestCondition9 {2},QuestID9 {2},QuestCondition10 {2},QuestID10 {2},OrderCondition {2},LimitType {1}
 <6E45FF7A>,0,20030,0,20031,0,20032,0,20033,0,20034,5310,20000,0,20035,0,0,0,0,0,0,0,60
 <2238A96A>,0,20036,0,20037,0,20038,0,20039,0,20040,0,20041,5312,20020,0,0,0,0,0,0,0,60
 <A1B5E790>,0,20042,0,20043,0,20044,0,20045,0,20046,0,20047,5311,20029,0,20048,0,0,0,0,0,60
