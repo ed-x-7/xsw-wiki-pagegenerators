@@ -241,6 +241,11 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
         title_id = int(quest_details["title"])
         quest_title = get_details_by_ID(language_detail_list[0], title_id)["name"]
 
+        # Clarified titles
+        page_title = quest_title
+        if quest_title in ["The Awakening", "Pest Control"]:
+            page_title = page_title + " (XCX)"
+
         # Find the proper caption given the ID
         caption_id = int(quest_details["summary"])
         quest_summary = get_details_by_ID(summary, caption_id)["name"]
@@ -279,7 +284,7 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
         fullText += other_languages(language_detail_list, title_id)
 
         outputFile.write("{{-start-}}\n")
-        outputFile.write("'''"+quest_title+"'''\n")
+        outputFile.write("'''"+page_title+"'''\n")
         outputFile.write(fullText)
         outputFile.write("\n{{-stop-}}\n")
 
