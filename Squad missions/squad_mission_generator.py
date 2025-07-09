@@ -1,5 +1,6 @@
 import csv
 import sys
+import argparse
 
 items_filename = "SCL_SquadItemPerList.csv"
 items_filename_DE = "SCL_SquadItemPerList_DE.csv"
@@ -107,8 +108,21 @@ def squad_mission_infobox(quest, quest_title, quest_summary, quest_purpose, ques
     navbox += tail
     return navbox
 
-def summary_txt(quest_name):
-    return "'''" + quest_name + "''' is a [[Squad Mission]] in ''[[Xenoblade Chronicles X]]''."
+def summary_txt(quest_name, quest_details):
+    mission_type = int(quest_details["QuestType"])
+    match mission_type:
+        case 1:
+            type_str = "a [[Squad Mission]]"
+        case 2:
+            type_str = "a [[Time Attack Mission]]"
+        case 3:
+            type_str = "a [[Global Nemesis Mission]]"
+        case 4:
+            type_str = "a [[Global Nemesis Mission]]"
+        case 5:
+            type_str = "a [[Support Mission]]"
+
+    return "'''{name}''' is {type} in ''[[Xenoblade Chronicles X]]''.".format(name=quest_name,type=type_str)
 
 def objectives(progress, task):
     head = "{{XCX squad mission objectives\n"
@@ -216,6 +230,13 @@ def other_languages(language_detail_list, title_linenumber):
     language_box += "}}"
     return language_box
 
+# Parse arguments
+parser = argparse.ArgumentParser(prog="squad_mission_generator")
+parser.add_argument('-n', '--noskip', 
+    help="if set, won't skip \"blank\" missions or The Planet's Soul", 
+    action="store_true")
+args = parser.parse_args()
+
 # Init all dictionaries
 items = csv_to_dict(items_filename)
 items_DE = csv_to_dict(items_filename_DE)
@@ -241,6 +262,10 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
         title_id = int(quest_details["title"])
         quest_title = get_details_by_ID(language_detail_list[0], title_id)["name"]
 
+        #
+        if not args.noskip and (len(quest_title) == 0 or quest_title.isspace() or quest_title == "The Planet's Soul"):
+            continue
+
         # Clarified titles
         page_title = quest_title
         if quest_title in ["The Awakening", "Pest Control"]:
@@ -258,7 +283,7 @@ with open("missions/result.txt","w", encoding="utf-8") as outputFile:
         
         fullText = infobox_squad_mission + "\n\n"
 
-        fullText += summary_txt(quest_title) + "\n\n"
+        fullText += summary_txt(quest_title, quest_details) + "\n\n"
 
         objective_delimiter = "==Objectives==\n"
         progress_id = quest_details["task"]
