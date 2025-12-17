@@ -8,7 +8,7 @@ npc_union = "npc_union.csv"
 relatelist = "npc_relatelist_ms.csv" # Lists relations
 infolist = "npc_peopleinfolist_ms.csv" # Lists occupations, bios
 multilanguage_base = "Languages/npc_union_ms_{lng}.csv"
-languages = ["en", "jp", "fr", "de", "es", "it"]
+languages = ["en", "jp", "fr", "de", "es", "it", "zh-tr", "zh-si", "ko"]
 
 def csv_to_dict(file_name, bitfield_sections = []):
     a = []

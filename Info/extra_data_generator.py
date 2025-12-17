@@ -42,7 +42,7 @@ def filter_hash(filter_str):
     return filter_str.replace("<", "").replace(">", "")
 
 def info_infobox(important_details, lang_details):
-    head = "{{Infobox XCX info item\n"
+    head = "{{XCX info\n"
     infobox = head
     for key in important_details.keys():
         toWrite = important_details[key]
@@ -60,22 +60,6 @@ def info_infobox(important_details, lang_details):
     tail = "}}"
     infobox += tail
     return infobox
-
-def summary(item_name):
-    return "'''" + item_name + "''' is a piece of {{XCX|info}} in ''[[Xenoblade Chronicles X]]''."
-
-def sources(ids, DRP_ID):
-    item_sources = "{{XCX info sources\n"
-    for i in range(len(ids)):
-        val = i+1
-        key = "ID_{d}".format(d=val)
-        item_sources += "|" + key + "=" + ids[i] + "\n"
-    # Get the armor sources by normal Id, drop ID, and the columns.
-    if DRP_ID is not None:
-        item_sources += "|DRP_ID=" + DRP_ID + "\n"
-
-    item_sources += "}}"
-    return item_sources
 
 def other_languages(language_detail_list, item_linenumber):
     language_box = "{{in other languages\n"
@@ -100,7 +84,7 @@ blh_dict = csv_to_dict(itm_preciouslist)
 all_language_files = map(lambda lang: multilanguage_base.format(lng=lang), languages)
 language_detail_list = list(map(csv_to_dict, all_language_files))
 
-with open("info/result.txt","w", encoding="utf-8") as outputFile:
+with open("info/extra_data.txt","w", encoding="utf-8") as outputFile:
     for itm_id_int in range(1,584):
 
         # Find the proper item given the ID
@@ -113,26 +97,19 @@ with open("info/result.txt","w", encoding="utf-8") as outputFile:
         if (int(ItemName_id) == 0):
             continue
 
-        info_name = get_details_by_ID(language_detail_list[0], ItemName_id)['name']
+        extra_base = "Extra data:Info (XCX)/{id}"
+
+        info_name = extra_base.format(id=itm_id_int)
 
         if (info_name == ""):
             continue
 
         # Populate the page.
-        infobox_item = info_infobox(item_details, language_detail_list[0])
-
-        fullText = infobox_item + "\n"
-
-        fullText += summary(info_name) + "\n\n"
-
-        other_languages_delimiter = "==In other languages==\n"
-        fullText += other_languages_delimiter
-
-        fullText += other_languages(language_detail_list, ItemName_id) + "\n"
+        fullText = info_infobox(item_details, language_detail_list[0])
 
         outputFile.write("{{-start-}}\n")
         outputFile.write("'''"+info_name+"'''\n")
         outputFile.write(fullText)
-        outputFile.write("{{-stop-}}\n")
+        outputFile.write("\n{{-stop-}}\n")
 
 print("done")

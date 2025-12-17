@@ -1,0 +1,6612 @@
+{{-start-}}
+'''Extra data:Info (XCX)/1'''
+{{XCX info
+|ID = 1
+|hashID=00DEAAB6
+|Name=Nurturing a Great Tree
+|Caption=Gnarlbranch sap can aid the Great Tree's growth.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/2'''
+{{XCX info
+|ID = 2
+|hashID=4A10C392
+|Name=Prone Hunting Prowess
+|Caption=Traditional hunting knowledge passed down by the Prone since antiquity.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/3'''
+{{XCX info
+|ID = 3
+|hashID=B997AFE4
+|Name=Kepha Holly Characteristics
+|Caption=The simius domesticated by the Cavern Clan possess a weakness to kepha holly.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/4'''
+{{XCX info
+|ID = 4
+|hashID=D9561085
+|Name=Tatsu's Whereabouts
+|Caption=Tatsu has headed for the Forgotten Mining Frigates in Cauldros.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/5'''
+{{XCX info
+|ID = 5
+|hashID=2B023147
+|Name=Tatsu Sighting
+|Caption=Tatsu has returned to the BLADE barracks.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/6'''
+{{XCX info
+|ID = 6
+|hashID=370E6560
+|Name=Yelv's Partner
+|Caption=Evidence of Yelv's partner can be found in Oblivia's East Ibra Ravine.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/7'''
+{{XCX info
+|ID = 7
+|hashID=4001A79B
+|Name=Yelv's Partner
+|Caption=Evidence of Yelv's partner can be found near Oblivia's Lake Basel.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/8'''
+{{XCX info
+|ID = 8
+|hashID=91B8BF9F
+|Name=Neraph's Hypersteel Refining Method 
+|Caption=Neraph's top-secret method for refining a super-hard type of steel.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/9'''
+{{XCX info
+|ID = 9
+|hashID=ABA0B2B6
+|Name=The Commander's Night Post
+|Caption=Vandham can be found in BLADE Tower at night.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/10'''
+{{XCX info
+|ID = 10
+|hashID=3BEC727E
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/11'''
+{{XCX info
+|ID = 11
+|hashID=24EA3DDC
+|Name=Candidate Info 1
+|Caption=The ideal xenoform representative is an Orphean who is willing to lend an ear to the opinions of other races.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/12'''
+{{XCX info
+|ID = 12
+|hashID=53B68EDD
+|Name=Candidate Info 2
+|Caption=The ideal xenoform representative is an Orphean who is sharp-witted and logical.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/13'''
+{{XCX info
+|ID = 13
+|hashID=7CDB6CA9
+|Name=Candidate Info 3
+|Caption=The ideal xenoform representative is an Orphean who is selfless and free from monetary lust.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/14'''
+{{XCX info
+|ID = 14
+|hashID=58DE1C1E
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/15'''
+{{XCX info
+|ID = 15
+|hashID=179140CC
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/16'''
+{{XCX info
+|ID = 16
+|hashID=F38977D5
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/17'''
+{{XCX info
+|ID = 17
+|hashID=071642E0
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/18'''
+{{XCX info
+|ID = 18
+|hashID=453B0185
+|Name=Gerome's Hangout
+|Caption=So that guy sitting in the lowest strata beneath Deliverance Park—is that Gerome? What could he possibly be doing down there?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/19'''
+{{XCX info
+|ID = 19
+|hashID=C42BAC42
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/20'''
+{{XCX info
+|ID = 20
+|hashID=C5FE19E1
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/21'''
+{{XCX info
+|ID = 21
+|hashID=9FBBBEF5
+|Name=Aerozium Location
+|Caption=Aerozium trade is run by the Dorian Caravan over in Oblivia.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/22'''
+{{XCX info
+|ID = 22
+|hashID=6E97503A
+|Name=Sniper Info
+|Caption=A witness to the Ma-non sniping incident saw the beam shot from Bedrock Hold.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/23'''
+{{XCX info
+|ID = 23
+|hashID=C65BBDB8
+|Name=Ma-non Assistance
+|Caption=Thanks to the Ma-non, materials we had trouble refining are now easier to obtain.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/24'''
+{{XCX info
+|ID = 24
+|hashID=57A8B4E1
+|Name=Ma-non Assistance
+|Caption=The Ma-non arms manufacturing firm of Candid & Credible is lending a helping hand by making equipment for humans.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/25'''
+{{XCX info
+|ID = 25
+|hashID=DF465B22
+|Name=Curry Recipe
+|Caption=Instructions for making a secret blend of fiery homemade curry.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/26'''
+{{XCX info
+|ID = 26
+|hashID=924F6B70
+|Name=Peking Duck Recipe
+|Caption=A secret recipe for Peking duck.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/27'''
+{{XCX info
+|ID = 27
+|hashID=94BD3C58
+|Name=Potluck Hot Pot Recipe
+|Caption=Directions for a wacky sort of stew.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/28'''
+{{XCX info
+|ID = 28
+|hashID=A4BC343E
+|Name=Definian Code
+|Caption=The passcode required to enter the Definian headquarters in Cauldros.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/29'''
+{{XCX info
+|ID = 29
+|hashID=99CCAFB9
+|Name=Ngogo's Recipe
+|Caption=A recipe for Nopon royal cuisine, passed down through generations of elders.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/30'''
+{{XCX info
+|ID = 30
+|hashID=21148A0D
+|Name=Pirapira's Recipe
+|Caption=A recipe for a wild Nopon delicacy made of smushed grass and insects.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/31'''
+{{XCX info
+|ID = 31
+|hashID=7B776DA4
+|Name=Warawa's Recipe
+|Caption=A recipe for Nopon country cooking made by Warawa's mamapon.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/32'''
+{{XCX info
+|ID = 32
+|hashID=79DC2C20
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/33'''
+{{XCX info
+|ID = 33
+|hashID=8F09B427
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/34'''
+{{XCX info
+|ID = 34
+|hashID=2EC5D951
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/35'''
+{{XCX info
+|ID = 35
+|hashID=FD87ABEC
+|Name=Case Clue 1
+|Caption=I heard the victim died after being shot in the foot and temple! If I were you, I'd avoid going anywhere alone whenever possible.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/36'''
+{{XCX info
+|ID = 36
+|hashID=54648FDB
+|Name=Case Clue 2
+|Caption=I heard the men who were killed were all shot in the right thigh and between their eyes. That's completely insane, right? It has to be the work of some mad xeno!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/37'''
+{{XCX info
+|ID = 37
+|hashID=04E3CB9B
+|Name=Case Clue 3
+|Caption=The victims of the serial murderer were all killed in one of the same two ways. What do they have in common? And what is the murderer possibly hoping to achieve?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/38'''
+{{XCX info
+|ID = 38
+|hashID=CF24CCEB
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/39'''
+{{XCX info
+|ID = 39
+|hashID=A749FE9A
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/40'''
+{{XCX info
+|ID = 40
+|hashID=D9992EE9
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/41'''
+{{XCX info
+|ID = 41
+|hashID=DC23DFDE
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/42'''
+{{XCX info
+|ID = 42
+|hashID=83CB2F04
+|Name=Aisha's Hangout
+|Caption=The cat that always used to come here for food has been spotted at Cliffside Beach. She's probably gonna get eaten by some monster out there!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/43'''
+{{XCX info
+|ID = 43
+|hashID=755386A7
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/44'''
+{{XCX info
+|ID = 44
+|hashID=3468E6E4
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/45'''
+{{XCX info
+|ID = 45
+|hashID=F6C04780
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/46'''
+{{XCX info
+|ID = 46
+|hashID=7CBDF594
+|Name=Sniper Sighting 1
+|Caption=I saw a man with a rifle case hurriedly descending down into the hangars. What was going on there?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/47'''
+{{XCX info
+|ID = 47
+|hashID=D156236B
+|Name=Sniper Sighting 2
+|Caption=I thought I saw a man with a rifle case rushing into the garage, and a moment later, a Skell flew out of it! I lost sight of it near the industrial district.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/48'''
+{{XCX info
+|ID = 48
+|hashID=4D5334E9
+|Name=Sniper Sighting 3
+|Caption=An unidentified Skell ran through here at high speed and broke through the gate. I chased it for a bit, but it seemed like that thing was rushing off to Sylvalum.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/49'''
+{{XCX info
+|ID = 49
+|hashID=85C3A500
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/50'''
+{{XCX info
+|ID = 50
+|hashID=EC53F537
+|Name=Bomb-Squad School
+|Caption=I'm gonna teach you how to disarm a bomb. If you remember this well, you'll be able to survive having a time bomb strapped to you! Er, not that you want... Anyway, let's begin.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/51'''
+{{XCX info
+|ID = 51
+|hashID=C0DF053C
+|Name=Ma-non Assistance
+|Caption=Ma-non technology quickly fixed up a broken mimeosome, saving a life.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/52'''
+{{XCX info
+|ID = 52
+|hashID=C05F4549
+|Name=Sun'celeg Sighting
+|Caption=A human female with an insect-like xeno in tow. Last seen heading to the east gate.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/53'''
+{{XCX info
+|ID = 53
+|hashID=DD4C570A
+|Name=Sun'celeg Sighting
+|Caption=The woman dragging the xenoform stole a vehicle low on fuel and drove off for Oblivia.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/54'''
+{{XCX info
+|ID = 54
+|hashID=E101D5A1
+|Name=Celica's Whereabouts
+|Caption=Celica went to BLADE Tower to see Vandham.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/55'''
+{{XCX info
+|ID = 55
+|hashID=EA90ED76
+|Name=Rock's Whereabouts
+|Caption=Rock was sighted in front of the BLADE barracks. He seems to be searching for Celica.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/56'''
+{{XCX info
+|ID = 56
+|hashID=CF1DA567
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/57'''
+{{XCX info
+|ID = 57
+|hashID=34903DC5
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/58'''
+{{XCX info
+|ID = 58
+|hashID=6EB91A38
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/59'''
+{{XCX info
+|ID = 59
+|hashID=E7547E86
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/60'''
+{{XCX info
+|ID = 60
+|hashID=703639B8
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/61'''
+{{XCX info
+|ID = 61
+|hashID=59A615DD
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/62'''
+{{XCX info
+|ID = 62
+|hashID=4082BCA5
+|Name=Knowledge from the Grave
+|Caption="Our treasure is bane to any wall, able to harm or heal one and all—193."
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/63'''
+{{XCX info
+|ID = 63
+|hashID=FFA287BF
+|Name=Knowledge from the Grave
+|Caption="Our treasure is succor to all of the poor, a flame that incinerates all evermore—128."
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/64'''
+{{XCX info
+|ID = 64
+|hashID=22F95BBD
+|Name=Knowledge from the Grave
+|Caption="Our treasure alone is fit to awaken the way to a world that is long forsaken—1986."
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/65'''
+{{XCX info
+|ID = 65
+|hashID=4DB2606D
+|Name=Activity Log
+|Caption=A log detailing the activity of Law's Skell. Everything up until it was wrecked is recorded.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/66'''
+{{XCX info
+|ID = 66
+|hashID=99A7E002
+|Name=Wanderer Info 1
+|Caption=Did Wanderer Bobora get to Drongo Caravan safely? Everyone say there lots of scary things that way.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/67'''
+{{XCX info
+|ID = 67
+|hashID=AB76CB54
+|Name=Wanderer Info 2
+|Caption=Wanderer Bobora has returned to Oblivia. He was all excited, saying "it surely at Beehive Rock!" ...Whatever that mean.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/68'''
+{{XCX info
+|ID = 68
+|hashID=DE6EA138
+|Name=Wanderer Info 3
+|Caption=Does friend know if Wanderer Bobora find what he search for? He said he go back to Sylvalum one more time, so maybe not.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/69'''
+{{XCX info
+|ID = 69
+|hashID=863B5B55
+|Name=Huge Thing Info
+|Caption=Whatever huge thing was, it sound like it was really, REALLY huge!
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/70'''
+{{XCX info
+|ID = 70
+|hashID=9B3AC90A
+|Name=Huge Thing Info
+|Caption=It picked up cargo with wiggly-woobly arms and legs and then swooped off!
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/71'''
+{{XCX info
+|ID = 71
+|hashID=8CCFB251
+|Name=Huge Thing Info
+|Caption=It has to be slithery snitching snake of rumors! Also, it breathe fire just like stories say.
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/72'''
+{{XCX info
+|ID = 72
+|hashID=1E4A0241
+|Name=Huge Thing Info
+|Caption=It was giant bird that attacked the courier. They call it jacul ire. From this angle, it look like it flew south.
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/73'''
+{{XCX info
+|ID = 73
+|hashID=CE37DBBD
+|Name=Senirapa Water Hint
+|Caption=There's a lake with a special quality to its water in that cave in Cauldros they call the Bestial Utopia. Maybe that's the water that the Orphe have been looking for?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/74'''
+{{XCX info
+|ID = 74
+|hashID=2CAD6C34
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/75'''
+{{XCX info
+|ID = 75
+|hashID=FA8A8142
+|Name=White Whale Crash-Landing Info 1
+|Caption=That Lifehold Archive that's full of private data like diaries and photos? Unfortunately that's just not important enough to justify sending anyone out to look for it at this point in time.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/76'''
+{{XCX info
+|ID = 76
+|hashID=29EDC7B7
+|Name=White Whale Crash-Landing Info 2
+|Caption=I wonder if the Lifehold Archive unit containing people's private data is actually unit 13. You know—the one Ada was looking for?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/77'''
+{{XCX info
+|ID = 77
+|hashID=BC50B00E
+|Name=White Whale Crash-Landing Info 3
+|Caption=If you're looking for Lifehold Archive unit number 13, we're confident that it crashed to the north.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/78'''
+{{XCX info
+|ID = 78
+|hashID=5482BEBF
+|Name=Remote Island Info
+|Caption=Rumor has it they've found a new piece of the White Whale in Oblivia. Haven't recovered it yet, but let's hope it's something good.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/79'''
+{{XCX info
+|ID = 79
+|hashID=C683023B
+|Name=Cockroach Info
+|Caption=There seems to be quite the infestation of blattas in Primordia. Just the thought of them creeping into New LA makes my oatmeal want to hit the wall.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/80'''
+{{XCX info
+|ID = 80
+|hashID=B6B9436B
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/81'''
+{{XCX info
+|ID = 81
+|hashID=D71F7DBF
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/82'''
+{{XCX info
+|ID = 82
+|hashID=700AEC75
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/83'''
+{{XCX info
+|ID = 83
+|hashID=D5965686
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/84'''
+{{XCX info
+|ID = 84
+|hashID=94A3DD4D
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/85'''
+{{XCX info
+|ID = 85
+|hashID=C51E5DC7
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/86'''
+{{XCX info
+|ID = 86
+|hashID=C43A8AF7
+|Name=Research Data
+|Caption=Lan'cord's research data. It contains findings on Ganglion weapons as well as information about the Orphe and humans.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/87'''
+{{XCX info
+|ID = 87
+|hashID=CE812E6C
+|Name=Lan'cord's Hangout
+|Caption=This data contains a simple memo indicating a need to investigate northern Oblivia.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/88'''
+{{XCX info
+|ID = 88
+|hashID=C367733E
+|Name=Treasure Info
+|Caption=Big, strange turned-to-stone tree exist just south of here. It full of treasure, right? It has to be! Nopon should load up nopopotamus and claim it!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/89'''
+{{XCX info
+|ID = 89
+|hashID=0B8CB8AD
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/90'''
+{{XCX info
+|ID = 90
+|hashID=F7FB4A77
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/91'''
+{{XCX info
+|ID = 91
+|hashID=E51D5FD1
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/92'''
+{{XCX info
+|ID = 92
+|hashID=C214C6EE
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/93'''
+{{XCX info
+|ID = 93
+|hashID=FC99F90B
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/94'''
+{{XCX info
+|ID = 94
+|hashID=CE8DB1D1
+|Name=Heart-to-Heart Info
+|Caption=Dogs sure are cute! Whenever I see Lin playing with one here during the day, it always makes me want one of my own.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/95'''
+{{XCX info
+|ID = 95
+|hashID=231C573D
+|Name=Fleeing Female Info 1
+|Caption=The woman fled toward the diner, but it was so quick, I couldn't see her face. I have to stay here, so I'll leave the pursuit to you!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/96'''
+{{XCX info
+|ID = 96
+|hashID=C5D17EF7
+|Name=Fleeing Female Info 2
+|Caption=A female BLADE operative just ran toward the administrative district. She seemed really panicked about something, so I hope everything's all right...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/97'''
+{{XCX info
+|ID = 97
+|hashID=900E5A4F
+|Name=Fleeing Female Info 3
+|Caption=Are you chasing someone? A woman from the Outfitters division just went down to the lower level. She looked super calm, though.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/98'''
+{{XCX info
+|ID = 98
+|hashID=BAAF9BDE
+|Name=Missing Person Info
+|Caption=I just saw Ada getting advice from Hope. It felt so strange to see their usual roles reversed like that!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/99'''
+{{XCX info
+|ID = 99
+|hashID=6E5EA234
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/100'''
+{{XCX info
+|ID = 100
+|hashID=65DAE319
+|Name=Helicopter Repair Tip
+|Caption=If you break the tail rotor on your copter, you should always connect any backup system to the blue wire. You got that? The BLUE wire! Blue! Like sadness! ...Write that down.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/101'''
+{{XCX info
+|ID = 101
+|hashID=09971CC0
+|Name=Tyrant Info
+|Caption=They've detected multiple heat signals in the northern part of Primordia's Bedrock Hold. They think it's likely a petramand nest, so we need to take precautions.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/102'''
+{{XCX info
+|ID = 102
+|hashID=A7BAEA97
+|Name=Tyrant Info
+|Caption=I've heard a giant lophid has been sighted in the sea surrounding the solitary island at the northern tip of Primordia. I hope this doesn't interfere with the Prospectors' work there.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/103'''
+{{XCX info
+|ID = 103
+|hashID=F511B6EA
+|Name=Treasure Info
+|Caption=A patrol helicopter crashed near Arendt Bridge on Talon Rock to the north of New LA. But it sounds like BLADE doesn't have the manpower to recover the wreckage.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/104'''
+{{XCX info
+|ID = 104
+|hashID=7CD57AD9
+|Name=Treasure Info
+|Caption=The Skell wreckage found on Wonderment Bluff? Yeah, that's a particularly dangerous area, even by the standards of Primordia. Recovery may be impossible.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/105'''
+{{XCX info
+|ID = 105
+|hashID=1358402A
+|Name=Treasure Info
+|Caption=I heard they've discovered an alien container near Bedrock Hold in Primordia. We ought to claim that as soon as we possibly can.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/106'''
+{{XCX info
+|ID = 106
+|hashID=1BF86917
+|Name=Tyrant Info
+|Caption=They've learned more about that murderous tyrant in Primordia. Apparently it's a saltat defending a wide swath of territory centered on Fallshorn Isle.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/107'''
+{{XCX info
+|ID = 107
+|hashID=0992E4F1
+|Name=Tyrant Info
+|Caption=We saw research data that suggests all of the auravises in this area could be coming from a single mating pair over at Unicorn Rock. If we could just find those two...
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/108'''
+{{XCX info
+|ID = 108
+|hashID=056AB7F1
+|Name=Treasure Info
+|Caption=Danny discovered a piece of White Whale wreckage in northern Primordia during his final mission. We have to make sure his death wasn't in vain.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/109'''
+{{XCX info
+|ID = 109
+|hashID=A8853563
+|Name=Tyrant Info
+|Caption=We haven't been able to officially confirm the location of the tyrant vesper, but we're pretty sure it has a roost inside Talon Rock.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/110'''
+{{XCX info
+|ID = 110
+|hashID=EB85EFC3
+|Name=Tyrant Info
+|Caption=Say, you know Fallshorn Isle, right? Well, that's saltat territory, and they'll attack if you get anywhere near it. So unless you've got urgent business there, I'd stay far away.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/111'''
+{{XCX info
+|ID = 111
+|hashID=99BC0C99
+|Name=Treasure Info
+|Caption=Apparently there's still Skell wreckage at the Plundered Ruin to the northwest. I wonder if we could salvage any usable parts from the debris...
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/112'''
+{{XCX info
+|ID = 112
+|hashID=1303C6AF
+|Name=Treasure Info
+|Caption=We found some alien wreckage north of Sayram Lake. I wonder if they were wiped out by indigens?
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/113'''
+{{XCX info
+|ID = 113
+|hashID=E23CCBB4
+|Name=Treasure Info
+|Caption=They found wreckage from the White Whale in the northern side of the Northeast Plain near Sayram Lake. They want to send BLADEs out to salvage it, but can't spare the manpower.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/114'''
+{{XCX info
+|ID = 114
+|hashID=CA1E9B84
+|Name=Treasure Info
+|Caption=I hear a piece of White Whale wreckage landed in the northern part of the Silent Mire. I just hope some dumb indigen hasn't torn it apart already.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/115'''
+{{XCX info
+|ID = 115
+|hashID=4B31C70E
+|Name=Treasure Info
+|Caption=I felt terrible about having to abandon my Skell south of Bedrock Hold, but if I hadn't, there's no way I'd have survived.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/116'''
+{{XCX info
+|ID = 116
+|hashID=35239E58
+|Name=Tyrant Info
+|Caption=You know those armored suids that have been trained by the Prone? I bet the best and strongest ones are kept at the Prone base.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/117'''
+{{XCX info
+|ID = 117
+|hashID=130FDE30
+|Name=Treasure Info
+|Caption=Have you seen the wrecked vehicle just outside New LA's east gate? That belonged to a friend of mine.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/118'''
+{{XCX info
+|ID = 118
+|hashID=037E38EA
+|Name=Treasure Info
+|Caption=Some debris from the White Whale fell over at Sayram Lake and hasn't been recovered yet. Sounds like it's a pretty tough job.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/119'''
+{{XCX info
+|ID = 119
+|hashID=64CCB76E
+|Name=Tyrant Info
+|Caption=It seems a xiphias has found its way into the shoals of Northpointe Cove. That's an extremely abnormal occurrence, so we suspect it might be a tyrant.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/120'''
+{{XCX info
+|ID = 120
+|hashID=C5CE84D3
+|Name=Treasure Info
+|Caption=We found a piece of White Whale wreckage on the North Janpath Plain. I wonder if it's been reclaimed yet?
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/121'''
+{{XCX info
+|ID = 121
+|hashID=B3460100
+|Name=Treasure Info
+|Caption=We found wreckage from an alien civilization north of Janpath Lake in Primordia. I bet we could learn so much if we could excavate it!
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/122'''
+{{XCX info
+|ID = 122
+|hashID=1AB0ED80
+|Name=Tyrant Info
+|Caption=*fsssh* A fearsome Marnuck called Daril the Eradicator is known to appear at a polluted lake on a small island off of Primordia. So approach there with care. Especially at night!
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/123'''
+{{XCX info
+|ID = 123
+|hashID=321FC0D2
+|Name=Tyrant Info
+|Caption=I saw a gigantic cinicula standing atop a spire in Primordia's Grieving Plains. If that thing ever found its way into New LA, we'd all be dead [ST:gender p1=men! p2=men! Er, and women. ]
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/124'''
+{{XCX info
+|ID = 124
+|hashID=3DB756A0
+|Name=Tyrant Info
+|Caption=We've received word that the boss of those grex indigens is patrolling near the Beasts' Lair in Primordia. You'd better hurry up and tyrant-proof that Skell of yours!
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/125'''
+{{XCX info
+|ID = 125
+|hashID=31440368
+|Name=Tyrant Info
+|Caption=Another BLADE team got attacked by that potamus at Primordia's Sayram Lake? Someone needs to put that thing down!
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/126'''
+{{XCX info
+|ID = 126
+|hashID=2E44F91E
+|Name=Treasure Info
+|Caption=They found wreckage from an alien civilization on Sickle Rock Rise just east of here. Ooo, I'd just LOVE to dig one of those puppies up and do a little research...
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/127'''
+{{XCX info
+|ID = 127
+|hashID=90B26398
+|Name=Tyrant Info
+|Caption=At night, I've seen what appears to be an enemy mech flying around the summit of Talon Rock. I sure hope that was my mind playing tricks on me, but...I don't think it was.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/128'''
+{{XCX info
+|ID = 128
+|hashID=FE3190C1
+|Name=Tyrant Info
+|Caption=My little brother went to the Silent Mire and barely escaped alive. He said there's no sun and it's crawling with adseculas even during the day. I knew he'd get in over his head!
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/129'''
+{{XCX info
+|ID = 129
+|hashID=B3163BE1
+|Name=Tyrant Info
+|Caption=A giant balaena has been sighted over the sea south of La Mancha in Primordia. The Harriers are all in an uproar about it.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/130'''
+{{XCX info
+|ID = 130
+|hashID=8726CEB9
+|Name=Tyrant Info
+|Caption=Even when you're right outside New LA, you gotta stay vigilant. We've had multiple reports of aggressive blattas appearing after nightfall.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/131'''
+{{XCX info
+|ID = 131
+|hashID=99F98890
+|Name=Tyrant Info
+|Caption=So H.B. told me that the king of all duoguills lives in the pond near Roof Rock! I was like, whoa! And then I was like, what's a duoguill?
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/132'''
+{{XCX info
+|ID = 132
+|hashID=DF0048BE
+|Name=Tyrant Info
+|Caption=I saw a tyrant millesaur strutting around the West Janpath Plain like it owned the place. They're typically a gentle species, but that one seemed...different.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/133'''
+{{XCX info
+|ID = 133
+|hashID=B969A890
+|Name=Tyrant Info
+|Caption=So I guess our lost companion was eaten by a vicious suid on the north shore of Janpath Lake? That is so so terrible...
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/134'''
+{{XCX info
+|ID = 134
+|hashID=D944093B
+|Name=Tyrant Info
+|Caption=A tyrant has been sighted east of New LA. It can fly, so we need to be ready for it.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/135'''
+{{XCX info
+|ID = 135
+|hashID=D5617AF0
+|Name=Treasure Info
+|Caption=I found a weird insect mound near the Biahno River. That place has some scary indigens, so I don't really want to go back. ...But someone should probably go check it out.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/136'''
+{{XCX info
+|ID = 136
+|hashID=80E890E5
+|Name=Treasure Info
+|Caption=Debris from the White Whale has been found near Headwater Summit. It's weird how we hadn't explored that area yet, despite it being so close.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/137'''
+{{XCX info
+|ID = 137
+|hashID=1ABCBB7C
+|Name=Tyrant Info
+|Caption=While on perimeter duty, I sighted a progen at Headwater Summit. 'Tis a rare sight to behold around here, but if you wish to challenge it, proceed with caution!
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/138'''
+{{XCX info
+|ID = 138
+|hashID=EC19FCF0
+|Name=Treasure Info
+|Caption=You walked back after your Skell was destroyed by a suid near Shadow Rise? You are lucky to be alive at all!
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/139'''
+{{XCX info
+|ID = 139
+|hashID=4393E705
+|Name=Treasure Info
+|Caption=Seems those strange radio waves were coming from alien debris on Cliffside Beach in Primordia. We should go check 'em out when we have some spare time.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/140'''
+{{XCX info
+|ID = 140
+|hashID=8331BBE0
+|Name=Treasure Info
+|Caption=I spotted some debris from the White Whale in the southern part of the Grieving Plains. But I didn't have the skills to recover it myself, so it's probably still there.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/141'''
+{{XCX info
+|ID = 141
+|hashID=646899C7
+|Name=Tyrant Info
+|Caption=Sometimes, late at night, you can see flashes of light traveling at high speeds above the Prone fortress. I've never seen anything move that fast, so be on your guard around there.
+|zone = 2
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/142'''
+{{XCX info
+|ID = 142
+|hashID=770DE3E7
+|Name=Treasure Info
+|Caption=A piece of White Whale wreckage was seen just east of Silent Mire. It sure would be nice if there were some usable parts in the debris...
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/143'''
+{{XCX info
+|ID = 143
+|hashID=9A501B66
+|Name=Treasure Info
+|Caption=You know that small island west of New LA? A helicopter crashed there, but everyone on board made it back safely. They were lucky it happened so close to home.
+|zone = 2
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/144'''
+{{XCX info
+|ID = 144
+|hashID=BE0D5415
+|Name=Treasure Info
+|Caption=I still can't believe that I lost my Skell in that spore filiavent attack at the Ensanguined Font! I really should go try to salvage what I can from the wreckage one of these days...
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/145'''
+{{XCX info
+|ID = 145
+|hashID=51D87739
+|Name=Treasure Info
+|Caption=If you're heading west, make sure you're well prepared. Lots of hostile xenos that way, and the indigens are even worse. Remember that no alien wreckage is worth your life to find!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/146'''
+{{XCX info
+|ID = 146
+|hashID=FB91910E
+|Name=Treasure Info
+|Caption=There are also small Ganglion camps around the perimeter of Badr Stronghold. If we were to steal the supplies from those camps, that'd be quite a poke in the eye for those jerks!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/150'''
+{{XCX info
+|ID = 150
+|hashID=6F55F70A
+|Name=Mission Info
+|Caption=You know that Wrothian guy Zo Langra? Well, I saw him running panicked through the commercial district! I'm no psychic, but I know folks don't run like that unless there's trouble.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/151'''
+{{XCX info
+|ID = 151
+|hashID=A16CBB87
+|Name=Tyrant Info
+|Caption=They say there's a gigantic beast called the Ruler of Fates that lives at the highest point at the top of Noctilum. I certainly don't plan to go anywhere NEAR that thing.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/152'''
+{{XCX info
+|ID = 152
+|hashID=0D21429C
+|Name=Tyrant Info
+|Caption=A team that was heading to Noctilum's Divine Roost said they saw an indigen lurking inside a gigantic plant. Could it be one of those tyrants folks talk about?
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/153'''
+{{XCX info
+|ID = 153
+|hashID=E152B004
+|Name=Treasure Info
+|Caption=Remember broken human whirly-twirly machine in the Divine Roost? Nopon all freak out over that one!
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/154'''
+{{XCX info
+|ID = 154
+|hashID=88DAA58E
+|Name=Tyrant Info
+|Caption=I've heard talk of xenos domesticating simius. Apparently you can see some at the Ensconced Citadel in Noctilum. Tame simius! Can you imagine?!
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/155'''
+{{XCX info
+|ID = 155
+|hashID=E25D6D4D
+|Name=Tyrant Info
+|Caption=The tyrant that attacked so many BLADEs has apparently been spotted flying just beyond the Celestial Cleave at the back of Noctilum.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/156'''
+{{XCX info
+|ID = 156
+|hashID=BAA42089
+|Name=Tyrant Info
+|Caption=I heard they spotted a giant scirpo in Noctilum during a foggy period. You all watch out for that, okay?
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/157'''
+{{XCX info
+|ID = 157
+|hashID=ABDB5DB7
+|Name=Tyrant Info
+|Caption=They say a tyrant named Froste, the Courteous lives in the Vitriol Cesspool. I wonder if the name is because it's less aggressive than other tyrants or something...
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/158'''
+{{XCX info
+|ID = 158
+|hashID=9083C85F
+|Name=Tyrant Info
+|Caption=You know unafulges? They live in the Celestial Ascent at Noctilum, and and are dangerous even when separated from their schools.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/159'''
+{{XCX info
+|ID = 159
+|hashID=7292939F
+|Name=Tyrant Info
+|Caption=Strong turba named Tormenta the Scarlet-Clad lives at the Decapotamon in Noctilum. I will go there and slay it!
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/160'''
+{{XCX info
+|ID = 160
+|hashID=2D6D3EA3
+|Name=Treasure Info
+|Caption=Friend can get treasure from strange tree at the Middle Hushflood in Noctilum. Now step up sales, or else lazy helper will go get it instead!
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/161'''
+{{XCX info
+|ID = 161
+|hashID=514DB566
+|Name=Tyrant Info
+|Caption=I spotted a new Sylooth at the Silent Stream that seemed to be in some sort of leadership position. Damn you, Ganglion! Is there no end to your military resources?!
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/162'''
+{{XCX info
+|ID = 162
+|hashID=0B896FAF
+|Name=Treasure Info
+|Caption=We finally found the trail of the team that went ahead of us into the depths of Noctilum. Seems they nearly made it to the heart of the forest, but all that was left of them was debris.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/163'''
+{{XCX info
+|ID = 163
+|hashID=02D0B620
+|Name=Treasure Info
+|Caption=I hear a Skell was destroyed by a primordial creature in the Elephant's Trunk area of Noctilum. No one was killed, thankfully, but what a tragic waste of a critical resource.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/164'''
+{{XCX info
+|ID = 164
+|hashID=CDADF5AD
+|Name=Treasure Info
+|Caption=Do you possess any information about the strange tree near Noctilum's Bident Crossing? For some reason, it makes my Ovah throb whenever I look upon it.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/165'''
+{{XCX info
+|ID = 165
+|hashID=82DDAD14
+|Name=Treasure Info
+|Caption=We discovered that a part of the White Whale landed near the Ensconced Citadel. But how on Earth are we supposed to recover it?!
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/166'''
+{{XCX info
+|ID = 166
+|hashID=AEB96302
+|Name=Treasure Info
+|Caption=I heard they found Skell wreckage in Noctilum's Middle Hushflood. But it's probably not the one my brother was piloting...
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/167'''
+{{XCX info
+|ID = 167
+|hashID=7AAE9B8C
+|Name=Tyrant Info
+|Caption=You saw a plant-like indigen aggressively circling the skies over Noctilum's Everwhelm Falls? Hmm... I wonder if it was a tyrant?
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/168'''
+{{XCX info
+|ID = 168
+|hashID=3518EFDE
+|Name=Treasure Info
+|Caption=You had a "memory" of seeing wreckage of an alien civilization in Noctilum's Qing Long Glade? Did you actually see it, or just sense it with that Ovah-whatever thing you do?
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/169'''
+{{XCX info
+|ID = 169
+|hashID=1484E91B
+|Name=Tyrant Info
+|Caption=Be careful when traveling along Fukai Pass. It appears to be insidia territory. There's one of them in particular that's unusually tough and tenacious.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/170'''
+{{XCX info
+|ID = 170
+|hashID=5B584544
+|Name=Treasure Info
+|Caption=A Skell was shot down at the Decapotamon and hasn't been recovered yet? That's great intel! I'm gonna head right over to Noctilum.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/171'''
+{{XCX info
+|ID = 171
+|hashID=D9364D03
+|Name=Tyrant Info
+|Caption=Next time we see forfex near Everwhelm Falls, smash to death! Then cook! Then eat!
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/172'''
+{{XCX info
+|ID = 172
+|hashID=ABAAB822
+|Name=Tyrant Info
+|Caption=My friend surveying Noctilum found a virago nest in the deepest part of Rockmole's Burrow but was too scared to get anywhere near the thing.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/173'''
+{{XCX info
+|ID = 173
+|hashID=7E6F42A3
+|Name=Treasure Info
+|Caption=A trailer loaded with precious resources was attacked at Noctilum's Decapotamon. Just goes to show how dangerous it is to be out there without a Skell.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/174'''
+{{XCX info
+|ID = 174
+|hashID=36DD3579
+|Name=Tyrant Info
+|Caption=I found an unexplored territory past the Canopied Nightwood, but before I could enjoy it, a strong tyrant camouflaged as a boulder came at me. I beat it outta there!
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/175'''
+{{XCX info
+|ID = 175
+|hashID=395AE5BB
+|Name=Treasure Info
+|Caption=A patrol copter sent to Noctilum was lost near Elephant's Trunk. I hope the crew is safe, but with all the indigens out there, it's hard to be optimistic.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/176'''
+{{XCX info
+|ID = 176
+|hashID=288209D4
+|Name=Tyrant Info
+|Caption=I've heard there's a really ferocious dilus in the northern part of Rust Lake. If that thing gets its jaws around you, you're toast! Er, unless you're in a Skell or something.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/177'''
+{{XCX info
+|ID = 177
+|hashID=03F2B3EC
+|Name=Treasure Info
+|Caption=An alien container was found near the Rustpool Banks in Noctilum.
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/178'''
+{{XCX info
+|ID = 178
+|hashID=E8520CBC
+|Name=Tyrant Info
+|Caption=There's a tyrant in the Rustpool Banks. I hear it's a scirpo, so it's one of those spider-type things. I pray I never have to see it for myself! I simply can't stand bugs.
+|zone = 4
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/179'''
+{{XCX info
+|ID = 179
+|hashID=5C1810FF
+|Name=Treasure Info
+|Caption=I saw this crazy tree that looks like a giant dragon's tail in Noctilum. I can't get it out of my head! Could someone please investigate it for me, maybe?
+|zone = 4
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/201'''
+{{XCX info
+|ID = 201
+|hashID=FA9D1E63
+|Name=Treasure Info
+|Caption=I found wrecked Earth-alien Skell north of Lake Basel in Oblivia. Maybe it contains treasure?
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/202'''
+{{XCX info
+|ID = 202
+|hashID=1B3BEFEC
+|Name=Treasure Info
+|Caption=Wreckage from the White Whale has been spotted at the northern part of Lake Basel in Oblivia? Even the Reclaimers wouldn't be capable of recovering anything from there!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/203'''
+{{XCX info
+|ID = 203
+|hashID=4D5A149C
+|Name=Tyrant Info
+|Caption=A tyrant named Edgardo, the Carefree prowls the North Coast. I doubt he'll be much of an obstacle if you travel by Skell, but I'd look out for him all the same.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/204'''
+{{XCX info
+|ID = 204
+|hashID=5B1B5018
+|Name=Treasure Info
+|Caption=I heard some White Whale wreckage fell beyond North Coast in Oblivia. Course, I'm just a wrench slinger, so it don't have nothing to do with me.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/205'''
+{{XCX info
+|ID = 205
+|hashID=EB205FCE
+|Name=Tyrant Info
+|Caption=Nighttime is when cetos come out here. They swallow you whole like grape!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/206'''
+{{XCX info
+|ID = 206
+|hashID=0C9B4E46
+|Name=Treasure Info
+|Caption=Indigens nest outside North Coast. Clever Earth aliens might find something there.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/207'''
+{{XCX info
+|ID = 207
+|hashID=6EEF01E2
+|Name=Treasure Info
+|Caption=The wrecked Skell on North Coast? Yeah, that belonged to me. Took a pounding on my very first mission out here and barely managed to escape with my life.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/208'''
+{{XCX info
+|ID = 208
+|hashID=D3B26A0A
+|Name=Tyrant Info
+|Caption=I heard voice of oracle from fountain! It spoke of broken oc-serv on North Coast in Oblivia.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/209'''
+{{XCX info
+|ID = 209
+|hashID=0B3A70FE
+|Name=Treasure Info
+|Caption=I recall hearing a report that a human-made Skell had been shot down near King's Falls. Shouldn't you recover that? Mmm? Or am I out of line suggesting so?
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/210'''
+{{XCX info
+|ID = 210
+|hashID=80E120DA
+|Name=Tyrant Info
+|Caption=Near Oblivia's Lake Basel, there's a mephite that gathers and lives off the leavings of other indigens. Maybe it's some sort of mutation?
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/211'''
+{{XCX info
+|ID = 211
+|hashID=CCDDF979
+|Name=Treasure Info
+|Caption=Human friends abandoned machine in south part of Lake Basel. Stop leaving trash near Nopon territory!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/212'''
+{{XCX info
+|ID = 212
+|hashID=447A425E
+|Name=Tyrant Info
+|Caption=The Nopon at Oblivia's Lake Basel think the aetrygons that live in the rocky area around them are divine emissaries that swoop down from above. ...What a funny bunch of guys.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/213'''
+{{XCX info
+|ID = 213
+|hashID=8D33C07D
+|Name=Tyrant Info
+|Caption=The desert around Big Arch in Oblivia is apparently home to a nest of violent sabulas who try to swallow intruders whole.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/214'''
+{{XCX info
+|ID = 214
+|hashID=0618D178
+|Name=Tyrant Info
+|Caption=There's an especially fearless progen that's making life difficult for the Prospectors working on the cliffs near Oblivia's King's Falls.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/215'''
+{{XCX info
+|ID = 215
+|hashID=6E7D2EF6
+|Name=Treasure Info
+|Caption=It would be great to visit floating island in southern sky. There likely treasure everywhere!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/216'''
+{{XCX info
+|ID = 216
+|hashID=6545269F
+|Name=Treasure Info
+|Caption=I've heard you can recover some pretty rare items out of the indigen dung around Victory Rock in Oblivia. ...Huh? So WHAT if it's filthy?! Go do it for all humankind's sake!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/217'''
+{{XCX info
+|ID = 217
+|hashID=F14D71CC
+|Name=Treasure Info
+|Caption=I heard the Reclaimers found wreckage from the White Whale at the entrance to Oblivia. They haven't done any actual reclaiming yet, but hopefully they find something useful.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/218'''
+{{XCX info
+|ID = 218
+|hashID=C0093B97
+|Name=Tyrant Info
+|Caption=There's a large suid sow that naps right in the middle of the road near here. I don't think you want to mess with her if you can avoid it, so don't wake mommy, okay?
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/219'''
+{{XCX info
+|ID = 219
+|hashID=8682A6A3
+|Name=Treasure Info
+|Caption=You found a wrecked vehicle at Oblivia's Twin Arches? Well, it doesn't look like I'll be back in action any time soon, so you'll have to handle it.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/220'''
+{{XCX info
+|ID = 220
+|hashID=B72AE452
+|Name=Tyrant Info
+|Caption=Oblivia can be real scary, you know? I was almost eaten by a giant mortifole that lives on top of the Twin Arches...
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/221'''
+{{XCX info
+|ID = 221
+|hashID=DEC29FF7
+|Name=Treasure Info
+|Caption=I discovered some White Whale wreckage here in the Aaroy Plain, but my skills weren't sufficient to do a proper analysis.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/222'''
+{{XCX info
+|ID = 222
+|hashID=E0529875
+|Name=Tyrant Info
+|Caption=That grex lurking in the rocky areas of the Keegan Ridge is unobtrusive, but I bet good money it's a hardened veteran.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/223'''
+{{XCX info
+|ID = 223
+|hashID=674A4FD7
+|Name=Tyrant Info
+|Caption=I've seen some saltats acting really weird near King's Falls—like they're making some sort of offering to the water. It's interesting, but also a little bit creepy, you know?
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/224'''
+{{XCX info
+|ID = 224
+|hashID=BF9BCC7A
+|Name=Treasure Info
+|Caption=You found a piece of White Whale wreckage beyond the Keegan Ridge in Oblivia? Best to leave the recovery of that sort of thing to the Reclaimers.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/225'''
+{{XCX info
+|ID = 225
+|hashID=22FA682A
+|Name=Tyrant Info
+|Caption=The BLADEs that are being deployed to Oblivia are being picked off by a sphinx that lurks beneath Victory Rock!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/226'''
+{{XCX info
+|ID = 226
+|hashID=AFA8CF12
+|Name=Treasure Info
+|Caption=Merchants from Dorian Caravan say they discover wreckage from human ship near Sea Whisper Valley.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/227'''
+{{XCX info
+|ID = 227
+|hashID=08C9EA90
+|Name=Treasure Info
+|Caption=Friends should take Ma-non ship, attack Jair Fortress, and steal treasure that is there!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/228'''
+{{XCX info
+|ID = 228
+|hashID=21C6ADF6
+|Name=Tyrant Info
+|Caption=Gotthard the Intimidating from the Yawning Giant is dangerous. Even Tree Clan warriors are no match.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/229'''
+{{XCX info
+|ID = 229
+|hashID=FFB19312
+|Name=Tyrant Info
+|Caption=The vigents that live on the Aaroy Plain are extremely vicious. Oh, and hungry. So I'd avoid making eye contact unless you feel like being torn limb-from-limb.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/230'''
+{{XCX info
+|ID = 230
+|hashID=FCB3EEDB
+|Name=Treasure Info
+|Caption=If a BLADE finds anything that could be a usable resource, they have to examine it. And I mean ANYTHING. Even dung from some indigen in Oblivia.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/231'''
+{{XCX info
+|ID = 231
+|hashID=FE8453A9
+|Name=Tyrant Info
+|Caption=I hear there's an unusual evello near Oblivia's River Isle that spends all its time mindlessly foraging for food. ...Like my ex! Ha!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/232'''
+{{XCX info
+|ID = 232
+|hashID=E4F11838
+|Name=Tyrant Info
+|Caption=The Sylooth that strut around the center of the Ibra Ravine have strange plants growing from their heads that seem to be highly prized by the surrounding indigens.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/233'''
+{{XCX info
+|ID = 233
+|hashID=2FF18B19
+|Name=Tyrant Info
+|Caption=I saw an adsecula variant at the watering hole in the eastern part of Oblivia's Ibra Ravine, but I lost sight of the vermin when it melted into the cliffs. Blast!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/234'''
+{{XCX info
+|ID = 234
+|hashID=E00C4675
+|Name=Treasure Info
+|Caption=We saw wrecked Skell on Stoyanov Trail in Oblivia. Then we left flowers to honor memory of brave Earth-alien soldier.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/235'''
+{{XCX info
+|ID = 235
+|hashID=34CCFB2B
+|Name=Treasure Info
+|Caption=We found wreckage from an alien civilization at the southern side of the Yawning Giant, but none of us were up for the task of recovering anything from it.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/236'''
+{{XCX info
+|ID = 236
+|hashID=8B19448E
+|Name=Treasure Info
+|Caption=I hear a Pathfinder team was wiped out in the southern Aaroy Plain in Oblivia. I guess even a Skell is no guarantee of safety.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/237'''
+{{XCX info
+|ID = 237
+|hashID=6CF6FF7D
+|Name=Tyrant Info
+|Caption=I heard that in Oblivia's Barbarich Desert, there are tectinsulas that go for years without food or water. Pretty stoic, right?
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/238'''
+{{XCX info
+|ID = 238
+|hashID=A6D6E308
+|Name=Tyrant Info
+|Caption=I've heard rumors of creepy flowers blooming around Oblivia's Balance Rock base camp. I don't think anyone's really studied them yet, though.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/239'''
+{{XCX info
+|ID = 239
+|hashID=1928CCB7
+|Name=Treasure Info
+|Caption=You know that huge broken ring in Oblivia? I hear BLADE sent out a team to retrieve a nest of indigens nearby, but the expedition ended in failure.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/240'''
+{{XCX info
+|ID = 240
+|hashID=39AADFF0
+|Name=Treasure Info
+|Caption=The Wrothians told me that they found vehicle wreckage in the northern part of Oblivia's South Coast. I should probably thank them for the tip, right?
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/241'''
+{{XCX info
+|ID = 241
+|hashID=6598144E
+|Name=Tyrant Info
+|Caption=They say the Prone woman who murdered my friends is hiding out in Oblivia's Mesa Fortress. Damn her! If I had the strength to do it, I'd go kill her myself!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/242'''
+{{XCX info
+|ID = 242
+|hashID=09600705
+|Name=Treasure Info
+|Caption=FrontierNav is showing a hit in Oblivia, but we can't check it out because the target area is right next to a base of hostile xenos.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/243'''
+{{XCX info
+|ID = 243
+|hashID=682A06BC
+|Name=Treasure Info
+|Caption=Skell wreckage near Oblivia's Mesa Fortress? This could be what we've been waiting for. We gotta go retrieve that wreckage!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/244'''
+{{XCX info
+|ID = 244
+|hashID=E9368B70
+|Name=Tyrant Info
+|Caption=They say a gargantuan millepod lurks at the bottom of the Yawning Giant. The Nopon that inhabit the area seem to live in constant fear of it.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/245'''
+{{XCX info
+|ID = 245
+|hashID=51DC7944
+|Name=Treasure Info
+|Caption=In the searing heat of Oblivia's Barbarich Desert, wreckage from the White Whale sits waiting to be recovered. We need to go find it!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/246'''
+{{XCX info
+|ID = 246
+|hashID=9EE8BE1C
+|Name=Tyrant Info
+|Caption=I hear a gargantuan aprica called Sviatoslav, the Reproachful appears when rain falls upon Oblivia's Balance Rock area. How I long to bathe my sword in its blood!
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/247'''
+{{XCX info
+|ID = 247
+|hashID=96A9696D
+|Name=Treasure Info
+|Caption=We've been ordered to recover the Skell wreckage that was discovered at South Coast in Oblivia. I have a feeling it's not going to be a pleasant assignment.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/248'''
+{{XCX info
+|ID = 248
+|hashID=406E3C61
+|Name=Tyrant Info
+|Caption=A giant duoguill lives at the lake near the Leaning Ring in Oblivia. But my observational hypothesis is that it only comes out during electromagnetic storms.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/249'''
+{{XCX info
+|ID = 249
+|hashID=B123D7A2
+|Name=Treasure Info
+|Caption=Is that Skell wreckage still in the southern part of South Coast? If that guy had stuck to doing business in New LA, he'd probably still be alive today. Such a shame!
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/250'''
+{{XCX info
+|ID = 250
+|hashID=D717FBEA
+|Name=Tyrant Info
+|Caption=Apparently a levitath has been spotted at the Drowning Ring in the sea south of Oblivia. It seems to be biologically different from the ones in other places...
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/251'''
+{{XCX info
+|ID = 251
+|hashID=C7891D5E
+|Name=Treasure Info
+|Caption=I've spent a lot of time looking at the research data probes, and I found a strange petrified tree stump in the north of Sylvalum. I wonder if I should report it to BLADE?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/252'''
+{{XCX info
+|ID = 252
+|hashID=5D84D55F
+|Name=Treasure Info
+|Caption=I heard a Skell was shot down near Sylvalum's North Cinderdunes. I sure hope they're able to recover it...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/253'''
+{{XCX info
+|ID = 253
+|hashID=7CEED14B
+|Name=Treasure Info
+|Caption=To test my radar, which utilizes your technology, I pointed it at Sylvalum. Quite happily, I was able to locate a xenoform relic in the North Cinderdunes.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/254'''
+{{XCX info
+|ID = 254
+|hashID=8EABF2D3
+|Name=Tyrant Info
+|Caption=I heard they discovered some ridiculously huge indigen in Sylvalum's West Cinderdunes. Our new weapon may be just what we need to stand a chance against that kind of thing.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/255'''
+{{XCX info
+|ID = 255
+|hashID=5050F14D
+|Name=Tyrant Info
+|Caption=Stupid giant Ganglion warship is hanging around far northern skies of Sylvalum. Some nice friend should bring it down before it bring down sales!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/256'''
+{{XCX info
+|ID = 256
+|hashID=8592BB1D
+|Name=Treasure Info
+|Caption=There's a big petrified tree near the Anvil Sandplain that's listed as a survey target, but it's such a dangerous area that we haven't been able to get close. Feel free to try...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/257'''
+{{XCX info
+|ID = 257
+|hashID=1C9576B8
+|Name=Tyrant Info
+|Caption=I was looking at footage of the North Silent Sandsea earlier when I saw an ovis herd. And man, their leader seemed like a real badass! I'd like to see him in real life one day.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/258'''
+{{XCX info
+|ID = 258
+|hashID=DFBC159C
+|Name=Treasure Info
+|Caption=According to FrontierNav's scans, there seems to be wreckage from an alien civilization in the northwestern part of this area. But I doubt my team is equipped to recover it.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/259'''
+{{XCX info
+|ID = 259
+|hashID=DB3E809B
+|Name=Tyrant Info
+|Caption=I spotted a petramand near Samuel Incline that looked like it had been captured by the Ganglion. Time to gear up and take it out!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/260'''
+{{XCX info
+|ID = 260
+|hashID=D79F9557
+|Name=Treasure Info
+|Caption=Did you hear about Anvil Rock Desert? I guess they found wreckage there of a helicopter that was sent to Sylvalum right after we landed on Mira. I can't imagine there were any survivors.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/261'''
+{{XCX info
+|ID = 261
+|hashID=65669D4C
+|Name=Treasure Info
+|Caption=We lost contact with a guy in Sylvalum's Silent Sandsea who was piloting a Skell loaded with treasure. We gotta go reclaim that loot!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/262'''
+{{XCX info
+|ID = 262
+|hashID=13B8588C
+|Name=Treasure Info
+|Caption=We discovered a large, odd-looking petrified tree on the Northern Searoad, but couldn't get close enough to survey it properly.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/263'''
+{{XCX info
+|ID = 263
+|hashID=DB8FC797
+|Name=Tyrant Info
+|Caption=Fellow Nopon in Sylvalum was attacked by boss monster of Cavernous Abyss. BLADE friends should take Skell down there and kill evil thing to death!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/264'''
+{{XCX info
+|ID = 264
+|hashID=B84969FD
+|Name=Treasure Info
+|Caption=You won't marry me until I've recovered the alien container that was discovered at Badr Basin in Sylvalum? SERIOUSLY? You have the strangest conditions...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/265'''
+{{XCX info
+|ID = 265
+|hashID=205A9049
+|Name=Treasure Info
+|Caption=I just paid my first visit to Sylvalum. We found a container from an alien civilization at the South Cinderdunes, but we couldn't open it.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/266'''
+{{XCX info
+|ID = 266
+|hashID=BDBFE981
+|Name=Tyrant Info
+|Caption=Watch out for Gesserith the Wileworm. If she sees you fighting sabulas near the Samuel Incline base camp, she'll probably come after you!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/267'''
+{{XCX info
+|ID = 267
+|hashID=56D3C4E3
+|Name=Treasure Info
+|Caption=Friend knows big turned-to-stone tree in South Silent Sandsea? Nopon could make tons of money selling it to humans!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/268'''
+{{XCX info
+|ID = 268
+|hashID=01FDCDE5
+|Name=Treasure Info
+|Caption=So so I saw an alien container near the Delusian Mountains. But I figured it was probably full of junk and stuff, so I just... left it alone?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/269'''
+{{XCX info
+|ID = 269
+|hashID=62713AA5
+|Name=Treasure Info
+|Caption=I discovered an alien container in North Hardheart Canyon. If we could recover it and analyze its contents, I bet it could be of some use to humanity.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/270'''
+{{XCX info
+|ID = 270
+|hashID=82525D43
+|Name=Tyrant Info
+|Caption=There's a large pack of indigens in the vicinity of the Shivering Sands. We suspect the monoceros that leads them is a tyrant.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/271'''
+{{XCX info
+|ID = 271
+|hashID=8BE5AF0B
+|Name=Treasure Info
+|Caption=So I heard there's a strange petrified tree in the South Cinderdunes in Sylvalum? This sounds like a job for the universe's greatest treasure hunter! ...Which is, er, me?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/272'''
+{{XCX info
+|ID = 272
+|hashID=6C8A07E5
+|Name=Treasure Info
+|Caption=You know that alien wreckage in the southern part of the Silent Sandsea? Well, it seems those sluggards in the lower base camp still haven't gotten around to salvaging it.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/273'''
+{{XCX info
+|ID = 273
+|hashID=BE0C53ED
+|Name=Treasure Info
+|Caption=We discovered an alien container in the dunes to the west of Lake Ciel in Sylvalum. Perhaps the humans can make better sense of it than we Wrothians could?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/274'''
+{{XCX info
+|ID = 274
+|hashID=E7999111
+|Name=Treasure Info
+|Caption=There's a reliquary from an alien civilization at the South Ciel Sandsea, but it doesn't look like it has anything to do with the Ganglion. What sort of beings used to live there?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/275'''
+{{XCX info
+|ID = 275
+|hashID=FD947072
+|Name=Tyrant Info
+|Caption=Did you hear about the ferocious indigen that patrols the skies above the northwest part of Lake Ciel in Sylvalum? Let's hope the humans bring it down fast, right?
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/276'''
+{{XCX info
+|ID = 276
+|hashID=2107C41D
+|Name=Tyrant Info
+|Caption=I hear the aggressive aetrygon in Sylvalum are driving people away from Xanadu Overlook. You know, there ain't nothing you can't send flying with a weapon from Grenada GG!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/277'''
+{{XCX info
+|ID = 277
+|hashID=516707D5
+|Name=Tyrant Info
+|Caption=Friendpon see arenatect in northeast Lake Ciel. It suddenly start moving and scare wits from poor friendpon!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/278'''
+{{XCX info
+|ID = 278
+|hashID=43839571
+|Name=Tyrant Info
+|Caption=Nopon friend saw Ganglion machine in Hardheart Canyon that look different from usual Ganglion machine. Hopefully they not come this way...
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/279'''
+{{XCX info
+|ID = 279
+|hashID=D777CCBF
+|Name=Treasure Info
+|Caption=You found an alien container in Sylvalum? In the southern Delusian Mountain foothills? Forget that and dance! No duty now! There is only THE DAAAAAANCE!
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/280'''
+{{XCX info
+|ID = 280
+|hashID=80C81024
+|Name=Tyrant Info
+|Caption=I saw something I'd never seen before rolling around the Sylvalum Searoad. I think it was some sort of mechanical lifeform? Anyway, I don't know, so I'd stay far, far away.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/281'''
+{{XCX info
+|ID = 281
+|hashID=42071EAE
+|Name=Tyrant Info
+|Caption=I hear a massive indigen that no one's ever seen before lives in the western part of Sylvalum's Lake Ciel. I wonder if our weapons would even be effective against such a thing?
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/282'''
+{{XCX info
+|ID = 282
+|hashID=F996C965
+|Name=Treasure Info
+|Caption=Apparently, an artifact from an alien culture has been discovered at Lake Ciel in Sylvalum. It's a pretty enormous lake, so I guess it's no wonder we hadn't found it before...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/283'''
+{{XCX info
+|ID = 283
+|hashID=9B46752D
+|Name=Tyrant Info
+|Caption=The massive indigens east of Lake Ciel seem to grow violent when crimson auroras occur. It's important to pay attention to how the weather affects such primordial creatures.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/284'''
+{{XCX info
+|ID = 284
+|hashID=6188A67D
+|Name=Treasure Info
+|Caption=Really? You came all the way back from Sylvalum to look for a fighter who might recover the alien reliquary east of Lake Ciel? Er, well, good luck with that...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/285'''
+{{XCX info
+|ID = 285
+|hashID=8DF93847
+|Name=Treasure Info
+|Caption=Did you know there's a whole 'nother continent north of New LA? They say there's these giant petrified-tree things all over the place there, and that they sometimes have stuff inside...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/286'''
+{{XCX info
+|ID = 286
+|hashID=4839784E
+|Name=Treasure Info
+|Caption=Friendpon saw nice big turned-to-stone tree southwest of Lake Ciel, but had too much cargo to haul it away. Maybe next time.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/287'''
+{{XCX info
+|ID = 287
+|hashID=924D4425
+|Name=Treasure Info
+|Caption=Have you seen the helicopter wreckage in the Needle Rock Sandsea? It was shot down by the Hilal Stronghold. One of these days, we're going to have to go and recover what's left.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/288'''
+{{XCX info
+|ID = 288
+|hashID=70FAF3D6
+|Name=Tyrant Info
+|Caption=Be careful when searching beneath the noctilucent spheres in Sylvalum, okay? That's where vivohasts like to hide in hopes of trapping prey.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/289'''
+{{XCX info
+|ID = 289
+|hashID=0B0AF3CB
+|Name=Tyrant Info
+|Caption=Have you seen that giant indigen at Sylvalum's Hilal Meadow? We keep our eyes peeled for that thing every time we pass through there.
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/290'''
+{{XCX info
+|ID = 290
+|hashID=A6589ABD
+|Name=Treasure Info
+|Caption=It seems a really unusual petrified tree was found in the southeast part of Sylvalum. Any chance you're going back to take a closer look?
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/291'''
+{{XCX info
+|ID = 291
+|hashID=1F9E9709
+|Name=Tyrant Info
+|Caption=On the Seabird's Beak of Sylvalum, I saw a visigel that was significantly stronger than all of the others. If I'd gotten any closer, I probably wouldn't be alive to tell the tale!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/292'''
+{{XCX info
+|ID = 292
+|hashID=690CEA74
+|Name=Tyrant Info
+|Caption=We've already lost 21 BLADEs to the giant tyrant of Hilal Meadow. I can barely comprehend how dangerous that thing must be. It makes my knees tremble!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/293'''
+{{XCX info
+|ID = 293
+|hashID=42A1B84B
+|Name=Treasure Info
+|Caption=We found something near Hilal Meadow in Sylvalum. It may be alien artifact. But Ganglion fortress is very close, so there is much risk to claiming it.
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/294'''
+{{XCX info
+|ID = 294
+|hashID=D21C6DBF
+|Name=Treasure Info
+|Caption=Friendpon found ruins of Ganglion Skell at East Ciel Sandsea. As he laugh at misfortune, Marnuck emerge from inside! So awkward...er, for friendpon...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/295'''
+{{XCX info
+|ID = 295
+|hashID=F1E8B1B4
+|Name=Treasure Info
+|Caption=Did you see that big petrified tree nearby? I'd love to survey that, but it's beyond my physical capabilities. I'll just have to ask the Reclaimers to do it. *sigh*
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/296'''
+{{XCX info
+|ID = 296
+|hashID=5BD7F51A
+|Name=Tyrant Info
+|Caption=I was watching some footage earlier and noticed some of the Ganglion mechs deployed along the outer walls of Sylvalum were destroyed. Seriously!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/297'''
+{{XCX info
+|ID = 297
+|hashID=1D0FE23F
+|Name=Treasure Info
+|Caption=I wrecked my Skell near Hilal Stronghold. Let myself get distracted for just an instant, but that's all the time it took. She was the best partner I ever had... *sniff*
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/298'''
+{{XCX info
+|ID = 298
+|hashID=E3601442
+|Name=Treasure Info
+|Caption=I hear of Sylvalum cave where Marnuck hid great treasure by south wall...
+|zone = 7
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/299'''
+{{XCX info
+|ID = 299
+|hashID=B9C39001
+|Name=Tyrant Info
+|Caption=Someone said they saw an eerie, shimmering creature at the entrance to Sylvalum, but that it disappeared right in front of them. You know what that means? GHOSTS! EEEEK!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/300'''
+{{XCX info
+|ID = 300
+|hashID=A39FA83B
+|Name=Tyrant Info
+|Caption=I hear there's a cervus with golden horns in the South Ciel Sandsea of Sylvalum. I can't even IMAGINE trying to take down that thing!
+|zone = 7
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/301'''
+{{XCX info
+|ID = 301
+|hashID=11AF942B
+|Name=Tyrant Info
+|Caption=My BLADE friend said he chanced upon a Milsaadi that controls insects at the Forgotten Mining Frigates in Cauldros. He also said that she appears at night and is one tough cookie!
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/302'''
+{{XCX info
+|ID = 302
+|hashID=D84EC759
+|Name=Treasure Info
+|Caption=We spotted wreckage from the White Whale west of G'nahan Villa. I can't believe how far afield that piece fell—the ship must have completely disintegrated in midair.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/303'''
+{{XCX info
+|ID = 303
+|hashID=E8F01004
+|Name=Treasure Info
+|Caption=I heard they found debris from the White Whale on the cliffs of a small island in the western part of Cauldros, but that recovering it has proven too difficult.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/304'''
+{{XCX info
+|ID = 304
+|hashID=35DBE2FE
+|Name=Tyrant Info
+|Caption=That reminds me... There was a giant petramand that lived atop the magma waterfall in Cauldros. It would have been quite the menace had it existed on our planet.
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/305'''
+{{XCX info
+|ID = 305
+|hashID=E3D03BB9
+|Name=Treasure Info
+|Caption=We found wreckage from an alien civilization west of Mount M'gando in Cauldros. With the reward I get for excavating it, I'm gonna buy you something really special!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/306'''
+{{XCX info
+|ID = 306
+|hashID=AA60B86F
+|Name=Tyrant Info
+|Caption=They say there's a giant bird indigen at Mount M'gando in Cauldros. When I imagine myself having to fight that thing... Nope. Nope nope nope nope nope.
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/307'''
+{{XCX info
+|ID = 307
+|hashID=7D9AD045
+|Name=Treasure Info
+|Caption=I got a message from my sister saying there's a valuable-looking alien reliquary in the magma fields of Cauldros. Ooo, so exciting!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/308'''
+{{XCX info
+|ID = 308
+|hashID=5F8D60DA
+|Name=Tyrant Info
+|Caption=The entrance to Cauldros's O'rrh Sim Castle is guarded by a cutting-edge model of Galdr that shimmers like gold. There's no way I'd even make it through the front door.
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/309'''
+{{XCX info
+|ID = 309
+|hashID=9ABA32A2
+|Name=Treasure Info
+|Caption=Most of Cauldros seems to be under the Ganglion's control. But if we could sneak into their headquarters and steal their supplies...
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/310'''
+{{XCX info
+|ID = 310
+|hashID=023AFB6D
+|Name=Tyrant Info
+|Caption=During the day, you can see a really fast Seidr near the Ganglion hangar. The guy behind the controls must be one of their ace pilots.
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/311'''
+{{XCX info
+|ID = 311
+|hashID=8B66445A
+|Name=Treasure Info
+|Caption=There's a hidden treasure in an indigen's nest in Cauldros's O'rrh Sim castle ruins, right? Should I get it for the Prone lady who sits here at night to try and make her feel better?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/312'''
+{{XCX info
+|ID = 312
+|hashID=272FB14D
+|Name=Tyrant Info
+|Caption=I journeyed to Mount M'gando in Cauldros, but was beset from above by a ferocious ictus. I nearly became a kebab myself!
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/313'''
+{{XCX info
+|ID = 313
+|hashID=7CA58A69
+|Name=Treasure Info
+|Caption=Some alien wreckage was spotted near Cauldros's M'gando Gorge.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/314'''
+{{XCX info
+|ID = 314
+|hashID=B366744F
+|Name=Treasure Info
+|Caption=They say there's treasure hidden in an indigen nest in the northeast part of Cauldros. But I doubt I could get close enough to find out, even with my awesome Skell.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/315'''
+{{XCX info
+|ID = 315
+|hashID=60E4F976
+|Name=Treasure Info
+|Caption=Did you know about the alien reliquary that was found west of the Scholes Battlegrounds? It requires a pretty high level of skill to be properly investigated, if you're up for it.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/316'''
+{{XCX info
+|ID = 316
+|hashID=9FDFE8A8
+|Name=Treasure Info
+|Caption=If you head up this hill, you'll end up in a meadow known as the Emerian Battlegrounds. It's even safer over there than it is here, so feel free to check it out.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/317'''
+{{XCX info
+|ID = 317
+|hashID=E7C2FACE
+|Name=Treasure Info
+|Caption=There are remains of a Skell from an alien civilization on the Emerian Battlegrounds. I guess even they had their hands full protecting themselves from the local indigens.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/318'''
+{{XCX info
+|ID = 318
+|hashID=64115E10
+|Name=Treasure Info
+|Caption=If either of you truly love me, you'll go to Cauldros and recover the patrol copter that crashed in the lava fields!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/319'''
+{{XCX info
+|ID = 319
+|hashID=226C1824
+|Name=Tyrant Info
+|Caption=The xeno who uses a pack of caro to guard O'rrh Sim Castle is the one who killed my boyfriend! Xenoforms are our enemy! So get the hell out of here already!
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/320'''
+{{XCX info
+|ID = 320
+|hashID=358493CE
+|Name=Treasure Info
+|Caption=Yes, we've detected a badly-damaged alien container in Cauldros's north T'phnom Shelf. Do you think you will be able to retrieve anything out of it?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/321'''
+{{XCX info
+|ID = 321
+|hashID=37712E92
+|Name=Treasure Info
+|Caption=A helicopter crashed near the T'phnom Shelf. The pilot was maneuvering carefully, but was suddenly shot down from out of nowhere. It was our first fatality after arriving on Mira.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/322'''
+{{XCX info
+|ID = 322
+|hashID=B8C12AA1
+|Name=Tyrant Info
+|Caption=Have you heard about that Milsaadi named Sharnaak the Technician? He appears at night on Mount M'gando in Cauldros, then lays waste to all with these horrible weapons!
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/323'''
+{{XCX info
+|ID = 323
+|hashID=00103007
+|Name=Tyrant Info
+|Caption=The Scholes Battlegrounds are home to a caro who is an exceptional hunter. It lunges from the shadows of rocks like a loosed arrow from the bow.
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/324'''
+{{XCX info
+|ID = 324
+|hashID=E8E01AD3
+|Name=Tyrant Info
+|Caption=A buddy of mine who went to Cauldros saw an electromagnetic storm by the Forgotten Mining Frigates. He said there was a super- strong scintimure there veiled in lightning!
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/325'''
+{{XCX info
+|ID = 325
+|hashID=5C39BA16
+|Name=Treasure Info
+|Caption=They say there's an alien reliquary in the Old Ceremonial Hollow in Cauldros, you know? Maybe if I had whatever relic lies within there I could finally finally beat this guy...
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/326'''
+{{XCX info
+|ID = 326
+|hashID=1CDC813E
+|Name=Tyrant Info
+|Caption=I saw an elderly Gularth in front of Sunset Falls, just staring intently at the tumbling magma. Maybe it likes the solitude?
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/327'''
+{{XCX info
+|ID = 327
+|hashID=15AAC235
+|Name=Treasure Info
+|Caption=Some Outfitters said they found an indigen nest at a place called the Ancient Warscape? Scary. Cauldros is so so so scary. It's basically unexplorable, isn't it?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/328'''
+{{XCX info
+|ID = 328
+|hashID=F631B81C
+|Name=Treasure Info
+|Caption=Apparently Nopon friend saw White Whale wreckage at Wildcat Fortress in Cauldros. Wonder if it full of treasure?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/329'''
+{{XCX info
+|ID = 329
+|hashID=F773BDB8
+|Name=Treasure Info
+|Caption=Friend see that weird statue south of Forgotten Mining Frigates? It was broken even before Nopon get here, so stop blaming!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/330'''
+{{XCX info
+|ID = 330
+|hashID=E73680D7
+|Name=Tyrant Info
+|Caption=Strange caecus is attacking friends that go to Dragonbone Promontory in Cauldros. Maybe it think cape is home?
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/331'''
+{{XCX info
+|ID = 331
+|hashID=FE7C10CA
+|Name=Treasure Info
+|Caption=One of friends' whirly-twirly machines crashed near Sunset Falls. It not smart to fly around here!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/332'''
+{{XCX info
+|ID = 332
+|hashID=FF63677A
+|Name=Tyrant Info
+|Caption=The Ganglion seem to have some sort of un- manned weapons they call "xe-dom" on their mining ships in Cauldros. Perhaps you could use your human power to...smash them?
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/333'''
+{{XCX info
+|ID = 333
+|hashID=8DFB0959
+|Name=Tyrant Info
+|Caption=They say that at nights in Cauldros, a giant blatta emerges near the Forgotten Mining Frigates. Crazy, right?
+|zone = 6
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/334'''
+{{XCX info
+|ID = 334
+|hashID=A06EC4A5
+|Name=Treasure Info
+|Caption=This top-secret information! There is Ganglion supply crate over at Ternion Fork. Friend should sneak back later to steal it!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/335'''
+{{XCX info
+|ID = 335
+|hashID=742346EC
+|Name=Treasure Info
+|Caption=Wait. They've detected a Lifepod on Cauldros's Slavebird Isle? Say whaaaaaat? How in the heck did it ever end up in a place like that?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/336'''
+{{XCX info
+|ID = 336
+|hashID=4A1204EE
+|Name=Treasure Info
+|Caption=You're saying one of our patrol copters was shot down near the palace in the southeast of Cauldros? Damn! I can't imagine a worse place for a chopper to go down.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/337'''
+{{XCX info
+|ID = 337
+|hashID=8270B507
+|Name=Treasure Info
+|Caption=I heard they found a Lifepod in the southern part of Cauldros. If I could recover that, I'd get a huge reward! Huge, I tell you! Probably enough to buy a car!
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/338'''
+{{XCX info
+|ID = 338
+|hashID=67F46541
+|Name=Treasure Info
+|Caption=I left some supplies near the probe placement site in segment 314 on the FrontierNav maps. If you ever run into trouble, feel free to use them.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/339'''
+{{XCX info
+|ID = 339
+|hashID=565AF772
+|Name=Treasure Info
+|Caption=We were quick to rebuild after the invasion, but wreckage from the battle remains. It seems no one has bothered to clean up the debris that crashed on the top of this crane yet.
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/340'''
+{{XCX info
+|ID = 340
+|hashID=718A9F40
+|Name=Treasure Info
+|Caption=Have you noticed the strange structure floating in the northeast of FN site 501 on the segment map? Readings suggest there's treasure inside, but how are we supposed to retrieve it?
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/341'''
+{{XCX info
+|ID = 341
+|hashID=3A6EAEF2
+|Name=Treasure Info
+|Caption=I saw a weird headless statue at the Bestial Utopia. I wonder how old it is? We should take it back to NLA for analysis.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/342'''
+{{XCX info
+|ID = 342
+|hashID=F35DE190
+|Name=Treasure Info
+|Caption=We discovered a Lifepod south of Sunset Falls. We tried to recover it, but the indigens gave us so much trouble that we had to give up.
+|zone = 6
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/351'''
+{{XCX info
+|ID = 351
+|hashID=34510C04
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/352'''
+{{XCX info
+|ID = 352
+|hashID=5AF7386C
+|Name=Heart-to-Heart Info
+|Caption=Secretary Nagi is coming to inspect the Outfitters test hangar! It'll be early, but I expect you to be bright eyed and bushy tailed, you hear?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/353'''
+{{XCX info
+|ID = 353
+|hashID=06D95D5F
+|Name=Mission Info
+|Caption=Wrothians are hold fighting tournament at Outfitters test hangar. Do you think you are warrior? Go prove it!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/354'''
+{{XCX info
+|ID = 354
+|hashID=7F065830
+|Name=Mission Info
+|Caption=A Wrothian warrior is searching for able- bodied BLADEs? In the interest of establishing friendly relations, we should dispatch BLADEs to their refuge immediately.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/355'''
+{{XCX info
+|ID = 355
+|hashID=E34D3515
+|Name=Mission Info
+|Caption=This guy Hugo in the industrial district got all excited about how he'd made some earth- shattering discovery, but when he tried to explain it? Whoosh! Right over my head.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/356'''
+{{XCX info
+|ID = 356
+|hashID=172C5080
+|Name=Heart-to-Heart Info
+|Caption=In the industrial district, I spied the xenoform Celica massaging the head of a small, long-eared animal. Could that have been a form of religious worship as well?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/357'''
+{{XCX info
+|ID = 357
+|hashID=FDEEF758
+|Name=Mission Info
+|Caption=I saw a new type of xenoform in front of BLADE Tower. He said he was a Wrothian, I think? Then he mumbled something about this place being useless for training.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/358'''
+{{XCX info
+|ID = 358
+|hashID=CBD3C223
+|Name=Mission Info
+|Caption=So what was the deal with that Yardley guy at the Outfitters test hangar? Did he really think we'd give him our precious resources for his nonsensical research project?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/359'''
+{{XCX info
+|ID = 359
+|hashID=5CB1B19E
+|Name=Heart-to-Heart Info
+|Caption=There's a rumor going around that a giant ape has been climbing the tower of the Outfitters test hangar at night! And that he's holding a damsel in his oversized hand!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/360'''
+{{XCX info
+|ID = 360
+|hashID=BD4FD2EB
+|Name=Mission Info
+|Caption=I saw that Wrothian, Gi Zang, near the maintenance center. He said he was preparing for some sort of warrior's training pilgrimage, so I just got out of his way.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/361'''
+{{XCX info
+|ID = 361
+|hashID=D5C299B0
+|Name=Heart-to-Heart Info
+|Caption=This morning I saw this big, buff BLADE guy giving a fellow mechanic detailed instructions about something. He really seemed like he knew what he was talking about.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/362'''
+{{XCX info
+|ID = 362
+|hashID=A773A3E3
+|Name=Heart-to-Heart Info
+|Caption=Just before dawn, I stumbled into some secret meeting in the industrial district, and a woman there pointed a gun at me! For reals! I almost got shot!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/363'''
+{{XCX info
+|ID = 363
+|hashID=A2314F55
+|Name=Mission Info
+|Caption=Hey, you! Liza seems to be having trouble dealing with all the garbage over at the plant. Go help her with that! Go on! Move it!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/364'''
+{{XCX info
+|ID = 364
+|hashID=90A45D96
+|Name=Heart-to-Heart Info
+|Caption=My friend at the Outfitters test hangar is furious. I guess she has to go give Irina another talking-to.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/365'''
+{{XCX info
+|ID = 365
+|hashID=0D8FF557
+|Name=Heart-to-Heart Info
+|Caption=That Lin girl has been wrestling with a flight module at the Outfitters test hangar until the wee hours of the night. She truly is a diligent researcher, that one.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/366'''
+{{XCX info
+|ID = 366
+|hashID=94F765F4
+|Name=Mission Info
+|Caption=Dr. Hugo is developing a new battle data probe in the Outfitters test hangar? Intriguing. Shall we go check it out?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/367'''
+{{XCX info
+|ID = 367
+|hashID=C419597F
+|Name=Heart-to-Heart Info
+|Caption=Saw Elma on a lunch break recently. She was talking to a mechanic, and seemed worked up about something. I was gonna ask her for an autograph, but it looked like a bad time.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/368'''
+{{XCX info
+|ID = 368
+|hashID=E27BF354
+|Name=Mission Info
+|Caption=I saw Robert in the industrial district. Poor guy looked really upset about something. I wonder what happened?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/369'''
+{{XCX info
+|ID = 369
+|hashID=D07DB4B1
+|Name=Mission Info
+|Caption=That Tobias will do anything to make a buck! He's engaged in all sorts of dirty business down in the industrial district, I hear. Someone needs to give him a taste of God's wrath.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/370'''
+{{XCX info
+|ID = 370
+|hashID=2CD0C66A
+|Name=Mission Info
+|Caption=I was thinking about the Zaruboggan baby that was born in the industrial district. Can you imagine being born in a crazy place like this? Poor poor baby... 
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/371'''
+{{XCX info
+|ID = 371
+|hashID=36EAF0DC
+|Name=Treasure Info
+|Caption=There seems to be this weird container that's been dumped at the integrated production plant. What could possibly be inside it? Nothing good, I'll warrant!
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/372'''
+{{XCX info
+|ID = 372
+|hashID=DB948977
+|Name=Mission Info
+|Caption=You know that guy Hugo? He's going around the industrial district bugging every BLADE he sees to help him with some new invention. But no one wants to, and I don't blame 'em!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/373'''
+{{XCX info
+|ID = 373
+|hashID=EE35153A
+|Name=Mission Info
+|Caption=I saw a stuffed animal lying on the ground in the industrial district outside the Outfitters test hangar. There was something kind of...creepy about it, so I just kept walking.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/374'''
+{{XCX info
+|ID = 374
+|hashID=B270E2A2
+|Name=Affinity Info
+|Caption=You know a guy from the industrial district named Horonalderon? Apparently he was attacked by the Ganglion outside the city, but some weird squad came to his rescue.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/375'''
+{{XCX info
+|ID = 375
+|hashID=976115B1
+|Name=Heart-to-Heart Info
+|Caption=Now Hope's helping out in the industrial district! Is that woman just gonna work herself until she collapses?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/376'''
+{{XCX info
+|ID = 376
+|hashID=C3912A64
+|Name=Mission Info
+|Caption=I just saw a Zaruboggan in the industrial district with smoke billowing out of his backpack. Is that...supposed to happen?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/377'''
+{{XCX info
+|ID = 377
+|hashID=08771C17
+|Name=Heart-to-Heart Info
+|Caption=Irina's really nice. She's busy as all heck but still takes time out of her schedule to give advice to fellow BLADEs almost every night!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/378'''
+{{XCX info
+|ID = 378
+|hashID=795DDB1A
+|Name=Heart-to-Heart Info
+|Caption=Every now and then, Frye abstains from drinking for a night. Then he goes to the top of the bridge and looks out on New LA. What's up with that?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/379'''
+{{XCX info
+|ID = 379
+|hashID=D51B3DD6
+|Name=Mission Info
+|Caption=I saw Lara Nara flirting with his boyfriend at the terrace in front of BLADE Tower. He was saying he had some good news...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/380'''
+{{XCX info
+|ID = 380
+|hashID=31B41F53
+|Name=Heart-to-Heart Info
+|Caption=I saw a massive xenoform doing hard labor in the industrial district. There was a cute girl right beside him, but I still couldn't peel my eyes away from him.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/381'''
+{{XCX info
+|ID = 381
+|hashID=DC7F1607
+|Name=Mission Info
+|Caption=Hey, um... Listen, I just saw a xeno that I've never seen before in the industrial district. I'm not sure that it's supposed to be there...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/382'''
+{{XCX info
+|ID = 382
+|hashID=F624288F
+|Name=Heart-to-Heart Info
+|Caption=A female BLADE just went into the back alley with two scary-looking dudes. You think she's okay? She didn't look all that tough, and it's pretty dark back there...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/383'''
+{{XCX info
+|ID = 383
+|hashID=B8D36D2B
+|Name=Mission Info
+|Caption=There's a Zaruboggan around here who keeps searching for...something. I hope it's not anything weird or dangerous.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/384'''
+{{XCX info
+|ID = 384
+|hashID=3C9C7ADC
+|Name=Heart-to-Heart Info
+|Caption=I heard Frye's been spotted in the hangars at night engaging in some kind of real serious conversation. Frankly, I'm shocked he stayed sober long enough to converse with anyone!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/385'''
+{{XCX info
+|ID = 385
+|hashID=D3098ACA
+|Name=Treasure Info
+|Caption=BLADE has placed equipment caches in each district of the city. Let's hope the day never arrives when they need to use them.
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/386'''
+{{XCX info
+|ID = 386
+|hashID=E5AEB471
+|Name=Heart-to-Heart Info
+|Caption=Gwin's always following Irina around. He even waits on the bridge in the afternoons while she's going shopping! That's...pathetic.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/387'''
+{{XCX info
+|ID = 387
+|hashID=EB6C7D00
+|Name=Heart-to-Heart Info
+|Caption=I swear I'm telling the truth—Irina was actually humming to herself as she was shopping in the commercial district! What is going on with her?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/388'''
+{{XCX info
+|ID = 388
+|hashID=4DE94297
+|Name=Heart-to-Heart Info
+|Caption=So I saw Phog in the commercial district's Barista Court earlier. He was just...staring into a café of some kind. That's weird, right? Isn't that weird?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/389'''
+{{XCX info
+|ID = 389
+|hashID=D44F78D1
+|Name=Affinity Info
+|Caption=What? There's a ghost of a Nopon that appears at the top of BLADE Tower? Sh-shut up! I don't even believe in ghosts! Stop trying to scare me with your voodoo!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/390'''
+{{XCX info
+|ID = 390
+|hashID=E9DE701B
+|Name=Heart-to-Heart Info
+|Caption=I was in commercial district this morning. Saw small girl with huge giant. Is this Celica?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/391'''
+{{XCX info
+|ID = 391
+|hashID=E47B6938
+|Name=Treasure Info
+|Caption=Civilians can't open those BLADE supply boxes placed in every district of the city, right? So what are we supposed to do if something happens? Just run for our damn lives?
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/392'''
+{{XCX info
+|ID = 392
+|hashID=9B8C12D4
+|Name=Mission Info
+|Caption=You know Tracey? The Mediator? I just saw her arrest a Zaruboggan down at Barista Court in the commercial district! I hope this doesn't turn into some diplomatic disaster...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/393'''
+{{XCX info
+|ID = 393
+|hashID=4BA9A6DB
+|Name=Mission Info
+|Caption=There's a Zaruboggan named Shiraton standing in front of Rosemoss in the commercial district. That can't be good for business.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/394'''
+{{XCX info
+|ID = 394
+|hashID=A2A2E668
+|Name=Heart-to-Heart Info
+|Caption=Lately, Mia always seems to have something she needs to do late at night. Maybe she's working in the commercial district again? Man, she shouldn't be overdoing it like that.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/395'''
+{{XCX info
+|ID = 395
+|hashID=94DDC0A4
+|Name=Treasure Info
+|Caption=There's still wreckage from Ganglion Skells in the commercial district, but we've been told not to move it until the investigation is over. Come on, already! I'm tired of lookin' at it!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/396'''
+{{XCX info
+|ID = 396
+|hashID=D2A0BD51
+|Name=Mission Info
+|Caption=I just saw a man getting into a tangle with a bunch of dangerous thugs across the way. I wonder if he's okay. Not like there's anything we can do about it, but still...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/397'''
+{{XCX info
+|ID = 397
+|hashID=A53CE252
+|Name=Mission Info
+|Caption=I went to the Sunshine Café for an espresso, but they couldn't make me one! I guess the machine's broken or something? Anyway, it pretty much ruined my whole day.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/398'''
+{{XCX info
+|ID = 398
+|hashID=1F2FE3F7
+|Name=Heart-to-Heart Info
+|Caption=Around noon, I saw Doug rubbing his cheek against some dog at the Ishmael Hills steps. ...He seemed tired. Must be working too hard.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/399'''
+{{XCX info
+|ID = 399
+|hashID=3B5372FE
+|Name=Heart-to-Heart Info
+|Caption=Lin's down in the administrative district, holding court with all the ladies from the Prospectors. I see it's not only the lads who that girl's popular with.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/400'''
+{{XCX info
+|ID = 400
+|hashID=1FEF2FFB
+|Name=Mission Info
+|Caption=A weird Ma-non by the name of Chiopitus is walking in Barista Court in the commercial district. I guess he wants humans to help with an experiment, which, yeah. No thanks.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/401'''
+{{XCX info
+|ID = 401
+|hashID=8CBE1623
+|Name=Affinity Info
+|Caption=It looks like Veverta dropped her comm device, doesn't it? She seems to be wandering the commercial district saying bad things under her breath. Bad bad things...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/402'''
+{{XCX info
+|ID = 402
+|hashID=A41E6E22
+|Name=Mission Info
+|Caption=Oh my gosh! Victoria from Belle Betty Fashions is recruiting designers at Barista Court! I'm going to be so fashionable before this is all over, you won't even believe it.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/403'''
+{{XCX info
+|ID = 403
+|hashID=52060638
+|Name=Heart-to-Heart Info
+|Caption=Sometimes I see L out here in the middle of the night with a big smirk on his face. I always figure he's getting his kicks by selling strange new inventions again.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/404'''
+{{XCX info
+|ID = 404
+|hashID=7CFB64A7
+|Name=Heart-to-Heart Info
+|Caption=I saw Secretary Nagi at the intersection on North Founders Street at eight o'clock this morning! Eight! In the MORNING! So you totally HAVE to believe me now, right?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/405'''
+{{XCX info
+|ID = 405
+|hashID=D307C8AE
+|Name=Mission Info
+|Caption=...Hmm? An elder at the Nopon Bazaar is so sick he's about to collapse? That's horrible! If there's anything we can do to help, don't hesitate to ask.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/406'''
+{{XCX info
+|ID = 406
+|hashID=71CB7F68
+|Name=Mission Info
+|Caption=A Nopon named Chiroro seems to be sending out distress calls from the Floating Reef over in Oblivia.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/407'''
+{{XCX info
+|ID = 407
+|hashID=00EB7BD7
+|Name=Mission Info
+|Caption=When I went shopping at the boutique earlier, Alesa and a Ma-non named Wersal were really going at it. What would those two possibly have to argue about?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/408'''
+{{XCX info
+|ID = 408
+|hashID=0B902561
+|Name=Mission Info
+|Caption=Kirsty's in a mood about something—she's been barking orders at BLADEs near the barracks all day. Must be nice to be so pretty that you even look good when you're mad.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/409'''
+{{XCX info
+|ID = 409
+|hashID=D9ACBF81
+|Name=Heart-to-Heart Info
+|Caption=When fighting erupts in the commercial district alleyways at night, the Murderess is always watching from the crowd. Some new scheme of hers, I bet. Or maybe she just likes blood.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/410'''
+{{XCX info
+|ID = 410
+|hashID=5C67A503
+|Name=Heart-to-Heart Info
+|Caption=I met a human named Frye on Melville Street who isn't above raising a glass with Wrothians. I hope we can learn to be so cordial in our own dealings.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/411'''
+{{XCX info
+|ID = 411
+|hashID=E986EA3B
+|Name=Mission Info
+|Caption=So in the commercial district, I guess a Nopon named Bubu is worried about his wife going missing? That is so so sad...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/412'''
+{{XCX info
+|ID = 412
+|hashID=9EE7FE9C
+|Name=Treasure Info
+|Caption=I hear the wreckage of the Ganglion mechs still hasn't been fully removed from the commercial district? I guess no one wants to to to clean after surviving a huge battle.
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/413'''
+{{XCX info
+|ID = 413
+|hashID=3B82C34A
+|Name=Affinity Info
+|Caption=Drill Sergeant Wolf wants to recruit xenoform BLADEs to join the fight against the Ganglion. As if any xeno could survive his training regimen! Ha!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/414'''
+{{XCX info
+|ID = 414
+|hashID=24CEF6EB
+|Name=Mission Info
+|Caption=A Nopon named Warawa is searching Armory Alley for the super-rare gold nopopotamus Miralife Card. Hooo boy! That will NOT be easy to find...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/415'''
+{{XCX info
+|ID = 415
+|hashID=D3D5E14C
+|Name=Heart-to-Heart Info
+|Caption=When I went to lunch earlier, I saw a Ma-non arguing with some kind of xeno I've not seen before, near the restaurant. I hope that doesn't become...a thing? The arguing, I mean...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/416'''
+{{XCX info
+|ID = 416
+|hashID=0909AC85
+|Name=Affinity Info
+|Caption=I think the Mediator named Beats who patrols the commercial district is is is searching for electronic books while he works? That's human diligence for you...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/417'''
+{{XCX info
+|ID = 417
+|hashID=9753883A
+|Name=Mission Info
+|Caption=I saw Ackwar interviewing witnesses on Melville Street. Did something happen there?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/418'''
+{{XCX info
+|ID = 418
+|hashID=32C5B9E5
+|Name=Heart-to-Heart Info
+|Caption=At night, I often see Hope waiting for someone outside of a building in the commercial district. Helping out yet another poor soul in need, most likely.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/419'''
+{{XCX info
+|ID = 419
+|hashID=26559F9D
+|Name=Mission Info
+|Caption=On the Ma-non ship's deck, the Orphe were running around Sun'barac in panicked circles. *fsssh* They're a weak race like us, which means there's always a reason to worry.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/420'''
+{{XCX info
+|ID = 420
+|hashID=8493CA8F
+|Name=Heart-to-Heart Info
+|Caption=I saw Elma watching passing cars in the commercial district. Could she be protecting someone? Or maybe looking for criminals?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/421'''
+{{XCX info
+|ID = 421
+|hashID=F0200591
+|Name=Mission Info
+|Caption=A Prone named Loda Gorida was raising a huge fuss on the Ma-non ship, saying his daughter was abducted by a human. Could that really be true? Come on!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/422'''
+{{XCX info
+|ID = 422
+|hashID=A576C141
+|Name=Mission Info
+|Caption=When I went to the Ma-non ship, there was a buglike xeno called Nan'celeg that was constantly mumbling to itself. I am going to have nightmares about that for WEEKS.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/423'''
+{{XCX info
+|ID = 423
+|hashID=2DD762EA
+|Name=Mission Info
+|Caption=A Zaruboggan, I think? It was acting like it wanted to say something to me but gave up and went back to the Ma-non ship. Maybe it was looking for something?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/424'''
+{{XCX info
+|ID = 424
+|hashID=328B3864
+|Name=Mission Info
+|Caption=Bazis Wolfen is about to have a baby! ...I wonder what Prone babies look like.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/425'''
+{{XCX info
+|ID = 425
+|hashID=5AFDA1D0
+|Name=Mission Info
+|Caption=Sounds like the Prone are gearing up for a wedding! Aw, that's great. We all could use some happy news in these trying times.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/426'''
+{{XCX info
+|ID = 426
+|hashID=086B9D97
+|Name=Mission Info
+|Caption=I hear there's this Wrothian on the Ma-non ship who was saying something about an apprentice gathering steel for him? I couldn't really make heads or tails of it.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/427'''
+{{XCX info
+|ID = 427
+|hashID=F5725A25
+|Name=Mission Info
+|Caption=The Wrothians went out to fight some baddie that was running amok in Primordia, right? But but they seem to have been beaten instead. Their captain's brooding about it on our deck.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/428'''
+{{XCX info
+|ID = 428
+|hashID=F1E33C5F
+|Name=Mission Info
+|Caption=The Zaruboggan worship a god named Golbogga. I learned that from someone named Feloran up on the Ma-non ship.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/429'''
+{{XCX info
+|ID = 429
+|hashID=3CDEDBCD
+|Name=Mission Info
+|Caption=The men of the Tree Clan were just running around in a tizzy! It's some cultural thing, but believe me, you do NOT want to see something that big and strong in a tizzy.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/430'''
+{{XCX info
+|ID = 430
+|hashID=E1076090
+|Name=Mission Info
+|Caption=Sajif Scoppio was just here asking me about military tactics. It was surprising— I'd never known a Prone to be so full of intellectual curiosity before.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/431'''
+{{XCX info
+|ID = 431
+|hashID=4752AAF1
+|Name=Mission Info
+|Caption=So that Prone? Slovity? The scary one? I don't know what she's planning to do up on our ship, but I really really REALLY hope it's nothing bad...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/432'''
+{{XCX info
+|ID = 432
+|hashID=385F45E8
+|Name=Mission Info
+|Caption=Have you been following the election news? According to Sun'barac, who's been gathering data on the Ma-non ship, a dangerous new candidate has emerged.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/433'''
+{{XCX info
+|ID = 433
+|hashID=B09C5246
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/434'''
+{{XCX info
+|ID = 434
+|hashID=824B4CE1
+|Name=Treasure Info
+|Caption=I hope they clean up that wrecked Ganglion Skell on top of the Outfitters test hangar soon. It's creeping out my dates and torpedoing my social life!
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/435'''
+{{XCX info
+|ID = 435
+|hashID=B4FAAAC3
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/436'''
+{{XCX info
+|ID = 436
+|hashID=3A8D600B
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/437'''
+{{XCX info
+|ID = 437
+|hashID=01A558A4
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/438'''
+{{XCX info
+|ID = 438
+|hashID=44A500BD
+|Name=Heart-to-Heart Info
+|Caption=I went to see Elma at the barracks, but she was too lost in thought to say anything. Also, I can't believe how good she looks when she's thinking! Smart ladies are just the best.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/439'''
+{{XCX info
+|ID = 439
+|hashID=1ECAE8D8
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/440'''
+{{XCX info
+|ID = 440
+|hashID=1E89667B
+|Name=Heart-to-Heart Info
+|Caption=Defense Secretary Nagi is attending a party with the Sakuraba big shots at noon today. Shouldn't you go to the residential district to provide security?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/441'''
+{{XCX info
+|ID = 441
+|hashID=8EAE7422
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/442'''
+{{XCX info
+|ID = 442
+|hashID=A0821C8A
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/443'''
+{{XCX info
+|ID = 443
+|hashID=D06DF970
+|Name=Mission Info
+|Caption=At the Outfitters test hangar, a human named Hugo claims to be making an invention that'll reshape history. Do you think he'd let me help with his research, maybe?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/444'''
+{{XCX info
+|ID = 444
+|hashID=C558CCF6
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/445'''
+{{XCX info
+|ID = 445
+|hashID=3AB6DB34
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/446'''
+{{XCX info
+|ID = 446
+|hashID=9E9D9EE6
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/447'''
+{{XCX info
+|ID = 447
+|hashID=54020932
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/448'''
+{{XCX info
+|ID = 448
+|hashID=58A5F6BD
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/449'''
+{{XCX info
+|ID = 449
+|hashID=60D5A5E8
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/450'''
+{{XCX info
+|ID = 450
+|hashID=856273FF
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/451'''
+{{XCX info
+|ID = 451
+|hashID=7FF7009A
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of human make. Grants level 2 access.
+|zone = 3
+|category = 1
+|Skill = 1
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/452'''
+{{XCX info
+|ID = 452
+|hashID=5A7C4F5A
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of human make. Grants level 3 access.
+|zone = 3
+|category = 1
+|Skill = 1
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/453'''
+{{XCX info
+|ID = 453
+|hashID=51BA014B
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of human make. Grants level 4 access.
+|zone = 3
+|category = 1
+|Skill = 1
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/454'''
+{{XCX info
+|ID = 454
+|hashID=F35F904E
+|Name=Field Skill: Mechanical
+|Caption=A manual detailing advanced analysis techniques. Grants further access to treasure boxes of human make.
+|zone = 3
+|category = 1
+|Skill = 1
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/455'''
+{{XCX info
+|ID = 455
+|hashID=AD8E96A1
+|Name=Biological Skill
+|Caption=This technical manual primarily covers interfacing with natural objects. Grants level 2 access.
+|zone = 3
+|category = 1
+|Skill = 2
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/456'''
+{{XCX info
+|ID = 456
+|hashID=0355EC0E
+|Name=Biological Skill
+|Caption=This technical manual primarily covers interfacing with natural objects. Grants level 3 access.
+|zone = 3
+|category = 1
+|Skill = 2
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/457'''
+{{XCX info
+|ID = 457
+|hashID=B95BDEC4
+|Name=Biological Skill
+|Caption=This technical manual primarily covers interfacing with natural objects. Grants level 4 access.
+|zone = 3
+|category = 1
+|Skill = 2
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/458'''
+{{XCX info
+|ID = 458
+|hashID=918E9723
+|Name=Field Skill: Biological
+|Caption=A manual detailing advanced analysis techniques. Grants further access to treasure boxes of an organic nature.
+|zone = 3
+|category = 1
+|Skill = 2
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/459'''
+{{XCX info
+|ID = 459
+|hashID=EEAAA8E4
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of alien make. Grants level 2 access.
+|zone = 3
+|category = 1
+|Skill = 3
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/460'''
+{{XCX info
+|ID = 460
+|hashID=B5F290C1
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of alien make. Grants level 3 access.
+|zone = 3
+|category = 1
+|Skill = 3
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/461'''
+{{XCX info
+|ID = 461
+|hashID=706A6B92
+|Name=
+|Caption=This technical manual primarily covers interfacing with objects of alien make. Grants level 4 access.
+|zone = 3
+|category = 1
+|Skill = 3
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/462'''
+{{XCX info
+|ID = 462
+|hashID=B284BF02
+|Name=Field Skill: Archaeological
+|Caption=A manual detailing advanced analysis techniques. Grants further access to treasure boxes of alien make.
+|zone = 3
+|category = 1
+|Skill = 3
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/463'''
+{{XCX info
+|ID = 463
+|hashID=48FCBC26
+|Name=Tyrant Info
+|Caption=They say gigantic purgovent smashing up Oblivia's North Coast! Here's hoping friends not run into it.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/464'''
+{{XCX info
+|ID = 464
+|hashID=13D03E21
+|Name=Tyrant Info
+|Caption=There's a rocklike ovis near the Twin Arches that attacks everything in sight. ...You know what? Sometimes I really hate this planet.
+|zone = 5
+|category = 2
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/465'''
+{{XCX info
+|ID = 465
+|hashID=FCA99070
+|Name=Treasure Info
+|Caption=That signal we picked up from Oblivia's South Coast? Yeah, that wasn't part of the Lifehold. It was just being transmitted from some Skell wreckage.
+|zone = 5
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/466'''
+{{XCX info
+|ID = 466
+|hashID=AF0CCA77
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/467'''
+{{XCX info
+|ID = 467
+|hashID=A96E7BCA
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/468'''
+{{XCX info
+|ID = 468
+|hashID=A71236BF
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/469'''
+{{XCX info
+|ID = 469
+|hashID=DBAC7687
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/470'''
+{{XCX info
+|ID = 470
+|hashID=76FA792B
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/471'''
+{{XCX info
+|ID = 471
+|hashID=FE01269E
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/472'''
+{{XCX info
+|ID = 472
+|hashID=788DE6FC
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/473'''
+{{XCX info
+|ID = 473
+|hashID=421B245F
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/474'''
+{{XCX info
+|ID = 474
+|hashID=92EF5DC0
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/475'''
+{{XCX info
+|ID = 475
+|hashID=06E268FB
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/476'''
+{{XCX info
+|ID = 476
+|hashID=C04D3056
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/477'''
+{{XCX info
+|ID = 477
+|hashID=B9D815BE
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/478'''
+{{XCX info
+|ID = 478
+|hashID=6319E705
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/479'''
+{{XCX info
+|ID = 479
+|hashID=BB88FD65
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/480'''
+{{XCX info
+|ID = 480
+|hashID=D563F480
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/481'''
+{{XCX info
+|ID = 481
+|hashID=0CCB1E72
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/482'''
+{{XCX info
+|ID = 482
+|hashID=E9E2420E
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/483'''
+{{XCX info
+|ID = 483
+|hashID=5864F95F
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/484'''
+{{XCX info
+|ID = 484
+|hashID=6628555F
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/485'''
+{{XCX info
+|ID = 485
+|hashID=A709E9EE
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/486'''
+{{XCX info
+|ID = 486
+|hashID=A3D6D194
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/487'''
+{{XCX info
+|ID = 487
+|hashID=2A6C7992
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/488'''
+{{XCX info
+|ID = 488
+|hashID=03BF54D6
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/489'''
+{{XCX info
+|ID = 489
+|hashID=CA9FE44F
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/490'''
+{{XCX info
+|ID = 490
+|hashID=C53FBA97
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/491'''
+{{XCX info
+|ID = 491
+|hashID=A8E7F5E1
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/492'''
+{{XCX info
+|ID = 492
+|hashID=FB8D1771
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/493'''
+{{XCX info
+|ID = 493
+|hashID=BF2D70BA
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/494'''
+{{XCX info
+|ID = 494
+|hashID=F855FAE0
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/495'''
+{{XCX info
+|ID = 495
+|hashID=0D41BEC0
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/496'''
+{{XCX info
+|ID = 496
+|hashID=DAD80A4A
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/497'''
+{{XCX info
+|ID = 497
+|hashID=4E2849A6
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/498'''
+{{XCX info
+|ID = 498
+|hashID=FF33250B
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/499'''
+{{XCX info
+|ID = 499
+|hashID=6A08A035
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/500'''
+{{XCX info
+|ID = 500
+|hashID=1FC6BFFA
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/501'''
+{{XCX info
+|ID = 501
+|hashID=22346273
+|Name=Heart-to-Heart Info
+|Caption=I've seen Phog hanging out by himself at the lower strata beneath Deliverance Park in broad daylight. It's awfully suspicious behavior, right? Maybe we should report him to the Mediators?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/502'''
+{{XCX info
+|ID = 502
+|hashID=34725F41
+|Name=Mission Info
+|Caption=That scientist Hugo looked so so thrilled while he was tinkering with machines in the Outfitters test hangar... Maybe that means something exciting is about to happen?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/503'''
+{{XCX info
+|ID = 503
+|hashID=47CDB20C
+|Name=Heart-to-Heart Info
+|Caption=Did you know I met a human named Lin at the construction site in the residential district? Well, I did! And then she asked a million questions about our ship...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/504'''
+{{XCX info
+|ID = 504
+|hashID=C8ED1908
+|Name=
+|Caption=
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/505'''
+{{XCX info
+|ID = 505
+|hashID=3BF0B213
+|Name=Heart-to-Heart Info
+|Caption=There's a storage area behind the sports complex where Phog has been wandering around and staring at the ground all day. Guess he must have dropped something...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/506'''
+{{XCX info
+|ID = 506
+|hashID=7D5B01BA
+|Name=Heart-to-Heart Info
+|Caption=There's a BLADE named Gwin who's always training near the sports complex—even in the dead of night. I certainly don't mind putting my life in the hands of a man like that!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/507'''
+{{XCX info
+|ID = 507
+|hashID=5DE0C0E0
+|Name=Mission Info
+|Caption=I saw Fosdyke—one of the Celeste Three—at Deliverance Park in the residential district. Seriously! It was totally him!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/508'''
+{{XCX info
+|ID = 508
+|hashID=C9417F28
+|Name=Heart-to-Heart Info
+|Caption=I saw L this morning at Deliverance Park. He seems to be doing Prone dance of courtship. Is it rutting season for L?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/509'''
+{{XCX info
+|ID = 509
+|hashID=284A195D
+|Name=Heart-to-Heart Info
+|Caption=I saw a cute xeno girl sunbathing in the park. That's the sort of thing that makes me feel like everything's right with the world.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/510'''
+{{XCX info
+|ID = 510
+|hashID=640FD469
+|Name=Heart-to-Heart Info
+|Caption=I see Doug working out at the sports complex when he has time off. I don't see the point since mimeosomes don't atrophy, but he sure is passionate about it.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/511'''
+{{XCX info
+|ID = 511
+|hashID=118D0752
+|Name=Heart-to-Heart Info
+|Caption=Gwin and Mathias were having a passionate discussion about something at the water- purification plant. Those two sure are close!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/512'''
+{{XCX info
+|ID = 512
+|hashID=76B4B74A
+|Name=Heart-to-Heart Info
+|Caption=I saw this human named Frye down by the fountain in the residential district. He smelled of alcohol and seemed to be fighting with a cat? So so strange...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/513'''
+{{XCX info
+|ID = 513
+|hashID=22D49933
+|Name=
+|Caption=
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/514'''
+{{XCX info
+|ID = 514
+|hashID=61DF0BCF
+|Name=Mission Info
+|Caption=Apparently Kirsty was looking for someone in Cauldros, or found someone, or...something? I can never understand what she's babbling about when she gets excited.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/515'''
+{{XCX info
+|ID = 515
+|hashID=99F51838
+|Name=Heart-to-Heart Info
+|Caption=I just saw Gwin playing with a dog up in Ishmael Hills. ...N-not that I care one way or the other about him, of course! What are you getting so jealous about?!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/516'''
+{{XCX info
+|ID = 516
+|hashID=F32C277B
+|Name=Heart-to-Heart Info
+|Caption=I saw Mia standing in front of her Ishmael Hills home looking troubled. And that is not like her at ALL! She's about the spunkiest person I know.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/517'''
+{{XCX info
+|ID = 517
+|hashID=487EAC12
+|Name=Heart-to-Heart Info
+|Caption=If you ever need a hand, maybe talk to Hope? She can help with pretty much anything. I think she's out in the commercial district right now, actually...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/518'''
+{{XCX info
+|ID = 518
+|hashID=F7674C70
+|Name=Heart-to-Heart Info
+|Caption=Why has Phog been staring at the water- purification plant with such a serious look on his face? I don't get that guy at all.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/519'''
+{{XCX info
+|ID = 519
+|hashID=06E6D157
+|Name=Heart-to-Heart Info
+|Caption=During lunch, I saw the Murderess talking to a suspicious-looking guy at the house across from Deliverance Park. Then I walked away, because I don't want to end up in a ditch...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/520'''
+{{XCX info
+|ID = 520
+|hashID=E0020553
+|Name=Heart-to-Heart Info
+|Caption=Pets sure are incredible! I saw one cranky lady in the residential district go from super angry to totally calm, thanks to a pet. I wonder if the little fella is still there?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/521'''
+{{XCX info
+|ID = 521
+|hashID=8AF6D566
+|Name=Heart-to-Heart Info
+|Caption=Mia not like Nopon after all—she only have eye for stupid cat! Time to give her pieces of mind next time she comes to commercial district! Meh!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/522'''
+{{XCX info
+|ID = 522
+|hashID=F750BEFB
+|Name=Heart-to-Heart Info
+|Caption=I wonder what happens to the property of fallen BLADE operatives? I'm sure Doug would know, but I haven't seen him around for a while.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/523'''
+{{XCX info
+|ID = 523
+|hashID=D2B39088
+|Name=Mission Info
+|Caption=I saw a Nopon collapsed in the residential district! Poor little guy looked sick or crazy or something, so I just kept my distance.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/524'''
+{{XCX info
+|ID = 524
+|hashID=6DA09C6F
+|Name=Heart-to-Heart Info
+|Caption=Holy wow. Did you see Elma at the water-purification plant that night?! No, I... I shouldn't say anything more. I don't want her to get angry at me!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/525'''
+{{XCX info
+|ID = 525
+|hashID=5AB537C6
+|Name=Mission Info
+|Caption=Kirsty has been looking for that new member of Elma's team near the water-purification plant. She sure seemed to be excited about something.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/526'''
+{{XCX info
+|ID = 526
+|hashID=338B44BD
+|Name=Lyvia Sighting
+|Caption=Fritz was negotiating with this woman in Armory Alley, right? Next thing I know, she walked around the corner and suddenly turned into a xeno! I saw it with my own eyes!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/527'''
+{{XCX info
+|ID = 527
+|hashID=756A9169
+|Name=Heart-to-Heart Info
+|Caption=I saw Mia in the alley behind the residential district one night, and she was as perky as ever. Seeing her like that always makes me feel better.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/528'''
+{{XCX info
+|ID = 528
+|hashID=08D70F06
+|Name=Affinity Info
+|Caption=I heard an Orphean broke into Caroline's house and trashed her yard. It's all anyone's talking about in the residential district.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/529'''
+{{XCX info
+|ID = 529
+|hashID=3D6EF7A2
+|Name=Heart-to-Heart Info
+|Caption=Phog's been locked in a staring contest with a cat in Ishmael Hills for I don't know how long. What is up with that guy? He's the oddest duck in this city, and that's saying something.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/530'''
+{{XCX info
+|ID = 530
+|hashID=FA7E0B1E
+|Name=Affinity Info
+|Caption=Orphean named Kon'luarb in residential district asks lots of questions about Biahno water- purification plant. What is he planning?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/531'''
+{{XCX info
+|ID = 531
+|hashID=F2E33622
+|Name=Mission Info
+|Caption=A lady named Rosie was screaming about something over by the water-purification plant. Poor thing must be at the end of her rope. ...Or crazy. Could be that, too.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/532'''
+{{XCX info
+|ID = 532
+|hashID=3954C90F
+|Name=Heart-to-Heart Info
+|Caption=At sunset, I heard dogs barking at Irina in front of a house near the cathedral. That woman is just terrible with animals.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/533'''
+{{XCX info
+|ID = 533
+|hashID=FB4E2979
+|Name=Heart-to-Heart Info
+|Caption=I saw L staring at a cat over in the residential district. He was mumbling to himself about how one might go about eating such a creature. So, uh, yeah. Lock up your cats.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/534'''
+{{XCX info
+|ID = 534
+|hashID=2211C371
+|Name=Heart-to-Heart Info
+|Caption=Earth-alien women are strange. Some even buy big houses and live in them together.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/535'''
+{{XCX info
+|ID = 535
+|hashID=BDA5B222
+|Name=Affinity Info
+|Caption=Wendy up in Ishmael Hills was complaining that some Nopon salesman won't leave her alone. Poor thing!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/536'''
+{{XCX info
+|ID = 536
+|hashID=90EA0868
+|Name=Heart-to-Heart Info
+|Caption=I hear Secretary Nagi's paying a visit to Team Elma's quarters at the BLADE barracks. Yep, that group sure is close with the secretary... MUST BE NICE!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/537'''
+{{XCX info
+|ID = 537
+|hashID=43BF6B7C
+|Name=
+|Caption=
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/538'''
+{{XCX info
+|ID = 538
+|hashID=A52AE337
+|Name=Mission Info
+|Caption=Even Dr. Staccata couldn't find a cure for this disease. But apparently it will heal up if I visit Fraisie in the cathedral?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/539'''
+{{XCX info
+|ID = 539
+|hashID=69856DDC
+|Name=Mission Info
+|Caption=There's an extraordinarily odd Nopon in the residential district who seems to be casting some sort of spell. You don't think it's black magic, do you? Or...blood magic? Eeeep!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/540'''
+{{XCX info
+|ID = 540
+|hashID=6B468BDE
+|Name=Mission Info
+|Caption=There's a woman over at the cathedral in the residential district who's always preaching that xenos and humans are equal. No thanks, pal! Keep me far, far away from that wacko.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/541'''
+{{XCX info
+|ID = 541
+|hashID=01075058
+|Name=Affinity Info
+|Caption=I heard Letrick is out looking for a congregant who visited the cathedral while he was out. He's a diligent man, that one.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/542'''
+{{XCX info
+|ID = 542
+|hashID=E7A4A556
+|Name=Mission Info
+|Caption=There's a strange woman hanging out in the residential-district park. And when I say strange, I mean TOOOOTALLY WEIRD. She might not even be from Earth.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/543'''
+{{XCX info
+|ID = 543
+|hashID=A9342E27
+|Name=Heart-to-Heart Info
+|Caption=I saw Hope tending to flowers at the small park by the cathedral during lunch. Knowing her, it was probably a favor for someone else.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/544'''
+{{XCX info
+|ID = 544
+|hashID=DACFFED8
+|Name=Treasure Info
+|Caption=Can we take containers in lower level of residential district? They might make nice chairs.
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/545'''
+{{XCX info
+|ID = 545
+|hashID=A194D740
+|Name=Mission Info
+|Caption=Lately, traitors who deny the Ovah have appeared in our midst. On'tonam in the residential district is dealing with the situation.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/546'''
+{{XCX info
+|ID = 546
+|hashID=5E2DC8EA
+|Name=Affinity Info
+|Caption=That Phoskeran guy has been hanging out in Ishmael Hills, yelling to everyone about his newfound obsession with fortune-telling. ...He is one weird Zaruboggan.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/547'''
+{{XCX info
+|ID = 547
+|hashID=6442998B
+|Name=Treasure Info
+|Caption=Even the BLADE emergency supply caches are sort of badass. See for yourself! There's one right behind the cathedral in the residential district.
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/548'''
+{{XCX info
+|ID = 548
+|hashID=3AA39583
+|Name=Heart-to-Heart Info
+|Caption=At the guard post in the lower area, I saw Gwin spend his lunch hour talking to a newbie friend and looking all grim. He didn't even eat! I wonder what's going on...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/549'''
+{{XCX info
+|ID = 549
+|hashID=2AF7F322
+|Name=Heart-to-Heart Info
+|Caption=Lately, Irina has been spending her mornings getting her weapons modified at that BLADE gathering spot in the hangars.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/550'''
+{{XCX info
+|ID = 550
+|hashID=8FE2CB37
+|Name=Affinity Info
+|Caption=Those Ma-non sure are passionate about learning! Quiquat has been asking all sorts of questions about FrontierNav over near one of the commercial district's storage areas.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/551'''
+{{XCX info
+|ID = 551
+|hashID=4A364798
+|Name=Treasure Info
+|Caption=Who left that busted-up trailer just beyond Armory Alley? Let's at least reclaim the stuff inside that thing so it can be moved later!
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/552'''
+{{XCX info
+|ID = 552
+|hashID=53EB0EA7
+|Name=Mission Info
+|Caption=Hey, you know that Gus guy? I hear he's up to some real shady business. You ask me, BLADE would be better off without him around.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/553'''
+{{XCX info
+|ID = 553
+|hashID=5D580594
+|Name=Mission Info
+|Caption=I heard there's a Ma-non repairman in the lower level of the administrative district. He's supposed to be really talented, but he doesn't seem to be enjoying his success much.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/554'''
+{{XCX info
+|ID = 554
+|hashID=E6D380EE
+|Name=Affinity Info
+|Caption=I've been hearing Cedric grunting away in the hangars at night. Has someone asked him to create another ridiculous invention?
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/555'''
+{{XCX info
+|ID = 555
+|hashID=0EEC3122
+|Name=Mission Info
+|Caption=I just met Kirsty, the big cheese for all of FrontierNav! Sounds like she's aiming for Oblivia next. I love that passion!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/556'''
+{{XCX info
+|ID = 556
+|hashID=78383906
+|Name=Mission Info
+|Caption=That Kirsty woman is always giving my husband dangerous assignments! She says she doesn't have enough staff to survey Noctilum, but who does she think she's kidding?!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/557'''
+{{XCX info
+|ID = 557
+|hashID=783CF362
+|Name=Mission Info
+|Caption=There's a BLADE aspirant at the storage area behind Division Drive who can't get through basic training. But she refuses to give up, and poor Walter is about to lose his mind.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/558'''
+{{XCX info
+|ID = 558
+|hashID=DB488553
+|Name=Mission Info
+|Caption=Did you know Giogion and his friend L are going to make gadgets and sell them in a shop? I guess they're looking for a location in Armory Alley right now...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/559'''
+{{XCX info
+|ID = 559
+|hashID=19E3EC14
+|Name=Mission Info
+|Caption=You noticed a Wrothian atop the BLADE Tower? That would be Gu Ladha, I imagine. She usually keeps to herself like that.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/560'''
+{{XCX info
+|ID = 560
+|hashID=E31FA5FF
+|Name=Mission Info
+|Caption=Muimui at side of BLADE Tower claim to discover way to get filthy, crazy rich. What Muimui know? When Muimui know? MUST LEARN!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/561'''
+{{XCX info
+|ID = 561
+|hashID=C8F1C4BE
+|Name=Heart-to-Heart Info
+|Caption=I saw Defense Secretary Nagi behind BLADE Tower, and it looked like he was thinking hard about something. Working out the details of our next operation, I guess.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/562'''
+{{XCX info
+|ID = 562
+|hashID=13CB482C
+|Name=Mission Info
+|Caption=When I went to, er..."confer" with Kirsty, she told me not to even talk to her because she was far too busy thinking about Sylvalum. Can you even BELIEVE that?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/563'''
+{{XCX info
+|ID = 563
+|hashID=CEB1E3BB
+|Name=Heart-to-Heart Info
+|Caption=In the evenings, I often see Doug standing in the commercial district parking lot, staring at a car with a big dumb grin. I think he finally bought himself one...
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/564'''
+{{XCX info
+|ID = 564
+|hashID=774E31DA
+|Name=Heart-to-Heart Info
+|Caption=You can usually find Frye behind the diner at night, drunk out of his mind. And he's one of those mean drunks, so don't get close!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/565'''
+{{XCX info
+|ID = 565
+|hashID=A3B65887
+|Name=Mission Info
+|Caption=Kirsty was in front of the building across from the maintenance center, searching for that new crew member. I wonder what she wants with [ST:gender p1=him p2=her ]?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/566'''
+{{XCX info
+|ID = 566
+|hashID=93DBB49A
+|Name=Treasure Info
+|Caption=I hear there's wreckage from a Ganglion war machine in the residential district. Apparently it crashed while trying to land during the invasion. Want to go check it out?
+|zone = 3
+|category = 1
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/567'''
+{{XCX info
+|ID = 567
+|hashID=5810CA11
+|Name=
+|Caption=
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/568'''
+{{XCX info
+|ID = 568
+|hashID=1357C807
+|Name=Mission Info
+|Caption=I heard Carl grumbling about something over at the east gate. I wonder if he's having some sort of trouble with his assignment?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/569'''
+{{XCX info
+|ID = 569
+|hashID=46FCC559
+|Name=Mission Info
+|Caption=I just saw Julius in front of the maintenance center talking with that Orphean—Han'barac or something. Things seemed rather serious, judging by the look on Julius's face.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/570'''
+{{XCX info
+|ID = 570
+|hashID=F4581F36
+|Name=Mission Info
+|Caption=I hear Corwin's team is looking for new members. If you're interested, you should ask around at the Pathfinders' headquarters.
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/571'''
+{{XCX info
+|ID = 571
+|hashID=2AAF6033
+|Name=Heart-to-Heart Info
+|Caption=Friend Lin is buying ingredients in commercial district again. Lucky Tatsu always get to eat such wonderlicious foods!
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/572'''
+{{XCX info
+|ID = 572
+|hashID=FD76A9DD
+|Name=Mission Info
+|Caption=Earlier I saw a BLADE lady who seemed to be in some sort of trouble? But when I asked her what was wrong, she screamed and ran to the east gate. Was it something I said?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/573'''
+{{XCX info
+|ID = 573
+|hashID=69091E3D
+|Name=Mission Info
+|Caption=Do you know that stuck-up jerk, Tobias? Lately he seems to be searching for someone. And whoever that someone is, they have my deepest sympathies. Ha!
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/574'''
+{{XCX info
+|ID = 574
+|hashID=13E884D8
+|Name=
+|Caption=
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/575'''
+{{XCX info
+|ID = 575
+|hashID=773BEA25
+|Name=
+|Caption=
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/576'''
+{{XCX info
+|ID = 576
+|hashID=FF25F289
+|Name=Mission Info
+|Caption=Satie had an urgent job come up and went running off to the administrative district. It ain't easy being a mechanic, I tell you...
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/577'''
+{{XCX info
+|ID = 577
+|hashID=F3386279
+|Name=Mission Info
+|Caption=Apparently there's a group of wounded Prone soldiers at the east gate. And they're from the Cavern Clan! Whatever is going on here?
+|zone = 3
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/578'''
+{{XCX info
+|ID = 578
+|hashID=1ED2702D
+|Name=Affinity Info
+|Caption=I hear Zurranik just received a small fortune in credits from some weird Wrothian. Now he's up on the Ma-non ship, freaking out about how many Miralife Cards he can buy.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/579'''
+{{XCX info
+|ID = 579
+|hashID=9E4424FF
+|Name=Heart-to-Heart Info
+|Caption=Sounds like Colonel Elma is visiting the Ma-non ship to further human-xeno relations. No surprise, since she was a driving force behind the treaty in the first place.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/580'''
+{{XCX info
+|ID = 580
+|hashID=2BB00228
+|Name=Heart-to-Heart Info
+|Caption=Every night, L gathers a bunch of xenos at the entry passage to the Ma-non ship. Got no idea why, but I bet it's to try and sell 'em a few more bottles of snake oil.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/581'''
+{{XCX info
+|ID = 581
+|hashID=9468240C
+|Name=Heart-to-Heart Info
+|Caption=Even animals can't seem to get enough of Hope. I saw a dog playing with her in the parking lot by the tennis court. It certainly looked like it was having fun.
+|zone = 3
+|category = 5
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/582'''
+{{XCX info
+|ID = 582
+|hashID=1AA05998
+|Name=
+|Caption=
+|zone = 7
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
+{{-start-}}
+'''Extra data:Info (XCX)/583'''
+{{XCX info
+|ID = 583
+|hashID=0605422F
+|Name=Mission Info
+|Caption=So my BLADE friend? He went to Oblivia. Some place called the Dorian Caravan, I think? And he hasn't come back since. I really hope he's okay...
+|zone = 6
+|category = 3
+|Skill = 0
+}}
+{{-stop-}}
